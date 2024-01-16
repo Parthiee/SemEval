@@ -1,0 +1,1355 @@
+id,speaker,utterance,emotion
+1,good rosesh,ye kya kar raha hai rosesh? bharat tera desh! bhartiya insan hai saccha. kisi ka khat padhna nahin hai achcha.,neutral
+1,bad rosesh,"hahaha khat padh le rosesh baby or padhne de hamen bhi. kitna achcha lagta hai balon mein gel, ding dong bell.",neutral
+1,good rosesh,"kavita acchi hai lekin khayal achcha nahin hai, villain rosesh. momma ne kaha hai kisi aur ka khat padhna galat baat hai",neutral
+1,bad rosesh,"galat hai, par momma ne tumse kaha tha ki do bar brush karna aur tumne sirf ek bar kiya tha kya vah galat nahin tha?",contempt
+1,good rosesh,galat tha per,neutral
+1,bad rosesh,momma ne tumse jab green chatni mangi thi aur tumne red pass ki thi kya vah galat nahin tha?,contempt
+1,good rosesh,wo to galat tha,neutral
+1,bad rosesh,pichhle sal momma ki nayi hair style ostrich jesi thi aur tumne unhen apsara kaha tha kya vah galat nahin tha?,contempt
+1,good rosesh,han tha tha tha!,neutral
+1,rosesh,"please please please, tum log jara sophisticated argument karo na varna momma kahenge ki meri antaratma bahut middle class hai. tum log decide kar lo tab tak main yah lifafa khol ke padh leta hun.",neutral
+1,rosesh,"""my darling husband indravadan"" yah to momma ki handwriting hai...",neutral
+1,maya,"darling i know ki ham do hamare do is so middle class. isiliye to humne teesra bachcha plan kiya tha haina? lekin present circumstances ko dekh ke i am not so sure. is topic pe main tumse baat nahin kar sakti isiliye khat likh rahi hun, but kya hamen sachmuch mein yah teesra baccha. i am so confused indravadan",sadness
+1,rosesh,momma...,sadness
+2,kismi,excuse me,neutral
+2,rosesh,kaun hai kaun hai?,fear
+2,kismi,mai kismi,neutral
+2,rosesh,kis meethi raat gaye,neutral
+2,kismi,han vah sorry aapko disturb kiya so rahe the aap,neutral
+2,rosesh,nahin bus thodi si nind aa gai thi. sorry han ,joy
+2,kismi,sorry kya. baje raat ke 3:30 baje hain. sabko hi nind aati hai. bus mujhe hi nind nahin aati hai,sadness
+2,rosesh,kismi don't cry. try counting sheep,neutral
+2,kismi,kya?,neutral
+2,rosesh,man mein bed bakriyan gino,neutral
+2,kismi,"ab tak 16,824 bed bakri gin chauki mein. apne jaitpur gaon ki",sadness
+2,rosesh,toh?,neutral
+2,kismi,toh octroi wale aaye mere man mein sawal karne lage. itni sari bade bakriyan lai ho to unka octroi kyon nahin bhara,neutral
+2,rosesh,kismi mujhe lagta hai ki tum jyada hi imaginative ho,joy
+2,kismi,nahin re nahin imaginative hoti to train ki dhad dhad imagine nahin kar leti main. mujhe na train ki awaaz sunkar hi sone ki aadat hai. aapko koi aisi aadat hai,neutral
+2,rosesh,bahut pahle ek buri aadat ki,neutral
+2,kismi,kya?,neutral
+2,rosesh,angutha chusne ki,neutral
+2,kismi,angutha chusne ki aadat buri kaise hovi?,surprise
+2,rosesh,pair ka,neutral
+2,kismi,ahan,neutral
+2,rosesh,pair ulta karke i'll show you. yeh aese. aaaa. aaaa,sadness
+2,kismi,kya hua rosesh kya hua?,fear
+2,rosesh,nass pe nass chad gayi! my back,sadness
+2,kismi,ek minute ek minute. hilna mat hilna mat hilna mat. ruko ruko. yeh yah yahan dukh raha hai,neutral
+2,rosesh,momma,sadness
+2,kismi,shhh. shanti shanti ek minute 1 2 3,neutral
+2,rosesh,dard chala gaya kismi,joy
+2,kismi,han,joy
+2,rosesh,you are amazing,joy
+2,kismi,vah kya hai na mere mama ki na cycle repair karne ki dukaan hai,joy
+2,rosesh,toh?,neutral
+2,kismi,vah side mein ka bhi karte hain. hadiya jodne ka bhi aata hai unhen,neutral
+2,rosesh,ok,neutral
+2,kismi,unse sikha maine,joy
+2,rosesh,really?,joy
+2,kismi,han chaluth hai re. good night ,neutral
+2,rosesh,kismi kismi. baitho na tumhen gehri neend sona hai na,neutral
+2,kismi,haan,sadness
+2,rosesh,tumhen main apne natak ka dialogue sunao?,neutral
+2,kismi,tumhare natak ke dialogue sun ke log so jaate hain,neutral
+2,rosesh,nahin yah ek special natak tha jismein mein train ka dabba banaa tha,neutral
+2,kismi,train ka dabba?,neutral
+2,rosesh,han aise aur mera dialogue tha. train noises.,joy
+3,rosesh,oh my god yamraj uncle. mama aap night gown main corridor mein,surprise
+3,maya,o just forget about it. indu indu,fear
+3,rosesh,mom dad ki pulse nahi hai. dad gaye,sadness
+3,maya,what rubbish yamraj ji e aap abhi ke abhi isse zinda karo come on,anger
+3,yamraj,vah re kalyug ki savitri. mein chalta hun,contempt
+3,maya,nahin nahin nahin please rukiye. please mere pati ko wapas jinda kar dijiye please,sadness
+3,yamraj,uske alava dusra kuch mangi hai maya. aur han so santan chahie vah wali trick nahin mat aajmana,neutral
+3,indravardhan,are nahin yamraj ji wo aisi koi chij mange bhi na to kabhi tathasthu hargiz mat kahan. agar 100 rosesh paida ho gaye to hamara kya hoga,fear
+3,maya,o just shut up yah waqt hai joke karne ka. hello indravardhan,contempt
+3,everyone,everyone sings,joy
+3,maya,yah sab tum logon ka natak tha mujhe pahle se hi pata tha,neutral
+3,indravardhan,abhi thodi der pahle tu ro rahi thi. sahil maine kaha tha na ham donon ke bich mein koi bhi problem ho lekin waqt aane per yah mere liye sati savitri jarur banegi,joy
+3,rosesh,and momma meet him this is ramesh shirke stage actor,joy
+3,yamraj,hello,joy
+3,maya,i hate him.,joy
+3,monisha,mummy ji yah ine sab ki mili bhagat thi,joy
+3,indravardhan,han taki wedding anniversary ki party se pahle thoda maja a jaaye,joy
+3,sahil,i'm sorry mum. i love you.,joy
+3,monisha,mummy ji pata hai shirke sab ne muft mein acting ki. sirf unki costume ke 300 rupaye lage uska aadha ham de denge,joy
+3,maya,monisha please.,contempt
+4,sahil,mr. sindolin ghar mein matlab hamare parivar ke sath 7 sal bad kabhi kuchh achcha bhi hoga? i mean thoda sa,contempt
+4,monisha,han han jaise ki hamen gas ka extra cylinder mila ho yah balcony ko bahar tak khinch kar extra ka kamra banane ki permission di ho municipality ne?,neutral
+4,rosesh,aisa kuchh jahan hamari puri family ek dusre ka sath de rahi ho,neutral
+4,maya,right,neutral
+4,rosesh,aisa kuchh achcha sa dikhaiye na,neutral
+4,indravardhan,ay chambu. ham bahubhai jamuna ka ke pass cut piece centre nahin ja rahe ek shirt piece dikhaiye na,contempt
+4,rosesh,mera matlab hai jahan hamari family ek dusre ko support kar rahi ho ok ,anger
+4,mr. sindolin,ok. ,neutral
+4,sahil,ocean of the unknown,neutral
+4,maya,mountains of mistic,neutral
+4,mr. sindolin,ek minute ek minute mein jaon?,anger
+4,sahil,nahin nahin we are sorry continue,neutral
+4,mr. sindolin,oceans of the unknown mountains of mystique supportive family hand in hand that is what we seek,neutral
+5,vithal,sahil baba bete honi ko kaun tal sakta hai. bete chalo khana khate hain,neutral
+5,sahil,kitna pyar tha ham donon ke bich mein vitthal kaka,sadness
+5,maya,oh my god monisha i think tum gai,fear
+5,monisha,sahil please rona band karo na. ,sadness
+5,monisha,main zinda hoon main zinda hoon,joy
+5,indravardhan,maya mar gai hai,neutral
+5,rosesh,momma,sadness
+5,maya,dekhne do kya ho raha hai,neutral
+5,monisha,thank god khana mil gaya,neutral
+5,sahil,iska matlab khana kho gaya tha?,sadness
+5,monisha,han vah pinku hai na bahut badmash ho gai hai aajkal. aaj to uss kamini ne khana tak chhupa diya. pinku bahar nikal bathroom se,anger
+5,sahil,aisa khana ho to koi bhi chup padega yah hai kya?,anger
+5,monisha,daal aur biryani,neutral
+5,sahil,kaun si yah kali kali,neutral
+5,monisha,vah biryani hai,neutral
+5,sahil,achcha. two blue dal hai,neutral
+5,monisha,blue? daal blue hai dikhao. woh washing machine mein kapde dhote dhote daal banai thi na toh shayad,sadness
+5,sahil,hah? matlab washing machine mein aapane kapdon  ke sath garam masala dal diya?,surprise
+5,monisha,hio rabba main abhi dekh kar aati hun pinku bathroom se bahar nikal,fear
+5,vithal,baba baba main kuchh dusra banaa kar le aata hun,neutral
+5,sahil,nahin nahin vithika ka rahane dijiye mujhe bilkul bhookh nahin hai. mujhe bahut yad a rahi hai,sadness
+5,rosesh,kiski?,neutral
+5,indravardhan,obviously maya ki,neutral
+5,maya,sahil,sadness
+5,sahil,mum,sadness
+5,maya,main hun iska matlab tum indu,neutral
+5,indravardhan,nahin nahin rosesh ki baat ho,fear
+5,maya,sahil darling control kisi na kisi tarah hamen to jina hi hai na. yah dekho obituary bhi chhapke a gai,sadness
+5,indravardhan,is taraf ghumana ham bhi dekhen,neutral
+5,maya,main jid ki tabhi newspaper walon ne yah photo aur shok sabha ki details page 3:00 per chhape. varna obituary page per obituary aana is so middle class,sadness
+5,rosesh,hi momma,neutral
+5,rosesh,yaay whopie i am alive,joy
+5,indravardhan,iska matlab sirf mein baj gaya maya,neutral
+5,maya,on the contrary to nahin bacche indu,fear
+5,rosesh,shradhanjali suniye. kichud kichud kan kan kan achanak dhan tana nan,neutral
+5,rosesh,jindagi ko khatm karne a gaya maran,sadness
+5,maya,oh god,sadness
+5,indravardhan,maya kaun guzar gaya,neutral
+5,maya,thank god hum sab  hai,neutral
+5,rosesh,whoppie,joy
+6,monisha," mamee jee, sandwichh?",neutral
+6,maya," nahin, nahin, nahin. tum log khao.",sadness
+6,monisha," mamee jee, plaiasai kha leejie na? mere khaatir.",neutral
+6,maya," monisha, plaiasai.",neutral
+6,rosesh," momm, kha leejie na. daddy ko kuchh nahin hua hoga.",neutral
+6,sahil," mom ham chaalees offichais ke lifts bhee chhaichk kar aaye hain. dad kisee lift mein nahin hai. you don’t worry, huh?",neutral
+6,rosesh," aur ham polichai station bhee gaye the, na, momm. vah daddy kee laash nahin thee na.",neutral
+6,dushyant,achchha aap ne wallait chhaichk kiya tha laash ka?,neutral
+6,sonya," dushyant, ek baar chahera chhaichk kar liya phir wallait chhaichk karane kee kya zaroorat hai.",anger
+6,dushyant," nahin nahin, har tarah kee tasallee karana zarooree hai, sonya. i’ll aixplain.",neutral
+6,monisha," jeeja jee, vah laash jis aadamee kee thee, usane khudakhushee kee thee. ab daddy jee bhala khudakhushee kyon karenge?",neutral
+6,maya,tumhaare haath kee banee sandwichh khaate to zaroor khudakhushee karane kee koshish karate. is mein chatanee hai ya mirchon ka khet?,disgust
+6,monisha," oh my god, bahut teekhee banee hai kya? laie. main us mein gud daalake aatee hoon.",neutral
+6,maya," my god! sandwichh mein gud? plaiasai givai mai a braiak, moneesha. rosesh, tumane railway station mein phonai kiya tha na.",neutral
+6,dushyant," maine. maine phonai kiya tha. mujhe pata chala hai ki ek achchidaint ho gaya  hai, ek train dairail ho gayee hai. par vah goods train thee. maal gaadee. don’t worry, mom train ko bilkul nuqasaan nahin pahuncha hai. kyonki kya hai, ki train ka aiquilibrium hota hai, vah low hota hai. i’ll aixplain. maan lo ki, rosesh kee kamar, train ka dibba hai.",neutral
+6,sonya," dushyant, chhoo chhoo gaadee ham baad mein khelenge. mom, dad ka voodoo chhart bata raha hai, vah kisee gupha mein hai",neutral
+6,maya,gupha mein?,surprise
+6,rosesh,you maian chavai? lekin dad chavai mein kyon jaenge?,neutral
+6,dushyant,soosoo?,neutral
+6,rosesh,how gross!,disgust
+6,dushyant," naturai’s chall. praissurai badh gaya hoga, to gupha mein. kyonki kidnaiy ka kya hota hai, i’ll aixplain. to rosesh…",neutral
+6,rosesh," dushyant main kidnaiy nahin banoonga, okay.",anger
+6,dushyant,okay. mom…,neutral
+6,maya," nahin, plaiasai, ham sab samajh chuke hain, tum moneesha ko samajhao.",anger
+6,monisha," mamee jee, kuchh to kha leejie.",neutral
+6,maya," no thanks, beta.",sadness
+6,monisha," mamee jee plaiasai. dekhie na, maine sheera banaaya hai.",neutral
+6,maya," tab to daifinitaily no thanks, beta",disgust
+7,indravardhan,fir to tumhen 100% jail hogi sharman,neutral
+7,sharman,it's preposterous uncle partner ke daddy heart attack ka natak kar rahe hain aur kuchh nahin han ,contempt
+7,indravardhan,icu mai lete lete,neutral
+7,rosesh,hi guys hey sharman what a pleasant surprise. tumhari to shaadi hone wali thi na,joy
+7,sharman,uncle man lijiye ki main roses ko thappad mara,neutral
+7,indravardhan,theek se samjha actually thappad maar,neutral
+7,rosesh,kyuu,surprise
+7,indravardhan,are bhai ye apne case ka demonstration dikha raha hai,neutral
+7,sharman,lekin uncle rosesh ke bal bhi to jalane padenge na,neutral
+7,rosesh,noo,fear
+7,indravardhan,haan to jala,neutral
+7,sharman,nahin uncle please assume ke main rosesh ko thappad mara rosesh gira hello mein aag lagi ab aapka kya reaction hoga,neutral
+7,indravardhan,hahahaha meri zor zor ki fansi ke rukne bad ka reaction na hahaha,joy
+7,sharman,"uncle please, it's a serious stuff kya aapko heart attack hoga",neutral
+7,indravardhan,"no , i dont think so",neutral
+7,sharman,point proved,neutral
+7,indravardhan,kyunki jo rosesh ki kavita ko first prize mila tha na tab bhi mujhe heart attack nahin aaya,contempt
+7,rosesh,that was a great poem. ok. title tha chappal ki chu chu ne chidiya ki chi chi se chilla chilla kar kaha chidiya ki chup suno chappal ki chu chu ne chidiya ki chi chi se chilla chilla kar kaha,joy
+7,indravardhan,chup dekha tumne to iske bal kyon jalane wale the tum yahan kyon aaye ho yah sab chhodkar ja apni kavita sunane baitha ise kavita,anger
+7,madhu,hello! good evening indravardhan,joy
+7,rosesh,are madhu phufa aapke yahan itna bada bag leke,joy
+7,indravardhan,ab mujhe zaroor heart attack ayega,fear
+7,madhu,arre sharman tu yahan. everything ok,neutral
+7,sharman,yaa i'm  ok,neutral
+7,madhu,nahi maine pucha everything ok,neutral
+7,sharman,i said i'm ok,anger
+7,madhu,yah bahra hai kya,contempt
+7,indravardhan,vah chhodo madhusudan bhai aap itna bada briefcase lekar ke yahan kyon aaye ho,fear
+7,madhu,bag voh to maiya ne kaha tha ki police welfare assosciation ke liye kuchh chijen donate karni hai toh mai kuch cheejen is me le aya,neutral
+7,rosesh,police se yad aaya abhi radio fm mein news flash aaya tha ki mh tu02ak722 ,neutral
+7,sharman,yah to meri kar ka number hai indu uncle,fear
+7,rosesh,lekin unhone tu kaha usmein ek mujrim faraar hai,neutral
+7,indravardhan,han to vah mujrim yahi hai rosesh,anger
+7,rosesh,kya kabse,surprise
+7,indravardhan,abhi abhi shuru kiya hai side business are bevkuf police bachne ke liye hi to yahan aaya hai,anger
+7,rosesh,like a good citizen mein police ko phone kar diya hai ki vah gadi yahi pak hai building ke neeche,neutral
+7,indravardhan,bolo,neutral
+8,sahil,manisha tum theek to ho,fear
+8,monisha,mummy ji theek hai?,neutral
+8,maya,han han main bilkul theek hun beta,neutral
+8,sahil,to main bilkul theek nahin hun sahil. mujhe bahut dar lag raha hai sahil. help!,fear
+8,indravardhan,sahil voh elevator service centre per phone lagaya to pata chala unka chief engineer bahar gaon chala gaya hai ,neutral
+8,dushyant,aur junior engineer ko jaundice ho gaya hai,neutral
+8,maya,oh god ab kya hoga?,fear
+8,dushyant,uska liver kamjor ho jaega aur vah protein or alcohol digest nahin kar payega. i'll explain,neutral
+8,indravardhan,nahin to liver maya ko banaa ja,contempt
+8,dushyant,mom maan lijije ki aap liver hai,neutral
+8,maya,enough dushyant!,anger
+8,monisha,aaa! sahil! andar tubelight hai vah bhi kanch ki,fear
+8,sahil,monisha maine kitni bar kaha hai tumse ine baton per vishwas mat karo,anger
+8,maya,aur tubelight kanch ki nahin hogi aur kis chij ki hogi monisha. hahaha! waise andar kuch kale rang ka hai kya,contempt
+8,indravardhan,hai na. jo lift man ka stool hai vah kale hi rang hello nahin kuchh bhi nahin. ka to hai,neutral
+8,monisha,sahil sahil mein saanse nahin le pa rahi hun lagta hai oxygen khatm ho raha hai ,fear
+8,sahil,tum jindagi bhar is lift mein band rahi na tu bhi oxygen khatm nahin hone wala.,anger
+8,indravardhan,aur han jahan tak khane peene ka sawal hai ham vah kisi na kisi tarah dalte rahenge. han sirf tv nahin dekh paogi tum,neutral
+8,sahil,dad! please.,contempt
+8,rosesh,galat time par galat baat karna dad ka nature hai,anger
+8,indravardhan,really ,contempt
+8,rosesh,hatie hatie. bhabhi! maine aapke liye shradhanjali likhi hai. kaisi lagi bataiyega. hamen pata nahin tha jara bhi ki lift mein hi chal jayegi bhabhi. hum,neutral
+8,sahil,rosesh out! out!,anger
+8,rosesh,main ghar ke out hi to hun,neutral
+8,sahil,so go in. dad ine donon ko aap in le jaaiye,anger
+8,indravardhan,chalo chalo,anger
+8,monisha,aaaaaa! sahil lift hil rahi. lift hai jhatke de rahi hai. main upar ja rahi hoon sahil.  main bhagwan ke ghar ja rahi hoon,fear
+8,sahil,tumhen kuchh nahin hoga shut up,anger
+8,monisha,sahil,fear
+8,sahil,lft khul chuki haii. please bahar aayi. come out. hamesha jaldbazi mein ground floor ka button ke bajeye top ka button dabba ti tum,anger
+8,monisha,"nai sahil iss baar maine theek button  dabaya tha. lekin stop ke button pe jo bhindi thina, usse nikal rahi thi",sadness
+8,sahil,are jarurat kya thi tumhen yah manhoos bhindi vahan se uthane ki,anger
+8,maya,sahil shant ho jao. vaise hi yah vichari kitni gairi hui hai. tum use aur dant rahe ho. come on beta come on. bass ab rona band karo. are chodo se chodo chodo. monisha monisha!,neutral
+8,indravardhan,are sahil! ,neutral
+8,maya,tum suno you are safe ab sab kuch thik thak ho gaya tum chup karo rona,neutral
+8,monisha,mummy ji main bahut dar gai thi. agar mujhe kuchh ho jata toh sahil ka kya hota,sadness
+8,maya,vah sab to theek hai per kuchh nahin hua hai na to main agar soniya ki bhavishyvani sach hone wali hai aur ham mein se koi ek marne wala hai aaj ,neutral
+8,monisha,aaaaaa,sadness
+8,maya,yah mein ya tum. toh isn't it better ki ham yah aakhiri din shanti se bitaen ,neutral
+8,monisha,aaaaaahaaa,sadness
+8,maya,like mature sensible people. manisha sundar hi hona ,neutral
+8,monisha,aaaahaaaa,sadness
+8,maya,kyunki is tarah ka rona dhona shor machaya corridor mein is too middle class. chalo tum.,contempt
+9,monisha,keya bigara hai maine tera? haa,anger
+9,maya,mera table. dekho kitna ganda kar diya. ,sadness
+9,monisha,"bigarne de, bigarne de. mana ki tu har cheez me mujhse better hai, ghar sajane main, khana pakane main, kapre pahenne main. ",anger
+9,maya,kapre pahenne main monisha? ,disgust
+9,monisha,tune mujhe toka?,anger
+9,maya,sorry,fear
+9,monisha,nehi mention not,neutral
+9,maya,"it's all right hai kahte hain monisha, for god's sake, mention not ",disgust
+9,monisha,tune mujhe firse toka?,anger
+9,maya,har cheez mai middle class,disgust
+9,monisha,teri toh mai,anger
+9,maya,"aaaaah, indu indu",fear
+9,monisha,"kab tak tokega haa? tok tok tok tok tokte rahti hai. kash ki tune iye mobile phone hoti, kamse kam tera toka toh limited hota ",anger
+9,monisha,samjhi? tok tok tok tok ,joy
+9,maya,"samaj gayi, mai janti hun ki mai tujse har cheez mai better hu, lekin tera dil mujhse better hai. ",contempt
+9,monisha,haa,neutral
+9,maya,thora sa. and i hate you for it. ,contempt
+9,monisha,you hate me?,neutral
+9,maya,i hate you. ,disgust
+9,monisha,you hate me mayapuri? ,contempt
+9,maya,i hate you. ,disgust
+9,monisha,i haat you.,disgust
+9,maya,"monisha, hurt hota hai, not haat ",disgust
+9,monisha,haat. tu haat. sahil. ,joy
+10,rosesh,"okay momma, ish clue ke hisaab se iye ",neutral
+10,maya,"rosesh, wo trophy tumhare kaan me toh nehi hogi na? ",contempt
+10,rosesh,"oh right momma, agar hoti toh mujhe toh pata chalta hi. lekin momma kaha chupayi hoge sahil bhai ne trophy? maine ek ek kona chan mara hai. iye dekhiye, 27 wa namkeen ka packet. aur iye bag bharke faltu jokes pokes. aur iye, sabun ke dibbe ke andar chocolates. pata nehi kaha rakhi hogi. isme se bhi? mere lagbhag 135 kavitaye dad ne chupahi he. see this one was my favourite momma. gutter ka medhak, trau trau trau",sadness
+10,maya,"okay rosesh, i am sure that this is wonderful sweety. lekin abhi hamare paas iske liye wakt nehi hai na",contempt
+10,rosesh,right,neutral
+10,maya,monisha se pahle sahil ke samne hume wo trophy rakhni hai na,neutral
+10,rosesh,toh ab keya kare momma? ,fear
+10,maya ,well wo trophy nehi mil rahi hai toh market se ek aaise hi dusri trophy le karke hum sahil ko de sakti hai nehi? ,neutral
+10,rosesh,you mean aise hi trophy khareed karke hum sahil bhai se kahenge ki sahil bhai hum e trophy mil gayi ,neutral
+10,maya,ha,neutral
+10,rosesh,momma,contempt
+10,maya,"are rosesh iye ek choti si innocent si bilkul masum si nirdosh cheating kahi ja sakti hai lekin acche kam ke liye hai. sahil ki bhalai ke liye hai. jara socho, agar sahil monisha ko le karke ush party me jayega toh uske reputation ka keya hoga? isi liye ek chota sa jhunt bolna is not wrong na? is not wrong na? ",neutral
+10,rosesh,no. krishna bhagwan ne bhi iye hi kaha hai ki jisme dusro ki bhalai ho aisa jhoot bol sakta hai.  ,neutral
+10,maya,right,neutral
+10,rosesh,toh momma chaliye na duplicate trophy le kar aye ,neutral
+10,maya,kam me deri kyun? maine already wo trophy khareed ke rakh liye hai. ,joy
+10,rosesh,momma ,joy
+11,sahil,darling hamare ghar me mirchi ka anchar nehi banta na ,neutral
+11,monisha ,tumhe mirchi hajam kaha hoti hai?,neutral
+11,sahil,aaj tak aadat nehi dali isi liye. but i think we should give it a try. khane me jara swad barega. ,neutral
+11,monisha ,mirchi,sadness
+12,maya,sahil. monisha hain ghar mein?,joy
+12,sahil,na nahi mom.,joy
+12,maya,to suno. sahil monisha se saadi kaarke tum bohot badi galti ki.,sadness
+12,sahil,mom!,neutral
+12,maya,"nahi agar tum nahi sunna cahati ho to mein chali jaati hoon yaha se. i have to tell you ki wo mrs samtaani ke champange party mein kya kiya. usne doodh maanga. wo bhi maasale wala. aue jab saab loog ne cheers kaha to wo ne bola ""cheers ki kya jaroorat hain, sofa to hain na gham mein"" aur phir aapne ki joke mein hi zor zor se haasi. aue jab aur koi ne haasa to wo ne joke saamjhaya. ki cheers chairs kursi. aue phir ussi ne sabke saamne chamcha maanga. chancha.",disgust
+12,sahil,mom chamach maangne mein kya burayi hain!,neutral
+12,maya,glass mein jama huya maasala khaane ke liye. aue phir ussne glaas eyaaa karke khaali kiya. cortesy ki khaatir cheers bhi nahi kaha usne.,contempt
+12,sahil,mein unse kaahunga,neutral
+12,maya,absolutely!,anger
+12,sahil,ki kam se kam cheers to kahena cahiye!,neutral
+12,maya,right!,neutral
+12,sahil,ki bhaleyi haat mein doodh ka glass kyu na ho.,neutral
+12,maya,"absolutely, lekin please tum usse strict ho kar baat karna sakt sabdo mein. jusr say monisha…monishaa! hello! my darling!",joy
+13,jugalkishore,yaha rehkar mein usse dur nahi reh payoonga monisha!,sadness
+13,monisha,pagal ho gaya tu jugal! ek baar peheli baar deekha aur deekhte hi pyaar ho gaya? atey naisha maussi ki 50% doscount ki coupan hain,anger
+13,jugalkishore,arey mujhe to wo 75% ki doscount ki coupon jaise pyaare laagi monisha.,sadness
+13,monisha,chalo mana. mana ki hoongi wo tere 75% discount waala coupon jaisi pyaari lekin srif discount pe mat ja jugal. sale mein akhir hain kya ye to dekh! dhokha kha gaya to?,anger
+13,jugalkishore,aisa mat bol monisha!,fear
+13,monisha,us din mega mall pe plastic ki cheezon pe 50% ki sale chal rahi thi. deewano ki tarah bhaagti hui wahan gayi aur 2 balti aur 7 drum khareedkar le aayi. par pata hain kya hua? a mere saath….dekh dekh iss gamle ko. garam sanbhar daalte hi plastic pighal gaya. ab ye srif thandi cheezein rakhne ke kaam aata hain. dekha?,sadness
+13,jugalkishore,"monisha, ek tumbler kharaab ko kya saare tumbler kharaab? kal kya tu nahi kaha ki wahan se tu jo balti khareeda tha wo bohot majboot aur paisa wasool nikli?",neutral
+13,monisha,kaha tha!,sadness
+13,jugalkishore,"fir? ho saakta ki naisha tumbler nahi, baalti ho!",sadness
+14,sonya,"mom, guru saaf saaf bata raha hain ki lease ke papers salamat hain, ehi kahi hain",surprise
+14,maya ,"sonya darling, please locate those papers. ek toh municipal corporation ne hume notice bheja hain, upar se building residance association ne bhi notice bhej diya. agar char din ke andar andar hum ne wo lease ke papers submit nehi kiye, toh hum per ekkish fraud ke cases daarj ho jayenge. ",fear
+14,rosheh,"bechere daad bankrupt ho jayenge, sahil bhai ki gari bik jayegi, bechare ko cycle pe jana parega clinic. ",fear
+14,maya ,are clinic bhi toh bik jayega,fear
+14,rosheh,"ha sahil bhai compounder ban jayega kisi doctor ke. aur mama, aap ko toh aachar, papad aur khakra bechna parega ghar ghar pe jake. khakra le lo ",fear
+14,maya ,"sweety shail ki compounder banne tak toh baat theek thi, lekin main aachar papad aur khakra le kar ghar ghar pe nehi jane wali hun, its just too middle class. oh come on sonya think of something. ",fear
+14,sonya,"oh mom please give me some time, let me think. ",neutral
+14,maya ,kuch sujha?,neutral
+14,sonya,ek rasta hain,joy
+14,maya ,keya,surprise
+14,sonya,"sirf baa jante the lease ke papers kaha rakhe hain, right? ",neutral
+14,maya ,unfortunately,sadness
+14,sonya,"toh agar hum baa se hi puche papers kaha hain, toh? ",neutral
+14,rosheh,"oh my god, wo upar swarg main hain, uha kyun jayega? ",fear
+14,sonya,"oh silly boy, hum baa ke atma ko niche bulanyenge. ",joy
+14,maya ,oh you mean,joy
+14,monisha,main janti hun ek agori baba ko. wo 100 100 rupay main jiski chaho uski atma ko niche bula dete hain,joy
+14,sonya,"bhabhi 100 rupay main kohi taxi main baith kar kandivali se kolawa bhi nehi ja sakta, toh kohi upar se iha niche kaise aa sakta hain ",contempt
+14,maya ,"and besides agori baba is just too downmarket. sonya, tum kisi paranormal studies ya occult science ke expert baba ko nehi janti? ",neutral
+14,sonya,"yes mom, ek occult science ka student hain, krish majumder. ",joy
+14,maya ,"oh you mean sanjeevani and santanu majumder ka baba, i mean beta ",neutral
+14,sonya,yaaaa,joy
+14,monisha,wo jante hain bhut pret ko bulana?,joy
+14,maya ,monisha please bhut pret kahe karke use cheapen maat karo,contempt
+14,sonya,its called atma ropon proyog,neutral
+14,maya ,that sounds classier,joy
+15,monisha ,bakura bakura iye sab keya ho raha hain? bakura kaha mar gaye sab ke sab bakura,anger
+15,indu,"are baa baa dekho, dulhan aa gayi baa",joy
+15,rosesh,lekin baa ko pata chal geya to?,fear
+15,indu,"chup kisi ko kuch pata nehi chalega. are baa ko manane ka ihi ek tarika hain. nakli saadi, nakli dulhan samjha. aur sun tu ihi khada rahe, mai jar bulaun tab ana. ",neutral
+15,monisha ,bakura,neutral
+15,indu,"haa baa baa, dekho aapki dulhan aa gayi. ",joy
+15,monisha ,"iye sab keya ho raha hain daddy ji, kaisa halkat appka. sahil ne toh haa kar di. ",fear
+15,indu,"fikar mat karo. rosesh ko main le aya hun dulhan banake, sab thik ho jayega. aha, rashika baby, ayo ato baa ke paho paro, ayo",joy
+15,sahil,"rukiye. daad, baa ko dhoka dete hue aapko saram nehi ayi? ",contempt
+15,indu,"are, maine keya dhoka diya? mai toh iye",fear
+15,monisha ,keya hua babla? ,neutral
+15,sahil,"iye dulhan nehi hain baa, rosesh hai.",anger
+15,rosesh,hi baa,neutral
+15,monisha ,keya bakura ,surprise
+15,sahil,"daad, aapki ma ke sath aapne itna bara biswasghat kiya ",contempt
+15,monisha ,waise babla iye rosesh bhi itna bura nehi lag raha hai. ise le jaa,neutral
+15,sahil,nehi baa nehi. aapki aakhri iccha ke sath mai itna bara khilwat nehi hone dunga. mom,neutral
+15,maya,ha ha ilaben jaldi aa bhi jao. mandap puraj bas suru hone hi wala hain. sarita ki beti preeti ke saath finally saadi ho raha hai meri sahil ki ,joy
+15,sahil,"pandit ji, aap kriyakaram suru kijiye",neutral
+15,monisha ,widhi babla widhi. kriyakaram toh aab mera hoga,fear
+15,maya,aapko kyun kuch hoga baa?,neutral
+15,person,jaldi aa jao bhai muhurat ka samay ho raha hai ,neutral
+15,maya,"are pandit ji suru kara hai, cholo cholo indu, come on rosesh ",neutral
+15,indu,ha ha chalo chalo mai bhi aa jau ,joy
+15,monisha ,bakura,anger
+15,indu,haa haa baa,neutral
+15,monisha ,sahil babla toh saadi kar raha hai bakura ,fear
+15,indu,"ha ha baa, mai kuch nehi kar sakta",fear
+15,sahil,"rosesh baa ko iha le aao, aur preeti ki ghar pe phone karna. kahna do baaje tak iha pouche, dhai baje fir lenge",joy
+15,rosesh,okay. chaliye baa mandappuraj suru ho gayi hai,joy
+15,monisha ,bakura bakura,fear
+15,person,[chants mantra],neutral
+15,indu,hey sahil tere saadi toh ho chuki hai,neutral
+15,sahil,"daad building bachane hai ki nehi. aur waise bhi aaj aakhri din hai, lease hasil karni hain. ",neutral
+15,maya,"absolutely. desperate timess, desperate measures. infact agar baa mujhe bhi kahe na toh mai bhi saadi karne ke liye taiyaar ho jayun. ",neutral
+15,monisha ,bakura ,anger
+15,maya ,chaliye,neutral
+15,person,[chants mantra],neutral
+15,monisha ,"hey pandit ji ruk jao, ruk jao iye. babla mujhe tere iye kapre bilkul pasand nehi hai, tu nayi kapre leke aa, fir saadi karna haa? ",neutral
+15,sahil,"bilkul baa, in fact saadi ki wakt mai ek brand new suit karidne wala hun, aap ko pata hai iha parosh mai mega mall hain. waha pe do ghante ke liye ninety percent ka discount chal raha hai, ",joy
+15,monisha ,ninety percent discount sell do ghante ke liye. bakura mere pair ,fear
+15,maya,"kat dun, monisha? ",contempt
+16,maya,hello sudhanshu,joy
+16,sudhanshu,flower for my darling maya,joy
+16,indravardhan,are ek hi phool..pura bouque kharidne ke paise nhi the?,neutral
+16,sudhanshu,funny man,joy
+16,maya,yess,joy
+16,sudhanshu,maya ab mujhse aur sabar nhi kiya jata..,neutral
+16,indravardhan,achha to washroom us taraf hai,neutral
+16,sudhanshu,or bedroom kis taraf hai?,neutral
+16,indravardhan,kyu?,neutral
+16,sudhanshu,maya ki painting mai ek bahut hi passionate jagah pe banana chahta hu...chale?,joy
+17,sahil,all set dad..great dekhiye mai aapko missed call dunga uske baad aap apna romance shuru kijiye,joy
+17,roshesh,momma aap nhi samjh rhi,sadness
+17,maya,tum chup karo bas,anger
+17,sahil,woow nashik jane ke liye ready,joy
+17,maya,wo to hmlog indravardhan ke nazro me nashik jaa rhe..actyally hum tumhare yha chhupane wale ,neutral
+17,roshesh,nhi momma,sadness
+17,maya,"indravardhan us yashodha ko hmare ghar lekar aane wala hai,hamri gair maujudgi me",neutral
+17,roshesh,momma wo aapko ullu bna rhe hai..koi yashodha nhi hai,sadness
+17,maya,sahil ne dono ko saath me dekha hai coffe shop me..btao na tum sahil,fear
+17,sahil,kya btaau dad apne sleeve se aashu poonch rhe the,neutral
+17,maya,ghosh,disgust
+17,sahil,us yasodha ke..hotel sunvilla ke coffe shop me,neutral
+17,roshesh,hotel sunvilla ..lekin wo to rennovation ke liy band hai mumma,neutral
+17,maya,really?,surprise
+17,sahil,"mujhe bhi aisa hi lga tha,,but kal hi wo reopen huai hai..mom esiliye to dad waha gye honge na ki hotel ka renovation chal rha hmme se koi waha jayega nhi..",neutral
+17,maya,right,joy
+17,roshesh,aap ullu bna rhe sahil bhai..challenge jeetne ke liye aap ullu bna rhe hai,sadness
+17,sahil,roshesh give me a break mai bahut hi serious hu,anger
+17,roshesh,nhi..aap ullu bna rhe hai sahil bhai,sadness
+17,maya,"sahil tumhe bandar bna skta, gadaha bna skta..lekin tumhe ullu nhi bna skta...qki ullu to tum pehle se ho hi...sahil aaj mai indravardhan ko red handed pakadne wali hu,he is in deep trouble",anger
+18,maya,i can't take it! i just can't take it!,anger
+18,rosesh,aapne aap ko saamhaliye momma please,sadness
+18,maya,duniya mein justice naam ke koi cheezhi nahi hain! i mean wo monisha jisne mona lisa ki painting mein mooch bana sakti hain uske liye koi picasso,sadness
+18,rosesh,wo bhi uske long lost uncle. jisko wo 20 saal se phone tak nahi kiya!,neutral
+18,maya,kya zaroorat thi aisa karne ki i mean koi choota mota gift de dete…you know jaise ya thermos ya…,contempt
+18,rosesh,ashtray,neutral
+18,maya,ya statue of liberty ka coffee mug,contempt
+18,rosesh,ya ghadi…ek dail ke saat mein che alag alag color ka strap,neutral
+18,maya,that’s right! international middle class. lekin picasso ka headless hero?,sadness
+18,rosesh,haan very sad! momma aapka koi long lost uncles nahi hain kya?,neutral
+18,maya,"hain, sab zinda",sadness
+18,rosesh,really really very sad,sadness
+18,maya,"you know what the worst thing is, ki crorepati banne ki baad monisha aur bhi middle classiyat dikhayegi",disgust
+18,rosesh,bhabhi to bol rahi thi ki wo bohot saare paise kharch kaarenge.,neutral
+18,maya,haan sure….but tumhe pata hain na uske bohot kharch karne ka style. new york ka koi boutique mein se gown khareedenge to bag free mangegi. paris ki koi salon mein ja kar ke bolegi dono arm waxing karana hain sahi bol na.,contempt
+18,rosesh,relax momma..bhabhi ne galti se passport de di hain raddi waale ko.,neutral
+18,maya,good! noo that is worse. agar yahan rahegi to manglu baba ya lakkar baba ke naam pe mandir banwayegi. vada paw restaurant ka chain kholegi. oh god we are in serious trouble rosesh.,sadness
+19,sahil,"umm, monu, khana tumne banaya hai?",neutral
+19,monisha,kyun puchh rahe ho?,neutral
+19,sahil,"ni, accha bana hai",neutral
+19,monisha,mai accha khana ni bnati kya?,anger
+19,sahil,arey ni ni,joy
+19,monisha,haan,surprise
+19,sahil,haan haan,neutral
+19,monisha,"hello, haan kab ka mil gya parcel. hmm, ek minute. sahil, aaloo palak better hai ya daal?",neutral
+19,sahil,daal,neutral
+19,monisha,"daal better hai. lekin suniye, home delivery to free hai na, to fir aapne mujhse dus rupay service charge kyun liye? ni ni aise ni chalega. parosa to maine hai, to dus rupay mujhe milne chahiye, kyun",anger
+19,sahil,"monisha, monisha phone rakho, mai tumhe dus rupay dunga. come on",contempt
+19,monisha,tumhe mujhe dus hazar rupay dene padenge sahil,sadness
+19,sahil,"kyun, agle hazar dino tak roz tum hotel se khana mangwane wali ho?",joy
+19,monisha,"nae, wo na..ek baat btao sahil, mard aur aurat ek dusre se alag hote hain?",sadness
+19,sahil,haan hote hain,neutral
+19,monisha,kaise,fear
+19,sahil,"kaise matlab,mard...mard...wo mard hote hain, aur auratein...come on monisha, ab tumhe ye nhi pta ki mard aur aurat kis tarah se alag hote hain?",contempt
+19,monisha,"mai uss tarah se alag hone ki baat ni krri hun, mai dimag ki baat krri hun",sadness
+19,sahil,"accha dimag se? totally alag hote hain. look, mardon k dimag hote hain, aur aurton k baal lambe hote hain",contempt
+19,monisha,"very funny, sahil majak mat udao na, ye mere jeevan maran ka sawal hai. jante ho, mummy ji keh ri thi ki mard aurat k muqabale insensitive hote hain, unhe tv pe cricket, aur star world pe wwf kab hai, aisi cheezon k alawa jyada kuchh yaad hi nhi rehta",sadness
+19,sahil,"bilkul galat. mardon ko inn sb cheezon k alawa aur bhi bahut kuchh yaad hota hai. jaise ki, umm..kyun puccha mom ne ye?",neutral
+19,monisha,"wo maine unse kaha na, ki tumhe sare birthdays aur anniversaries yaad rehti hai, to zor zor se hasne lagi, aur..tumhe yaad rehti hai na?",neutral
+19,sahil,haan haan of course,joy
+19,monisha,humari wedding anniversary?,neutral
+19,sahil,bees feb..january,neutral
+19,monisha,haan,anger
+19,sahil,ke aas paas,fear
+19,monisha,bees january correct hai,neutral
+19,sahil,haan,joy
+19,monisha,meri saalgirah?,neutral
+19,sahil,ninth..november,neutral
+19,monisha,humari pehli mulaqat anniversary,joy
+19,sahil,ravivar,neutral
+19,monisha,konsa,neutral
+19,sahil,"har ravivar. mai bhagwan se har ravivar ko thank you kehta hun ki, mujhe tum mili",neutral
+19,monisha,achha,joy
+19,sahil,i love you moni darling,joy
+19,monisha,i love you too sahil..umhuh humare pyar k izhar ki saalgirah?,neutral
+19,sahil,"come on darling, ab tum kya kya puchh rahi ho. ab mai bhi tumhe puchh sakta hun phir",neutral
+19,monisha,puchho,neutral
+19,sahil,hein,neutral
+19,monisha,puchho na...puchho puchho,joy
+19,sahil,just a minute..haha...humari first...umm....kiss anniversary,neutral
+19,monisha,fifth april,joy
+19,sahil,wow..um...tumhe mercedes me bitha kr paanipuri khilane le kar gaya tha babulnath k yahan,neutral
+19,monisha,twenty first august ninteen ninty nine..huh,joy
+19,sahil,ye date hai actually?,neutral
+19,monisha,haan,neutral
+19,sahil,"ni, just asking...um..alright, hum dono sath chheenke the aur baad me hum chemist ki shop me gaye the..",neutral
+19,monisha,seventeenth september beech candy chemist day and night,joy
+20,indravadhan,maya..hah..maya..haha..jogging karke aaya..aa...tumhare liye phool laya hun,joy
+20,maya,ye gulaab hain..,fear
+20,indravadhan,haan...ab tum apne baalon me mere naam ka gulaab daalna,joy
+20,maya,gulaab...as in roses..,fear
+20,indravadhan,haa aan...to roses smell as sweet in english,neutral
+20,maya,roses are as allergic for me in any language,anger
+20,indravadhan,haan lekin maya...,neutral
+20,maya,mujhe gulaab ki allergy hai..indravadhan,anger
+20,indravadhan,"maya tumhe laal gulaab ki allergy hai, ye to yellow hain",neutral
+20,maya,"allergy meri naak me hai, meri aankho me nae..rang ka iske sath kya...just...get these flowers away from me..",anger
+20,indravadhan,maya..,sadness
+21,roshesh,agar kal mera puna me show nhi rahta to mai tumhara b'day kabhi miss nhi karta,joy
+21,indravardhan,"no no no, the show must go on..tumhe puna jana hi chahiye",contempt
+21,maya,mera gift kaha hai?,joy
+21,roshesh,maine tumhare liye kavita likhi hai,joy
+21,indravardhan,kavita chhod gift kaha hai?,neutral
+21,maya,kavita hi gift hai indravardhan..esme roshesh ne apni sari feelings chhupa kar rakhi hai,joy
+21,indravardhan," to kavita ko bhi chhupa kar rakhta,,ab ye padhega or hume sunni padegi",neutral
+21,maya,oo enough,anger
+21,indravardhan,okay oaky,neutral
+21,maya,"sunao beta, hum sunenge",neutral
+21,roshesh,"o momma, o momma, tumne mujhe janam diya o momma,o momma, sabse achha karam kiya o momma, o momma. aakash...",neutral
+21,indravardhan,waah waah waah..mere bharat ratna waah,contempt
+21,maya,koi baat nhi..mai khud hi padh lungi betaa,neutral
+21,sahil,hii  hii roshes..,joy
+21,roshesh,hii,neutral
+21,sahil,tumhari bhabhi ne kuchh pack karke diya hai kha lena..,joy
+21,roshesh,woww thanks,joy
+21,sahi,and all the best.,joy
+21,indravardhan,are sahil wo problem solve ho gya na?,neutral
+21,maya,kaun sa problem?,neutral
+21,indravardhan,hein? tumhe batata nhi esne..monisha ke pass lunch ke hi coupan hai..to sari bala tal gyi..dekho na biwi ke saath lunch or maa ke saath dinner..and they all live happily ever after,neutral
+21,maya,achha sahil..dekho na mujhe abhi yaad aaya.. darling kal sham me mujhe anath aashram me bachho ko lecture dene jana hai..esliy dinner will not be possible..to hmlog lunch ke liye jaa skte hai?,neutral
+21,sahil,mom kya hai na maine monisha ko already promise kiya hai ki lunch uske saath karunga to i don't think really it would be possible,neutral
+21,maya,it's okay,neutral
+21,sahil,roshesh,neutral
+21,maya,mai kal dopehar se hi anaath aashram chli jaungi..unka bhi dil behal jayega..un anaath bachho ko lgega ki jaise unhe apni maa mil gyi hai or mai samjh lungi ki apne hi beto ke saath hu,sadness
+21,indravardhan,nirupa roy,contempt
+21,sahil,aap to ruth gyi mom,fear
+21,maya,such is a lie..roshes bhi nhi hai yha aur tum to busy ho,sadness
+21,roshesh,mai puna jana cancel kar du?,neutral
+21,indravardhan,bete fikar kyu karta hai..wo sahil hai na ..mummy ke saath chala jayega..hai na sahil?,joy
+21,maya,thank you so much darling..to kal zodiac bistro..2'o clock.. reservation tum kara loge na?,joy
+21,sahil,yaaa..i will do that,joy
+21,maya,love you beta,joy
+21,roshesh,love you momma,joy
+21,maya,ooo love you too sweety,joy
+21,suri,"hahah...excuse me, haan sahil bol, whatsup?",joy
+21,sahil,suri tu kya kr rha hai abhi?,neutral
+21,suri,"kuchh nae yaar, bss ek naye natak ke script pe kaam kar raha hun..",joy
+21,sahil,"dekh tu apni script chhod aur turant zodiac bistro pahunch ja, yahan pe tujhe live natak karna hai",neutral
+21,suri,kya?,surprise
+21,sahil,"dekh tu sawal mat puchh, kya hai ki kuchh der ke liye tujhe doctor rajshekhar acharya banna hai. aur agar tune mana kiya to mai  swargiya sahil sarabhai ban jaunga",fear
+22,rosesh,"momma, sahil bhai ka phone aaya tha, wo aapko surprise dena chahte hain",fear
+22,maya,oh my god! i'm sure usne dilli me bangla select kar liya hoga. pehle ye batao tumne kuchh socha ki nahi use rokne ke liye?,fear
+22,rosesh,"haan..melodrama..you come with me..aap sirf chhe mahiney ki mehmaan hain, aapko blood cancer hai",neutral
+22,maya,umm but blood cancer is very padestrian..kuchh aur socho na..,contempt
+22,rosesh,lemme see..lemme see..haan..,neutral
+22,maya,liver?,neutral
+22,rosesh,cancer of the esophagus?,joy
+22,maya,right. that's good that's good,joy
+22,rosesh,hum ye dikhaenge ki humne ye baat sahil bhai se chhipai hai taki unhe apna dilli jane ka program cancel na karna pade,joy
+22,maya,aur..aur monisha kisi tarah by chance ye baat sunn leti hai..,neutral
+22,monisha,mummy ji!,joy
+22,maya,aa gayi wo..continue..aur suno..blood cancer hi bolna..esophagus wo nahi samajh paegi,neutral
+22,rosesh,okay,neutral
+22,monisha,mummy ji,joy
+22,maya,nahi nahi rosesh..tum sahil ko kuchh nahi btaoge i beg of you,sadness
+22,rosesh,lekin momma aapko blood cancer hai kaise na bataun mai sahil bhai ko?,sadness
+22,maya,sahil apna dilli ka programme cancel kar dega rosesh aur ye mai nahi chahti,sadness
+22,sahil,mom?,neutral
+22,rosesh,sahil bhai aa gaye,fear
+22,monisha,shh..idhar aao idhar aao,neutral
+22,sahil,kya hua?,neutral
+22,monisha,suno,neutral
+22,maya,ab kya karein,fear
+22,rosesh,baitho,fear
+22,sahil,arey kya suno..chalo..,neutral
+22,rosesh,ro lijiye momma..ro lijiye,sadness
+22,sahil,kya hua mom kyun ro ri hai?,neutral
+22,maya,nai..mai kahan ro rahi hun..meri aankhon me to sirf kuchh kachara chala gaya hai,sadness
+22,sahil,itna sara kachara?,neutral
+22,monisha,nai sahil..mummy ji jhooth keh rahi hain..inhein cancer hua hai,sadness
+22,sahil,what?,surprise
+22,maya,nahi nahi sahil..mujhe kuchh nahi hua hai..i'm fine,sadness
+22,sahil,haan i know that you are fine haha kyunki aapki six monthly medical report hai mere hathon me and and..now comes the surprise..doctor sarthi ne jab ye report dekhi to unhone turant kaha ki wo aapki lifestyle pe ek kitaab likhna chahte hain..maya sarabhai's health and fitness regime haha look thirty and fifty,joy
+22,maya,forty eight,fear
+22,sahil,"haan ma...matlab..you are healthy as a horse..and by the way, aapko cancer hai ye kisne btaya?",neutral
+22,maya,doctor desai,neutral
+22,rosesh,doctor agarwal ne..,neutral
+22,sahil,hah?,neutral
+22,rosesh,doctor desai ne,neutral
+22,sahil,doctor desai?,neutral
+22,maya,pata nai unhone aisa kyun kaha..ki mujhe cancer of the esophagus ho gaya hai,joy
+22,monisha,magar aap to keh rahi thi ki aapko blood cancer hai,sadness
+22,maya,haan matlab...,neutral
+22,rosesh,dono hai,neutral
+22,maya,dono ni ho sakte,neutral
+22,sahil,mom..is the cat out of the bag yet?,neutral
+22,maya,what are you saying sahil...haan...i mean mai nahi chah rahi thi ki tum...,sadness
+22,sahil,dilli chala jaun? hai na? so i am not going,neutral
+22,monisha,kyun?,surprise
+22,sahil,oxford medical center ke jo dean ki minimum age hai na..that's thirty eight..and i'm a bit younger,neutral
+22,maya,yay..hehe,joy
+22,monisha,hai ram..dilli cancel..matlab sale cancel?,sadness
+22,maya,sale?,surprise
+22,monisha,"haan mummy ji..maine humare ghar ki razai, takiya, bartan, jhadoo sab sale pe laga diya garage me..oh my god..radha bai..",sadness
+22,sahil,mom..happy?,neutral
+22,maya,very. i'm so sorry about this but dekhna tum dilli nahi ja rahe ho na ye tumhare hi liye accha hoga,joy
+22,sahil,kaise?,neutral
+22,maya,kyunki wo s...,neutral
+23,sahil,"mom,mom",neutral
+23,indravardhan,maya maya tumhari umar hi kya thi,sadness
+23,sahil,can you relax dad,anger
+23,indravardhan,ab anath aur bhukhe bacchon ke liye janna ikattha karne five star hotel main 6 pose dinner kaun rakhega?,sadness
+23,maya,main mari nahin hun indravadan sirf thoda chakkar a raha hai.,neutral
+23,rosesh,don't be modest. kya thoda sa mama tu itni jor se ghoom rahi thi ke mujhe laga mama kar thak kar rahi hai,neutral
+23,indravardhan,chakkar aane per duniya ghumti hai patient nahin ghumta samjha,anger
+23,maya,just ignore him beta indravadan ko to hamesha hi lagta hai ki main dhong kar rahi hun. o meri hath do mujhe apne ghar le chalo,sadness
+23,rosesh,lekin mama ghar per to painters touch up kar raha hai bedroom.,neutral
+23,sahil,isiliye lete rahi hai mom,neutral
+23,maya,lekin mein monisha par bojh nahin banna chahti.,sadness
+23,sahil,"come on mom aap ham per bojh. monisha keya mom tum par bojh banegi? jawab do monisha, monisha .",anger
+23,maya,mujhe mera jawab mil gaya beta,sadness
+23,sahil,nahin mom jab talak aapki puri test nahin ho jaati aur mujhe puri tarah tasalli nahin ho jaati tab tak aap kahin nahin jaenge and that's an order.,neutral
+23,maya,hi hi hi ek bete ke zid kaun mar tal sakti hai i love you darling,joy
+23,sahil,let me check your temperature,neutral
+23,rosesh,sacra for that let's pray together hold my hand and old mamas hand. dear krishna bhagwan aap hamari mama ko apni mama samjhaiye yashoda mama na sahi devaki mama samajhiye,neutral
+23,indravardhan,chhuuuuu tum bahut acchi ladki thi.,neutral
+23,monisha,thi?,surprise
+23,indravardhan,han kyunki maya ab tumhe jeene nahin degi,neutral
+23,monisha,kya ? really,sadness
+24,maya,"this is just not done monisha, just not done",anger
+24,monisha,hush mom,neutral
+24,maya,don't you dare hush me..nau baje sham ki dinner party me humein bula ke khud saadhe dus baje pahonchati ho..samjhati kya ho tum apne aap ko?,anger
+24,monisha,"rule number sixteen mom..nau baje rakhi hui party me sharp nau baje sirf middle class log pahunchte hain..haanth jod ke aaiye aaiye kehne ke liye..khud ki di hui party me kam se kam ek ghanta late pahunchna is a style statement..rosesh, rule dikhao na",neutral
+24,rosesh,oh yeah yeah..momma ye..,neutral
+24,maya,"tum mujhe kya rule dikhane lage..monisha, gyarah baar maine tumhein phone kiya gyarah baar..har baar this phone is not reachable",anger
+24,monisha,"i'm sorry mom, wo mera phone mere assistant phillip ke paas tha. you see khud ka mobile khud carry karna is so crude and down market..right rosesh",contempt
+24,maya,tumhein iss tarah se behave karne me maza aata hai monisha,anger
+24,monisha,"um..mom, mai aap logon ka dinner yahin bhejwa deti hun..and mom, kal mere yahan pe cards and cocktail ki party hai, aap jarur aaiyega okay? ciao",joy
+24,maya,you know i think we've created a frankenstein's monster,anger
+24,rosesh,simple aunty ne sir pe chadhaya hai monisha bhabhi ko,anger
+24,maya,"argh..that simple, i tell you..wo to bilkul..wo kya gaaliyan deti thi monisha?",anger
+24,rosesh,kutti kamini haramzaadi,neutral
+24,maya,"right. kutti kamini haramzaadi hai wo simple..haa aan..kya se kya bana diya hai usne humari bholi bhali monisha ko..wo purani wali monisha kahan gayi, i miss her so much..wo wapas aaegi kya?",sadness
+25,raj gopal sharma,rosesh ready for the shot?,neutral
+25,rosesh,yeah yeah,neutral
+25,rosesh,sahil bhai ,neutral
+25,raj gopal sharma,arey roko isse field mein jaa rahe hai,fear
+25,assistant,excuse me aap field mein nahi jaa sakte ,anger
+25,madhusudan,madhusudhan,neutral
+25,assistant,sir wo field hai,fear
+25,madhusudan,madhusudhan fufa,neutral
+25,sahil,i am sorry brother,sadness
+25,rosesh,it's ok ,joy
+25,sahil,all the best and just go and ..,neutral
+25,monisha,band baja do uss raj gopal sharma ki ,joy
+25,raj gopal sharma,family drama khatam ho gaya ho toh kaam shuru karein ,contempt
+25,rosesh,go go go,neutral
+25,assistant,ready sir?,neutral
+25,rosesh,yes sir,neutral
+25,assistant,ready?,neutral
+25,rosesh,yes,neutral
+25,raj gopal sharma,role ,neutral
+25,assistant2,roling,neutral
+25,raj gopal sharma,action,neutral
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,cut! ye kyu aise bol raha hai. rosesh normally bolo ,neutral
+25,rosesh,normal hi tha sir,neutral
+25,raj gopal sharma,toh abnormal bolo,surprise
+25,rosesh,ok,neutral
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,cut cut itna abnormally nahin thoda kam beech wala ok?,anger
+25,rosesh,ok,neutral
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,cut! action,anger
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,cut! action,anger
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,cut! action,anger
+25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral
+25,raj gopal sharma,ok,joy
+25,maya,ye ok tha ?,surprise
+25,raj gopal sharma,ji nahi ,neutral
+25,maya,par aapne ok kaha,neutral
+25,raj gopal sharma,ok ye ladka zindagi bhar actor nahi ban sakta ye wo waala ok tha ,anger
+25,raj gopal sharma,pack up,neutral
+25,sahil,arey ek minute excuse me director sahab just give him one more ,fear
+25,rosesh,rehne dijiye sahil bhai meri 39 mei se ek bhi style inhe pasand nahi aayi ,sadness
+25,monisha,matlab rosesh bhaiya ab hero nahi banenge. baldev uncle ne ghar mein jo surprise party rakhi hai hum kya karenge mummy ji ,fear
+25,maya,arey kyun? sahil ko bhi toh award milne wala hai. i mean harvard medical journal mein iska research chapne wala hai that's not a small thing i am so proud of you darling ,joy
+25,monisha,mei bhi lekin sahil trophy steel ki maangna haan,joy
+25,sahil,can you just chill guys? please? rosesh dekh dil chota mat kar  ,neutral
+25,rosesh,meine toh interview bhi dediya hai sahil bhai ,sadness
+25,maya,haan toh keh denge tumne script padhne ke baad reject kar di thi film it was just too down market ,contempt
+25,sahil,aur tum koi classy crossover film karne america gaye ,neutral
+25,rosesh,america?,surprise
+25,sahil,kyun mera award lene tum mere saath america nahi aaoge ,neutral
+25,maya,oh that's so nice ,joy
+25,monisha,bhai ho toh aise ,joy
+25,maya,can we say sweet and special siblings or blood brothers. ye bhai ho toh aise is just so middle class monisha ,disgust
+25,madhusudan,hein,neutral
+25,rosesh,huhuhuhu,joy
+26,maya,haan sarita bataya main usse are rosesh to ajanta ka naam sunte hi ucchal pada ,joy
+26,monisha,ladki ka naam ajanta kyon rakha,neutral
+26,indravadan,kyunki uski maa ajanta caves dekh rahi thi jab vo paida hui haha,joy
+26,sahil,sochiye dad agar qutub minar dekh rahi hogi,neutral
+26,indravadan,are tu kitna interesting wedding card banta rosesh ka rosesh weds qutub minar haha,joy
+26,rosesh,very funny ,contempt
+26,maya,nahin nahin come on main kisi ko nahin bataungi how can i do that i will talk to you later,neutral
+26,maya,ok everybody apne ghar mein confession day banate hue ab ek dusre ko ek dusre se chhupaya vah koi sach bataen pahle ek baat sun lo monisha,neutral
+26,monisha,kya ,neutral
+26,maya,sach ko lekar koi argument koi jhagada nahin hoga ok?,neutral
+26,rosesh,ok,neutral
+26,maya,good,neutral
+26,maya,indu pata hai abhi sarita ne kitna bada confession kia,neutral
+26,indravadan,kya,neutral
+26,maya,jab vo choti thi aur nimbu churaya karti thi,contempt
+26,monisha,nimbu churane main bada confession kya hai ,neutral
+26,indravadan,wo bade nimbu churati hogi haha,joy
+26,sahil,kisi aur ke confession ko lekar lambi charcha yatra nikale apna confession start karen mom we will start with you,neutral
+26,maya,me,neutral
+26,sahil,hmm,neutral
+26,maya,haha ok,joy
+26,maya,indravadan yaad hai ek din hamare ghar per bijali chali gai aur tumhari ba ne mujh par ilzaam lagaya tha,neutral
+26,indravadan,are han han yad hai are bakuda ye maya dekh jor jor se gala daba rahi hai mera haha bechari pagali thi kuchh bhi bol deti hai,joy
+26,maya,actually wo,neutral
+26,indravadan,maiya tumne waakiye uska gala daba,fear
+26,maya,mujhse raha nahin gaya indu,neutral
+26,indravadan,how could you maya meri maa,anger
+26,maya,anyway pure do saal zinda rahi thi wo main tumhe kaha tha na sach sunke accept karna uska issue mat banana,neutral
+26,indravadan,arey,neutral
+26,maya,monisha tumhari baari,neutral
+26,monisha,maine ek bar sahil ko teen din purani sabji khiladi,fear
+26,monisha,ho gaya,neutral
+26,maya,monisha confession beta koi aisa sach jo humei pata na ho,neutral
+26,monisha,acha haan meine apne bedroom ki chaddar dhoyi nahi thi usse palat kar bicha di thi,fear
+26,indravadan,fir,neutral
+26,monisha,ho gaya,neutral
+26,sahil,tum samjhi nahin monisha koi aisi baat jise sunkar ham chauk jaaye uh haila bolun you know aisa koi sach,neutral
+26,monisha,aisa sach,neutral
+26,indravadan,han bolo bolo daro mat,neutral
+26,sahil,ok kal jo tiffin main tumne mujhe khana diya tha,neutral
+26,monisha,wo sabji maine bilkul fresh banai thi aur aur tiffin bhi acchi tarah se dhoya tha,neutral
+26,indravadan,haila,surprise
+26,sahil,kya,surprise
+26,rosesh,what are you saying ,surprise
+26,maya,now that's a confession dekha sab log chauke na ,joy
+26,maya,ok indu ab tumhari baari,neutral
+26,indravadan,uh meri baari ahaan meine ek baar rosesh ko apne hathon se pani pilaya tha,neutral
+26,rosesh,so ismein confession kya hai,neutral
+26,indravadan,wo paani meine toilet ki tank se nikala tha,fear
+26,rosesh,what ,surprise
+26,rosesh,meine piya tha ?,disgust
+26,indravadan,han han aur kaha bhi tha dad ke hath ka kuchh jyada meetha lag raha hai aaj,joy
+26,rosesh,momma,disgust
+26,maya,this is disgusting how could you do that,disgust
+26,sahil,hahah there is no judgement no judgement mom,joy
+26,sahil,alright it's my turn now mera confession suniye mom aapko aap ki friend yad hai dolly aunty,neutral
+26,indravadan,oho wo that bombshell 38 26 36,joy
+26,sahil,wo mujhe zabardasti kiss kiya karti thi,neutral
+26,sahil,main 17 sal ka hua tab tak,neutral
+26,maya,oh my god tumne mujhe bataya kyon nahin main rok deti hai aisi harkat,surprise
+26,indravadan,isiliye to nahin bataya le hahaha,joy
+26,sahil,haha,joy
+26,monisha,sahil,anger
+26,sahil,rosesh tumhara confession bolo,neutral
+26,maya,go on,neutral
+26,rosesh,well momma mei ,fear
+26,maya,kya ,neutral
+26,rosesh,mei shaadi shuda hun aur humara ek bacha bhi hai bye,fear
+26,maya,what rosesh,surprise
+27,indravadan,arey bhai vithal arey meine jo jhute khareede the wo wapas de aao ,neutral
+27,monisha,kyun? ,surprise
+27,indravadan,kyunki rosesh ki qitab khareedne ke baad itne jhute padenge ke jhute khaaredne ki zaroorat hi nahi padegi zindagi bhar ,contempt
+27,sahil,alright mom aapko tamatar khaareedne ki bhi zaroorat nahi hai kyonki rosesh ki qitab padne ke baad log waise bhi tamtar fenk ke maarne waale hai,contempt
+27,maya,what nonsense sahil,anger
+27,monisha,sahil tamatar 35 kilo ho gaye hai ,fear
+27,maya,monisha please sahil tumse ye umeed nahi thi i mean you are really cruel,contempt
+27,sahil,me!! it was rosesh mom who was cruel to us ,anger
+27,indravadan,he is absolutely right kavi banne chala hai mera gas meri ghar ghanti arey socho bhai maya koi khudko hue gas par kavita likhta hai ,contempt
+27,maya,indravadan cooking gas par kavita thi!,anger
+27,indravadan,acha aur kavita mein jo dhum dhaam awaaze thi wo ?,contempt
+27,monisha,wo ghar ghanti ki awaaz thi daddy ji ,neutral
+27,maya,right dekha! even monisha ye baat samaj gayi .. wo monisha jo aaj tak nahi samjhi ke yu yu yu chappal khaseetke nahi chalna chaiye jo ye nahi samjhi ke ghar mein plastic bags ki exhibition nahi lagani chaiye ,contempt
+27,indravadan,ye naya point hai,neutral
+27,maya,jo ye nahi samjhi dinner party mei uhm uhm aise ungliyaan nahi chaatni chaiye. jo ye,contempt
+27,monisha,mummy ji!,sadness
+27,maya,i know bohot lambi list hai! but the point is monisha bhi ye baat samaj gayi hai aur tum i mean give the poor boy a chance tumhe kaise pata ho sakta hai ki kal rosesh ki qitab khaaredne ke liye logo ki line lage ,neutral
+27,rosesh,momma ,sadness
+27,maya,hello darling ! ,joy
+27,rosesh,ek bhi qitab nahi biki ,sadness
+27,maya,we eh eh well baby aaj pehle dinn hai ,neutral
+27,rosesh,it's ok mommma,sadness
+27,monisha,sahil dekha rosesh bhaiya kitne dhuki the jao na ,sadness
+27,sahil,i am sorry mom . but remember aap hi ne kaha tha ki honesty is the best policy ,neutral
+27,maya,iss kahavat se pehle kabhi kabhi lagana bhul gayi kabhi kabhi honesty is the best policy magar kabhi kabhi kisika dil rakhne ke liye jhut bolna padta hai kyun monisha ka dil rakhne ke liye jhut nahi bolte hum,contempt
+27,indravadan,maya bas bas bas bas ye monisha haaye haaye puran baadmein ok ok ok rosesh ka hausla badane ki puri koshish karega sahil ,neutral
+27,sahil,aur dad meri madad karenge,neutral
+27,maya,good,neutral
+28,sahil,mom aap aa rahi haina! so come fast i am waiting near the car alright! ,neutral
+28,rosesh,sahil bhai muje macchi market drop kar denge kya  ,neutral
+28,sahil,rosesh pocket money ke liye paise kamana achi baat hai lekin macchi bech kar paise kamana ,contempt
+28,rosesh,don't be silly theatre group ke annual festival ka play hai mei usmein macchimaar bana hun research karne jana hai,neutral
+28,sahil,main role kar rahe ho?,neutral
+28,rosesh,nahin hum 40 macchimaar hai lekin usmein mera main role hai director ne mujhe aage khada kia hai ,joy
+28,sahil,waah kitne dialogues hai?,neutral
+28,rosesh,dialogue toh nahi hai lekin meine improvise kar liya suniye dabduk dabduk dabduk gado ,neutral
+28,sahil,ye?,neutral
+28,rosesh,offo hum log samundar ke tufaan mein dubde hue macchi maar rahe haina toh ye dialogue dabduk dabduk finally gado,neutral
+28,sahil,great toh abhi kahan samundar ke niche drop karun ke macchi market ,contempt
+28,monisha,hello ji ,joy
+28,rosesh,sahil bhai andar beth jaao warna bolegi abhi abhi gao se aayi hun wapas jaane ke paise do,fear
+28,sahil,meri friend hai ,neutral
+28,rosesh,ye,neutral
+28,monisha,arey sasriyakaal ji doctor saab,joy
+28,sahil,ye hai manisha aur ye mera bhai rosesh ,neutral
+28,rosesh,natak mein macchi maar bana hun,neutral
+28,monisha,ek waari meine bhi natak mein kaam kita si . diler tussi tohp ho . usmein na meine diler da role kiya tha ,joy
+28,sahil,acha,neutral
+28,monisha,dardi rab rab kardi bebe dardi rab rab kardi ath mastaani teri chadti jawaani teri mei toh hun nain milaa aha aha aha aha,joy
+28,maya,aur ab bas sahil chalein ,neutral
+28,sahil,mom ye manisha hai manisha ye meri mom hai ,neutral
+28,monisha,ohh peripauna aunty ji ,joy
+28,maya,you scared me jeete raho sahil zara der ho rahi hai beta ,fear
+28,sahil,wo hum uh,neutral
+28,monisha,koi gal nahi ! tussi chalo waise bhi mei tonu ye peh lautane waaste aayi thi ginn lo pure 600 hai ,neutral
+28,sahil,lekin meine toh aapko 500 diye the ,neutral
+28,monisha,meri bauji kehte hai ke jitna lo usse zyada lautao,joy
+28,sahil,i appreciate that par uhh,joy
+28,monisha,agar zyada lataoge toh saamne se chaar gunna zyada milta hai ,joy
+28,sahil,acha iska matlab mei aapko 2400 rupay dun ,neutral
+28,monisha,oye naa ji naa bauji toh aise hi nasiyat dete rehnde hai mei bhala aapse 4 gunna paise zyada lungi?,joy
+28,sahil,par uh!,neutral
+28,monisha,haan lekin agar aap apne clinic mein bulaakar mujhe free mein facial shacial kara de toh mei mana nahi karungi toh mei aa jaun parso wo beauty treatment karane?,joy
+28,maya,sahil can we go?,contempt
+28,sahil,uhh yeah,neutral
+28,monisha,acha ji bye bye ,neutral
+28,sahil,excuse me mei aapko chod dun kahin?,neutral
+28,monisha,oye naa ji naa mei taxi se chali jaungi wo wahan khadi haina mere mama di taxi hai oye maame dr sahil! ,joy
+28,bhai (monisha),sasriyakaal!,joy
+28,sahil,haaan!! uhh haan!,neutral
+28,monisha,mere maa ka muh bola bhai hai ,neutral
+28,monisha,acha ji mei chalti hun namaste namaste ,neutral
+28,sahil,excuse me uhh uhh i am repeating myself lekin aap bohot hi dilchust insaan hai ,joy
+29,indravadan,haan toh bilkul sahi kaha priya ne tu monisha ko bhaga ke le aa,neutral
+29,sahil,don't be crazy dad monisha ke mann mein bhi toh kuch hona chaiye na mere liye ,contempt
+29,indravadan,arey mann mein nahi hota toh ,neutral
+29,monisha,doctor sahil doctor sahil namaste uncle ji ,neutral
+29,indravadan,arey aao bete aao aap log baatein karo mei bhi aaya ,neutral
+29,sahil,dad monisha aap is everything alright?,fear
+29,monisha,aunty ji hai? mujhe ye taufa exchange karane jaana hai ,neutral
+29,sahil,kyun? gurpreet ko acha nahi laga ye taufa ,neutral
+29,monisha,usne mera ye diya hua taufa utha ke phenk diya uhuhuh ,sadness
+29,indravadan,kya? dekha mei toh pehle hi kehta tha ye gurpreet bada nalayak aadmi hai ,disgust
+29,sahil,dad aapne dekha tak nahi hai gurpreet ko anyway calm down aap bethiye na yahan bethiye bethiye ,neutral
+29,indravadan,betho beti  ,neutral
+29,monisha,apne saare patients ke saamne usne mera ye taufa utha ke phenk diya ,sadness
+29,indravadan,kya? patients ke saamne ,surprise
+29,monisha,haan uncle ji 4 kutte 3 billiyaan aur ek bandar bhi tha jaanwar bale hi bezubaan hote hai lekin samjhte toh wo sab kuch haina ,sadness
+29,indravadan,haan haan bilkul aur kuch bolne waale jaanwar sab kuch samjhte hue bhi kuch bolte nahi hai ullu ke pathe ,contempt
+29,sahil,dad ! relax will you dad ,neutral
+29,sahil,mujhe aisa lagta hai ke aapne hi kuch kiya hoga jisse ,neutral
+29,monisha,meine toh bas kaha lo ji happy engagement . ab lassi banana aasaan hoga gurpreet aur itne pyaar se meine ye ye blender diya tha ,sadness
+29,sahil,aapne apne mangetar ko taufe mein blender diya ,surprise
+29,monisha,haan pure 4 saal ki gurantee wala hai agar 4 saal mein kuch bhi bigad jaaye toh pure paise wapas socho agar 2 saal mein bigad gaya toh hum ussi paiso se kuch aur bhi toh le sakte the na haina?,joy
+29,indravadan,badi dur ki sochti hai ye haina?,neutral
+29,monisha,lekin dekhiye na uncle ji usse iss baat ki qadar hi kahan hai pehle toh blender dekh ke bad badane laga aur fir jab meine kaha ki doctor sahil ki mummy bhi doctor sahil ki tarah achi hai unhone mujhe shopping karwai ice cream khilwai toh ye blender uthake phenk diya inka naam sunte hi maano uske sar pe bhut sawaar uthta hai ,sadness
+29,indravadan,haan kyunki wo jalta hai sahil se aur tum dono bohot kareeb hona ,neutral
+29,monisha,lekin uncle ji jalan kis baat ki meine toh sirf 25-30 baar hi naam liya hoga doctor sahil ka ,sadness
+29,indravadan,lo aur itni si baat ke liye usne pura blender uthake phenk diya mei toh kehta hun jaanwaro ka ilaaj karte karte wo khud bhi jaanwar ho gaya hai ,disgust
+29,sahil,aap uthiye ye gift exchange kijiye aur gurpreet ko jo pasand ho wo aap usse dijiye aur jaake sorry kahiye ,neutral
+29,monisha,mei sorry kahun! ,surprise
+29,sahil,kyunki aapne galati ki hai ,contempt
+29,monisha,huh!,neutral
+29,sahil,come on come on let's go let's go ,neutral
+30,maya,hello indravardhan kaise ho tum,neutral
+30,indravardhan,kaam ki baat karo... polite conversations ke liye mere paas waqt nahi hai,neutral
+30,maya,haha.. polite baate tumhe aati hi kab thi..,contempt
+30,indravardhan,hmm,neutral
+30,maya,aur ab monisha ke ghar pe rehe rahe ho to...,neutral
+30,indravardhan,"aray,, mai, mai, monisha ke ghar pe kyu rehene laga bhala!?",surprise
+30,maya,kyu?... agar hum dono saath nahi rehe rahai hai to tumhe hi ghar chodke jana pada hoga na... mai apna ghar thodi chodungi,neutral
+30,indravardhan,yani... ye ghar mera nahi hai,surprise
+30,maya,legally to mere hi naam pe hai na,joy
+30,indravardhan,aray but...,neutral
+30,maya,ye ghar.. humari dono gadiya... bank locker ki jewellery... alibaug ka cottage...,neutral
+30,indravardhan,aaila..,surprise
+30,maya,ye aaila proove karta hai ki tum monisha ke hi ghar pe rehe rahe ho,contempt
+30,indravardhan,anyway anyway... hmmm... ye rahe divorce ke kaagajaat jara sign kar do,neutral
+30,maya,"pahale meri kuch sharte hai, sun lo",anger
+30,indravardhan,"pahale tumhe meri sharte sunni hogi, okay... is flat ha aadha hissa, aadhe paise...",neutral
+30,maya,tumhe nahi milenge... next,neutral
+30,indravardhan,humari do gadiyon mese ek gaadi..,neutral
+30,maya,choti wali tumhe de dungi.. next,neutral
+30,indravardhan,"vo.., umm... humare bank ke locker mein jo jwellery rakkhi hai bahut sari vo sab...",neutral
+30,maya,us par tumhara koi haak nahi hai,neutral
+30,indravardhan,hai!?,surprise
+30,maya,"ab meri sharte suno... har mahine tum muze 60,000 rs doge for maintenance... humare alliance industries ke 35,000 shares mein se 20,000 mere... tumhare vrs ke 80,00,000 mein se 25,00,000 meer aur 25,00,000 rosesh ke... alibaug ka cottage to mera hai hi... aur haa... mental harrasment ka muafja tum mujhe 15,00,000 rs doge, varana mai tumhare khilaf attempt to murder ka case darj karva dungi",neutral
+30,indravardhan,attempt to murder!?,surprise
+30,maya,agar chehere pe laal-neele nishan pad sakte hai to gale pe strangulation ka nishan nahi pad sakta,joy
+30,maya,so... mere sharte qubool kar lo... varana... criminal proceedings suru karva dungi indravardhan sarabhai,anger
+30,indravardhan,hehehehe... maya tum.. tum... tum.. please mujhe divorce mat dena... bapre baap tum to bahut khatarnak ho.. hehehe,joy
+30,maya,aray don't worry about that... but point is... what is the point?,neutral
+30,indravardhan,"haa... now the point is ki agar aurat mard ko divorce deti hai to uski baniyan, shirt, patloon, sab utar deti hai",joy
+30,maya,"kyu na demand kare aurat apna haak... ha... aray bechaari abla, besahara jaegi kaha vo",sadness
+31,indravardhan,to is baat ko lekar to dushyant se to tumhara rooj jhagada ho raha hota?,joy
+31,madhusudan,"indu, light kyu band kar di tumne?",neutral
+31,indravardhan,"madhu bhai, light maine band nahi ki.",neutral
+31,madhusudan,"baat mat badal, bata light kyu band kar di?",neutral
+31,indravardhan,"inko utha ke, mai balcony se bahar fek du?",anger
+31,madhusudan,hai?,neutral
+31,indravardhan,light apne aap chali gayi.,neutral
+31,madhusudan,hai?,neutral
+31,indravardhan,power failure.,neutral
+31,madhusudan,hai?,neutral
+31,indravardhan,"oh ho, abhi andere mein kis tarah ishara kar inko samajhau ke, ki power failure hua hai.",anger
+31,sonya,aray to mat samajhaiye na.,neutral
+31,indravardhan,"aray to ye chodenge thodi, 'hai? hai?' kar ke jaan kha jaenge meri.",anger
+31,madhusudan,aray ye kya bol raha hai tu. jara joor re bol bewakoof.,anger
+31,indravardhan,bewakoof!? behare hai aap. 'hai? hai?' aap karte ho. aur bewakoof hu mai?... suno..,anger
+31,madhusudan,dekha sonya. firse akdam baakdam bolna shuru kar diya isne. ram jane spasht bolna kab seekhega tera baap.,anger
+31,indravardhan,vo bada wala chhura kaha hai? aaj to mai unko... ,anger
+31,sonya,"aray dad, dad!",fear
+31,sonya,"ye 'hai? hai?' tabhi karte hai jab ine lagta hai ki hum baat kar rahe hai. dekhiye mai muh hilaye bina baat kar rahi hu, to ye  'haan? haan?' kar rahe hai?",neutral
+31,indravardhan,aray haan.,joy
+31,sonya,hmmm.,neutral
+31,sonya,ho gaye na apne aap mein busy.,joy
+31,indravardhan,"haan. to abse apan, isi tarah, hile bager, baat karte rahenge.",neutral
+31,sonya,"hmm, hmmm.",neutral
+31,indravardhan,"bhagwaan kar, aur subah tak bijali na aae. kamse kam ye hai-hai kumar se to chhutakaara milega. hahaha..",joy
+31,sonya,hmm.. hehe..,neutral
+31,indravardhan,"aray. magar ye buddhaa, ye andhere mein dhoond kya raha hai.",neutral
+31,madhusudan,"mil gayi indu, mil gaye!",joy
+31,indravardhan,kya mil gaya ise?,neutral
+31,indravardhan,"ohh. oh ho, sonya, ye..., mere upar muh pe torch kyu maar rahe hai.",anger
+31,madhusudan,"hai? kya bola, kya bola?",neutral
+31,indravardhan,"kuch nahi, aaiye, mai aapko balcony ke bahar phek deta hu, aaiye, aaiye.",anger
+31,sonya,dad! haha...,joy
+32,sahil,my vote goes to maya sarabhai.,neutral
+32,rosesh,yay! woopie!,joy
+32,maya,"hahaha. oh my god. oh, thank you so much sweetie!",joy
+32,rosesh,thank you bhai.,joy
+32,mrs. sanghavi,congrats!,joy
+32,maya,thank you.,joy
+32,rosesh,"please sit down, sit dowm,",neutral
+32,rosesh,moma speech...,neutral
+32,maya,"oh, haha..., well, ladies and gentlemen, humari society bach gayi hai.",joy
+32,maya,"lekin, use aur safe banane ke liye, maine kuch rule sooche hai. rule number 1...",neutral
+33,mrs. sanghavi,oh my god! it's  a tie!,joy
+33,monisha,tie!?,surprise
+33,maya,tie!?,surprise
+33,rosesh,tie!?,surprise
+33,indravardhan,"oh ho, rosesh, tu kyu aya!",anger
+33,indravardhan,"tu nahi ata, to monisha jeet gae hoti na.",sadness
+33,maya,"well ab kya kare. sare members ne to votes de diye hai. to obviously, mai hi...",neutral
+33,indravardhan,"kya ab? sahil kaha aaya hai, huh.",neutral
+33,maya,huh?,neutral
+33,indravardhan,sahil ka vote to baaki hai na.,neutral
+33,indravardhan,"haan, hello sahil. aray bhai, aa ja bhai, election khatam ho gaya hai.",joy
+33,indravardhan,"haan haan, the coast is clear.",joy
+33,indravardhan,"just 5 more minutes, aata hi hoga sahil.",neutral
+33,mrs. sanghavi,"okay, no problem.",neutral
+33,sahil,hi!,neutral
+33,indravardhan,there!,neutral
+33,monisha,sahil aa gaye!,joy
+33,sahil,kaun jeeta?,neutral
+33,maya,"well, it's a tie.",neutral
+33,maya,"can you believe it, kuch logonne monisha ko bhi vote diye hai.  ",contempt
+33,maya,"beta, ab tum apna vote daal do, taaki pata chale ki kaun secretary bana hai.",neutral
+33,maya,jao. go on!,neutral
+33,indravardhan,"le, rosesh, haha.",joy
+33,sahil,"""le, rosesh"", ke saath saath, ""naarayan, naarayan"", bhi bolenge.",anger
+33,indravardhan,hahaha.,joy
+33,maya,"sahil, pen hai na darling.",neutral
+33,monisha,"aur, mera wala?",neutral
+34,rosesh,"everybody, pay attention. sahil bhai, monisha bhabhi, beth jaiye. dad, shanti diwas pe aap ye wala natak perform kijiega.",neutral
+34,monisha,natak ka naam kya hai,neutral
+34,rosesh,naam hai- ‘shah jahan agar taj mahal banwane ka plan last minute pe cancel karke uski jagah seedhi saadhi south indian hotel banwate to’,neutral
+34,sahil,ye naam hai,neutral
+34,indu,ek min ek min. shah jahan taj mahal banwane ke badle ek seedhi saadhi south indian hotel kyun banwega,anger
+34,monisha,kyunki wo sasta padta na daddy ji,joy
+34,indu,wah,contempt
+34,monisha,"or fir usse amdani bhi badhti, haina",neutral
+34,sahil,or log kya wahan bethke rawa masala dosa khate,contempt
+34,rosesh,in sawalo ka jawab aapko isme mil jaega. pehle mera natak suniye to sahi,anger
+34,sahil,ye natak tumne likha hai,surprise
+34,indu,"chal sahil, chalke khudkhushi karte hai chal",disgust
+34,monisha,sahil ruko na. are rukiye na sunne ke pese thodi lagte hai,fear
+34,rosesh,wahi to,neutral
+34,indu,"actually, its not a bad idea",neutral
+34,rosesh,"natak open hota hai, shah jahan bhudhe ho chuke hai, unke baal safed ho chuke hai. chehre pe jhurriyan hai, ankhein kamzor ho chuki hai. hath kap kapa rhe hai",neutral
+34,sahil,"blood pressure check kiya, ecg kya keh rha hai",contempt
+34,indu,"rosesh, hume shah jahan ka medical report nhi sunna hai, tu aage dialog suna na",anger
+34,rosesh,"okay, suniye",neutral
+34,rosesh,"ghasar ghasar ghasar ghasar, ghasar ghasar ghasar ghasar.",neutral
+34,indu,"ek min ek min, ye shah jahan ko kya ho rha hai",neutral
+34,sahil,shah jahan nariyal ko pathar pe ghis ghis kar chatni bana rha hai,neutral
+34,indu,"haan haan right right, us zamane me mixer grinder to hoga nhi.",joy
+34,rosesh,shah jahan per ghaseet ghaseet ke chal rhe hai,anger
+34,rosesh,"ghasar ghasar ghasar ghasar, ghise ja rhe hai mere per idhar udhar, ho sako mumtaz begam tum amar isliye banwaunga sabse khubsurat kabar. papam papam papam papam",joy
+34,monisha,ye papam papam papam papam kya hai,surprise
+34,sahil,shah jahan apni gadi me beth ke horn baja rha hai,neutral
+34,indu,"haan, traffic jam me fas gya hoga na",neutral
+34,rosesh,will you cut it out,anger
+34,indu,"you, you cut it out. ab me likhunga natak",neutral
+34,madhusudhan,hello everybody,neutral
+34,indu,"ise suna, ise suna tera natak. suna",anger
+34,madhusudhan,thank you,joy
+34,sahil,"dad, bag leke aaye hai",fear
+34,indu,madhusudhan bhai aap yahan kyun aye hai,surprise
+34,madhusudhan,"haan, plastic ki theli ban ho gyi hai",sadness
+34,indu,"ye ban kyun nhi hua, ab ye mujhe disturb karte rahenge",sadness
+34,madhusudhan,hain,neutral
+34,indu,dekha,neutral
+34,madhusudhan,hain,neutral
+34,indu,"madhusudhan bhai, aap apna muhn band rakhiye, me natak likh rha hun",anger
+34,madhusudhan,mera culcutta sada,neutral
+34,indu,"madhusudhan bhai, aap apna muhn band rakhiega kyunki me natak likhne wala hun.",anger
+34,madhusudhan,"isme likhne ki kya baat hai, itna yaad nhi rehta. culcutta sada.",contempt
+34,indu,"sahil, ab me acha natak kese likhunga",sadness
+34,madhusudhan,hain,neutral
+35,monisha,compensation! acchi baat hai kya kimat lagai hai aapane ek tang ki?,anger
+35,maya,ham,neutral
+35,monisha,nahin nahin bata dijiye aapane value to ki hogi ki ek aadami ki tang itne kimat per bikti hai,anger
+35,maya,humne kabhi kharidi nahin,neutral
+35,rosesh,right humne to kabhi murgi ki tang bhi nahin karidi. ham to vegetarian hai,neutral
+35,sahil,rosesh please thodi der ke liye chup raho. monisha ji please aap bhi shanti rakhi hai,neutral
+35,monisha,are kyon rakhoo mein shanti? is nalayak ne ek nirdosh ke pair per khatara chalaya hai,anger
+35,dushyant,"excuse me madam aap jara tameez se baat kijiye. dekhiae aapko koi hak nahin hai rosesh ki gadi ko khatra kahane ka. are uski gadi warrior vx model hai. aur uska turbo engine italy ke roberto platini ne design kiya hua hai, for your information.",anger
+35,monisha,yah kya bol raha hai?,neutral
+35,sahil,ye thoda sa technical hai. dushyant jakar kuchh repair karo na,anger
+35,dushyant,you mean kuch bigada hua hai?,surprise
+35,maya,"han monisha ke ghar chale jao. sab kuchh bigada hua hai. vahan uska electric cooler, air conditioner, laptop, microwave...",joy
+35,sahil,aur mere pc ka modem bhi kharab hai,joy
+35,dushyant,"sahil, pc ka modem kharab ho gaya aur itni badi baat tumne mujhse chhupai? kahan hai modem?",neutral
+35,monisha,yah pagal hai?,neutral
+35,maya,han aur mera damad bhi.,sadness
+35,monisha,"achcha to puri family item hai. damad pagal, beta hathiyara.",anger
+35,rosesh,hatyara?,neutral
+35,inspector,dekhiae madam inhone hatya nahin ki hai,neutral
+35,monisha,"are vah to use insan ki kismat acchi thi ke wo bach gaya, lekin ise, isase to main jail bhijwa ke rahungi han chalo",anger
+35,maya,heart attack heart attack start,neutral
+35,rosesh,"ok, aaa.",fear
+35,monish,sahil main madhu fufa ko rosesh bhaiya ke bare mein sab kuchh samjha diya hai,joy
+35,sahil,monisha lekin tum unhen yahan kyon le aayi?,fear
+35,monisha,madhu bhai,joy
+35,madhusudhan,are! monisha ben aap? monisha ye monisha ben hai. samaj kalyan centre ki pramukh. inhi ke yahan jata hun har mahine blood donate karne ke liye. monisha ben aap yahan kaise?,surprise
+35,monisha,vah to is ladke ko mein jara girftar karane ayi thi,neutral
+35,madhusudhan,rosesh bhi blood donate karta hai?,neutral
+35,monisha,madhu bhai mein is ladke ko girftar...,neutral
+35,madhusudhan,hain?,neutral
+35,monisha,yah bhi aapke relative hain?,neutral
+35,sahil,"madhu fufa, aap ye padhiye.",neutral
+35,madhusudhan,"""yah monisha ji hi rosesh ko girftar karane ayi hain."" na na be. monisha ji yah to mera bhatija hai",joy
+35,monisha,saga bhatija?,surprise
+35,madhusudhan,maaf kar dijiye galti ho jaati hai inspector sahab chhod dijiye ise,neutral
+35,inspector,well per yah madam zidd pe adi hui hai,fear
+35,madhusudhan,"nahin nahin yah to hamesha simple saree pahnati hain. monisha ji, inspector ko kah dijiye na ki ise chhod de.",neutral
+35,maya,ham log apologize kar rahe hain. go on say sorry.,neutral
+35,rosesh,i am very sorry,neutral
+35,monisha,theek hai ab jab madhu bhai keh hi rahe hain to maine ise chhor diya.,joy
+35,sahil,madhusudan fufa aaj pahli bar aap kam aaye hain,joy
+36,sahil,hi monisha,neutral
+36,monisha,hi sahil,neutral
+36,sahil,maine tumse kitni bar kaha hai fir bhi tum vada pav kha rahi ho na,neutral
+36,monisha,sahil ! sahil! sahil!... soch samajh ke bolna... tum jo kahoge vah sach ho jaega... rosesh bhaiya ne kaha hai ki vo african chant 8 ghante ke bad activate ho jaega... aur 8 ghante pure ho chuke hain sahil,fear
+36,sahil,monisha... iska matlab ab dushyant ab gadha ban chuka hai... hehe,joy
+36,monisha,rrosesh bhaiya vahi to dekhne gaye hain,neutral
+36,sahil,monisha...agar vo chant work kar raha hai na... to abhi isi waqt dad ke piche... teen (3)... teen (3)... madhu fufa... indu.. indu.. karte hue... is darwaje se andar aaenge... agar wo chant work kar raha hai to,neutral
+36,monisha,sahil... tum bhi...,fear
+36,sahil,kuch hua?,neutral
+36,indravardhan,sahil! sahil! khatam ho gaya!,sadness
+36,madhusudan,ae indu! ae indu! ae indu!... indu,neutral
+36,indravardhan,sahil... ye dekh,sadness
+36,madhusudan,kya hua? kya hua?... kitni wickets?... konsi talkies mein?,neutral
+36,indravardhan,sahil.. mere jani dushman... triple role mein,sadness
+36,indravardhan,kuch kar sahil.. nahi to mein pagal ho jaunga,fear
+36,madhusudan,hai? hai? hai?,neutral
+36,indravardhan,"aray... main tum logon se kuchh kaha ki tum log ""hai hai"" kiye ja rahe ho tino",anger
+36,madhusudan,polyster? nahi.. sarojini naidu... chup kar... rajdhani express.,neutral
+36,indravardhan,dekha sahil... teenon ke teenon behre hai... aur apna apna andaaza laga raha hai ki maine kya kaha hoga,sadness
+36,madhusudan,hai? hai? hai?,neutral
+36,monisha,sahil... vo african chant kam karne laga,fear
+36,sahil,nahi! nahi!,fear
+36,monisha,kya nahi nahi... dekho na teen teen madhu fufa!,surprise
+36,sahil,this is a trick!,anger
+36,monisha,koi trick shik nahi hai sahil... dekho...,fear
+36,sahil,chup... chup raho tum.. tum pagal ho gai ho!,anger
+36,monisha,na nana na na! nana nana na na!,joy
+36,sahil,dad.. dad.. please bataiye mein kya karu?!,fear
+36,sahil,madhusudhan fufa.. dekhiye..,neutral
+36,madhusudan,nahi nahi... sev puri abhi nahi... bas 2 over baki hai... aray uski tickete to black ho rahi hai...,neutral
+36,indravardhan,sahil.. sahil... teenon ko gayab kar varana mein barbad ho jaunga... meri hatya ho jayegi sahil,sadness
+36,sahil,madhusudhan fufao... gayab ho jao!,neutral
+36,sahil,gaye!... ab isko pakdo,joy
+36,monisha,madhu fufa gayab!... madhu fufa gayab!... madhu fufa gayab,joy
+36,indravardhan,aray aray sahil .... sahil sahil.. sun sun sun sun sahil sun... isko bhi normal bana de.. i mean pehle jaise kam paga banade please!,sadness
+36,sahil,monisha... pehele jaise normal banjao.,neutral
+36,monisha,sahil... daddy ji.. aplke liye khane mein paneer banau?,neutral
+36,sahil,paneer our?,neutral
+36,monisha,bas paneer,neutral
+36,sahil,hai!!!,anger
+36,indravardhan,chaelga chalega... hum paneer aachar ke saath kha lenge ha... jao,neutral
+36,monisha,okay,neutral
+36,sahil,i mean.. monisha bai!!,anger
+36,indravardhan,sahil sahil... mein haat jodta hu... jo kuch bhi bolo jara soch samaz ke bolna ha.,fear
+37,maya,ohh... ye malvika ki vajaha re sab ga.... ,sadness
+37,maya,hello boys... bade cute lag rahe hai aap teeno,joy
+37,maya,aur dushyant tum... bhi,surprise
+37,indravardhan,belt theek hai na?,neutral
+37,dushyant,haa,neutral
+37,monisha,sahil!!!,joy
+37,sahil,ahh... haha.... hi sweetheart... how are you!.. haha..,joy
+37,monisha,kya khel/ kar rahe the aap log,joy
+37,rosesh,kuch nahi... daddy dikha rahe the ki vo mujhase kitna pyaar karte hai,neutral
+37,maya,hahaha... to vo to 30 seconds mein khatam ho gaya hoga... fir uske baad?,contempt
+37,rosesh,aap dekhna chahati hai ki vo mujhase kitna pyaar karte hai?,neutral
+37,maya,definitely!,joy
+37,rosesh,"daddy, mujhe pyaas lagi hai... pani?",neutral
+37,indravardhan,ofcourse... aahh... beta sadha piyoge ya thanda... mere munna!,neutral
+37,maya,unbelievable !,surprise
+37,babu,"okay boys, ab chinta karne ki koi jarurat nahi hai, maine dono ko chupa diya hai",joy
+37,maya,hello...,neutral
+37,babu,hello...,neutral
+37,monisha,ye kon hai?,anger
+37,indravardhan,plumber,neutral
+37,maya,plumber!?... lady plumner!?... aap logonne lady plumber ko bulaya,neutral
+37,indravardhan,maya... tumhi kehati ho na ki aurat ko har vo kaam karna chahiye jo mard kiya karte hai... isliye...,joy
+37,sahil,aa.. hum logonne yello pages mein se dhoond dhoond kar ek lady plumber ko yaha bulaya hai,neutral
+37,maya,very interesting...,neutral
+37,maya,umm.. miss.. umm.. ,neutral
+37,indravardhan,bhramham gachak shanika!,neutral
+37,maya,ohh whatever... aap plumber hai?,neutral
+37,everyone,haaa!,joy
+37,maya,"aap kuch kehe rahi thi na, ki maine dono ko chupa diya... kya chupa diya aapne?",neutral
+37,indravardhan,"haa vo... maya, tum bhool gayi, vo bathroom mein do live wires latak rahe the, shock lagne ka dar tha.. vo wires isne chupa diye",joy
+37,maya,achha achha... wire ko chupane ke liye tumne plumber ko bulaya.... hehehe... electrician ki to... ,joy
+37,indravardhan,"hum electrician ko bulane wale the maya, lekin rosesh! ",anger
+37,rosesh,daddy...,neutral
+37,indravardhan,"ne bechaare ne kaha bhi ki electrician ko bulate hai, lekin uski ek nahi mani sahil ne",sadness
+37,sahil,maine!?,surprise
+37,indravardhan,"nahi nahi.. sahil ne kaha, ise hi bulate hai, ise sab kuch ata hai, plumbing ka kaam bhi, aur electrician ka kaam bhi, aur iski khaas dost bhi hai, behen",neutral
+37,monisha,"sahil, ye tumhari khaas dost hai?",sadness
+37,sahil,iska bhai mera khaas dost hai,neutral
+37,monisha,to fir use kyu nahi bulaya?,anger
+37,sahil,ummm... kyu ki vo plumber nahi hai na!,neutral
+37,babu,ab mai jau... meri payment kar dijiye please...,neutral
+37,sahil,ek minute rukko... mai tumhe thodi der baad dunga,neutral
+37,maya,"baad mein kyu, mere paas hai abhi, i'll give it... kitne paise hue miss..",joy
+37,indravardhan,"no!... no.. tum maya se paise bilkul nahi logi... sahil, tum de do na iska cheque!",anger
+37,maya,cheque!?,surprise
+37,monisha,plumber ko?,surprise
+37,maya,"ooo.. i am kind of enjoying this... rosesh, baat kya hai",joy
+37,indravardhan,"rosesh, tumne bataaya nahi tum kya pioge... chai, doodh... ya fir margarita with crushed ice.. mere laal",joy
+37,maya,wonderful!... magar what's the catch rosesh,anger
+37,babu,excuse me...,neutral
+37,sahil,rukoo!,fear
+37,dushyant,"aray aap aise kaise ja sakti hai, aapke paana aur pakkad yaha hai na",neutral
+37,babu,vo mai fir kabhi leke jaungi,neutral
+37,indravardhan,"aray.. haha.. aise kaise ho sakta hai... aapko kisi aur jagaha contract mila to in paana, pakkad ke bina aap kaise kaam karegi",joy
+37,babu,waise mere paas aur 6 pakkad aur 15 paane hai,neutral
+37,kanchan/ luku,ouch!,surprise
+37,maya,aaah haa... bedroom mein se ye awaj kaise indravardhan,joy
+37,monisha,andar kaun hai!?,anger
+37,indravardhan,paana pakkad!,joy
+37,maya,bolti hui paana aur pakkad!,joy
+37,indravardhan,dushyant!... ab samjha na engineer!,neutral
+37,dushyant,vo kya hai robotized paana aur pakkad hai... jaise hi problem dete hai to chilla uthate hai... i'll explain... maan lo ki rosesh latki hui wire hai...,neutral
+37,maya,"okay, cut it out dushyant... mujhe koi bataega please ki kya sach hai?",neutral
+37,sahil,mai batata hu ki sach kya hai... andar bedroom mein 2 ladkiya hai,sadness
+38,monisha,"mummy ji, jaldi!",neutral
+38,maya,ye... bartan andar rakho kitchen mein,neutral
+38,monisha,"mummy ji, baad mein",neutral
+38,rosesh,"hello baldev uncle, aaiye",neutral
+38,maya,"hi baldev, hello sarupa",joy
+38,baldev,rosesh poetry kaise chal rahi hai?,neutral
+38,rosesh,fine uncle,neutral
+38,baldev,ye aap ke liye gift,neutral
+38,maya,how sweet of you...hawww!,joy
+38,monisha,kya hai ye... kala khatta!?,joy
+38,maya,nahi... hehe... wine,neutral
+38,maya,cabernet sauvignon,joy
+38,monisha,dikhaiye...,neutral
+38,monisha,aachhii (sneeze)....,neutral
+38,sarupa,aaaaa!,surprise
+38,maya,haha.. sar pe chawal girna achha shagun mana jata hai baldev,fear
+39,sahil,konsi cd di hai mom ne. ismein loud music baaj rahe hai nilima aunti ki speech hai.,anger
+39,rosesh,aapki wali cd ye hai. the great comedy of errors,joy
+39,sahil,comedy of errors kyun?haa haa madhu fufa hearings kaise chaal raha hai? k baat hai ye itna sarmate q hai?,surprise
+40,monisha,namaste main monisha sahil sarabhai apni sas maiya indravadan sada bhai ke bare mein kuchh rai sunna chahti hun. log kahate hain ki saas bhi maa jaisi hoti hai. yah galat hai balki meri sans to kabhi meri maa nahin ban sakti. mike per meri man kabhi mujhe rokto tokti nahin thi. main apni sari chijen apni kitab jute jurabe idhar udhar bikhar deti to meri man hayo rabba hayo rabba kk sab cheez thik thak jagah mein rakh deti thi. lekin meri sas jabardasti ghar mein ghus ke saaf safai karvati hai. upar se mujhe dant ti hai. mujhe thane marti hai main apni mike mein hamesha vah apni manmani ka tithi. icecream ki kaun khane ke waqt jab icecream mere hath mein lag jata tha tab main use chat le tithi. tab meri maa mujhe dekh kar kahati thi hai kitni soni hai meri monisha.he he he.magar meri saas mujhe hotel mein aise ghurti hai. kidhar ke mare mein icecream hi nahin mangwati. meri man meri man hai. magar meri sas meri teacher hai. meri laperva yo ko sudharne ke bavjud aaj tak kabhi nahin tha ki hai vah mujhe apni level tak lana chahti hai. mujhe apni sahil wo jo rumne kal scurvy pe word banaya tha wo wo imly tha africa jaisa kya tha?,neutral
+40,sahil,replica,neutral
+40,monisha,han meri sas mujhe apni replica banana chahti hai. aur agar vah kamyab ho gai to sabse jyada khushi mujhe hogi. kyunki maya sara bhai jaisa koi nahin agar main unke replica band sakhi tu ja mere saubhagya hoga. sach meri saas kabhi mera maa nahin ban sakti.aur ishime meri valai hain.thank you jay hind.,joy
+41,indravardhan,good morning maya,neutral
+41,maya,good morning sweetie,joy
+41,indravardhan,nashta nashta nashta,neutral
+41,maya,vitthal sabko nashta do,neutral
+41,indravardhan,main dudh hargis nahin piyunga. maya mujhe diaria hai subah se 6 bar ja chuka hun main,sadness
+41,vitthal,"accha to ye vegetable burger wale smash potato, ye grill sandwich kon khayega?",neutral
+41,maya,ek kam karo strawberry milkshake ke sath rosesh baba ko de aao.,neutral
+41,indravardhan,dr? .. haa... ha boliye dr saab.. meri report galat hai. mujhe diaria nehi hain. maya good news mujhe diarrhoea nahin hai. main kha sakta hun vah sab.,joy
+41,maya,achha? to subhe se 6 baar toilet kyon gaye the? aisehi,neutral
+41,indravardhan,vah to safety ke liye halaki mujhe pura yakin tha mujhe diaria nahin hai magar maine kaha chand kyon lena,neutral
+41,maya,tu supposing agar tumhari galat report mein khansi jukam hota to tum uhi subah se khas te yah chikte? just to be on the safe site haan? such a lier indu. vitthal do unko nashta,joy
+41,indravardhan,jaldi la jaldi la ya dudh,neutral
+41,maya,achcha itna jyada mat khana maine pineapple pudding walnut cake and alu motar katlets bhi banaye hai breakfast mein.im so happy for my home so happy. kahan ho tum rosesh?,joy
+41,indravardhan,kya baat hai subah subah maya itni khush kyon hai? jarur daal mein kuch kaala hai,fear
+41,vitthal,mujhe pata hai sahab memsaab itni khush kyon hai,neutral
+41,indravardhan,to jaldi batao na,anger
+41,vitthal,gossip ossip karna mujhe achcha nahin lagta,neutral
+41,indravardhan,vitthal yah le sau rupaiya bata,neutral
+41,vitthal,vaise gossip karna mujhe itna bura bhi nahin lagta lekin,joy
+41,indravardhan,le 200 rupaiya ab bata,neutral
+41,vitthal,saheb gossip karna mujhe achcha lagta hai lekin,joy
+41,indravardhan,chorna mujhe sunna hi nahin hai,neutral
+41,vitthal,saheb saheb 200 hi de dijiye,neutral
+41,indravardhan,rishwat dena mujhe bilkul pasand nahin hai,contempt
+41,vitthal,achcha sau de dijiye bas.,neutral
+41,indravardhan,vaise rishwat dena mujhe itna bhi bura nahin lagta,neutral
+41,vitthal,achha 50 chalega,sadness
+41,indravardhan,aa haa . yah le 50 rupaiya ab chal bata,joy
+41,vitthal,sahib cal raat monisha mem sahab aur sahil baba ke bich mein bahut bada jhagada hua . monisha memsaab ne aatmhatya karne ki dhamki de,neutral
+41,indravardhan,achha that's it. tabhi to main kaho ki maya rani itni mood per kyon hai?,contempt
+41,maya,indravadan indu aaj film dekhne chalen,joy
+41,indravardhan,achcha kaun si monisha bani murda. yah bahu kare khud khushi aur sans hasi khushi khushi,contempt
+41,maya,what are you talking about indu?,surprise
+41,indravardhan,oh ho ho bholi nhor masum mallika. jaise tumhen pata hi nahin ki sahil aur monisha ka itna bada jhagada hua hai kyon?,contempt
+41,maya,are o.,neutral
+41,indravardhan,aur tumne man hi man bohut bada darwa kiya hoga naa eee sahil ne ki hai monisha se badi fight aur monisha to khudkhusi karne chali humto pahenege kapre white rang lo.,neutral
+41,maya,stop it indravardhan.,anger
+42,neelima,i am really really really very sorry doctor sahil agar main abhi aap se milane nahin aati to aapko mujhse milane aana padta meri laaas pahchane.,neutral
+42,sahil,neelima ji stop it please,disgust
+42,neelima,nahin nahin aaj main khud nahin wali thi apni balcony se lekin ruk gai. main 22nd floor mein rahti ho,neutral
+42,monisha,to,surprise
+42,neelima,22nd is very unlucky number for me. agar nahin marti to,fear
+42,monisha,"to ap apne kisi aur padosi ke ghar mein chali jaati 21st,23rd,24th",neutral
+42,sahil,monisha hamen in a balcony se kudne se encourage nahin karna chahie alright. just leave us alone for. kya logi tum,neutral
+42,neelima,no thanks doctor mein apna fire case dinner karke hi khud ne wali thi ok theek hai agar aap itna hi insist kar rahe tu i have a glass of wine,joy
+42,sahil,ok monisha jara apni bedroom ke fridge main se wine lekar aao,neutral
+42,monisha,sahil kaun si wali 170 wala 540 wali,neutral
+42,sahil,540 wali le aao darling,neutral
+42,monisha,bahut mahangi,neutral
+42,neelima,she is so cute really. ek hi yah hai aur ek mera boyfriend hai jo hamesha kahate rahata hai ki tum se to preity zinta acchi hai. she is so beautiful .she is so hot .she is so gorgeous. aur uske dimples uske dimples to wow. aapko pata hai doctor sahab aajkal to main..... aise ghumta hun.,neutral
+42,sahil,kyon,surprise
+42,neelima,preity zinta ko dimple jo hai chaliye chaliye doctor sahil. aap fatafat mujhe preity zinta jaisa banaa dijiye yah lijiye uski tasveer dekhiye. mujhe aisa hi dekhna hai ok.yeah alright. aur haircut aur haircut mujhe kal ho na ho look chahie. but not the lux lux is very tacky you know. aur han mujhe left se thodi wavey. alright se thodi straight.or piche se,neutral
+42,sahil,neelima neelima neelima mein ek inecostumeologist hun. aur tum apne aap mein kitni acchi ho,neutral
+42,neelima,really,joy
+42,sahil,i mean you are unique tum banke main bahut sundar ho,joy
+42,neelima,sach?,joy
+42,sahil,han han tumhara boyfriend sach kaho na pagal hai. tumhari aankhen wow they are gorgeous,joy
+42,neelima,really,joy
+42,sahil,believe me and your hairstyle,neutral
+42,neelima,aur mere hoth,neutral
+42,sahil,wo bhi.,neutral
+42,neelima,thank you thank you so much doctor sahil kuch ho gaya hai. kuch hone wala hai.naa naa naa laa raa raa raa.,joy
+42,sahil,brilliant,joy
+42,neelima,thankyou thankyou doctor sahil agar aap mere boyfriend hote tu mere liye tajmahal banate na,neutral
+42,monisha,uske liye aapko pahle marna padta neelima ji wine,contempt
+42,neelima,oh she is jealous i can see it in your eyes. kash mera boyfriend bhi itna possessive hota.nevermind. han sar hathi hai aap doctor sahab ab baith jaaiye. mujhe fatafat preity zinta jaisa banaa dijiye aur jaise ki main aapko kaha tha ki mujhe hairstyle yahan se thoda vah bhi yahan se thoda strate,neutral
+42,sahil,neelima neelima neelima you are a psychic case you need a psychiatrist,anger
+42,neelima,psychiatrist,surprise
+42,sahil,yeah,anger
+42,neelima,yani aapko lagta hai ki main pagal hun. a halkat harami kurte chal fatafat mujhe preity zinta banaa de. varna main teri what laga dungi,anger
+43,monisha,sahil ko pta chalega to kya hoga daddy ji? mujhe bhot darr lag rha hai.,fear
+43,indu,are kuch nhi hoga bhyi. tumse sirf tail light hi tuti hai na?,neutral
+43,monisha,nhi. wo paint bhi ukhad gya hai and gadi ke seat cover bhi kharab ho gye hai.,sadness
+43,indu,kya? seat cover kese kharab hua?,surprise
+43,monisha,"wo, hath me lipstick thi na, wo girr gyi seat par.",fear
+43,indu,"pagal tumse kaha tha, us waqt lipstick lagane mat betho.",anger
+43,monisha,me laga nhi rhi thi daddy ji,neutral
+43,indu,to?,neutral
+43,monisha,wo me windshield pe likhne jaa rhi thi ki pehle mene chalai hai. ha ha ha.,neutral
+43,indu,"ke jo kaam kaaj. reverse karna ata nhi hai or ek crore barah lakh ki gadi chalane chali ho. kya pahad tut jata agar maya tumse pehle gadi chala leti? pehle me, pehle me, pehle me ki ratt lagaye bethi thi.",anger
+43,monisha,"haiila, daddy ji, aap hi ne to kaha tha.",surprise
+43,indu,mujhe beech me mat ghaseeto huh monisha. me court me kuch nhi kehne wala judge ke samne. yes.,neutral
+43,monisha,court me?,surprise
+43,indu,haan! jab sahil ko pta chalega tab wo tumhe court me to ghaseet ke le hi jaega na divorce ke liye.,neutral
+43,monisha,huh? kya?,surprise
+43,indu,hahaha. maan gyi? are budhu me tumhari tang kheench rha tha. me or tu hai support me esa kabhi hua hai?,joy
+43,monisha,aap support karenge na daddy ji?,neutral
+43,indu,ye bhi koi puchne ki baat hai? divorce ke baad bhi tum mere hi sath rahogi!,neutral
+43,monisha,daddy ji!,anger
+43,indu,"okay, relax, relax. acha ye btao, tumne jab gadi start ki tab kisi ne dekha tha?",neutral
+43,monisha,"umm, nhi nhi.",neutral
+43,indu,"bas! problem solved. teri bhi chup, meri bhi chup. ab jab sahil aaega na to use...",joy
+43,sahil,"okay mom, me neeche wait kar rha hun.",neutral
+43,indu,hi sahil,neutral
+43,sahil,hi. kya kar rhe hai aap dono yahan?,neutral
+43,indu,"umm, hawa kha rhe hai.",neutral
+43,sahil,hawa? yahan kahan hai hawa?,contempt
+43,indu,hum log kha gye to kahan se hogi?,joy
+43,sahil,brilliant,neutral
+44,sahil,"monisha, mere joote. oh my god.",surprise
+44,monisha,"sahil, ye rhi tumhari gadhi, tumhara wallet or tumhara rumal. orr, ye rhe tumhare joote",neutral
+44,sahil,i just don’t believe this. ye ghar ki halat kisne kar di hai,neutral
+44,monisha,mene kiya sahil. ekdum chakachak haina,joy
+44,sahil,thanks a lot. finally tumne meri baat sunli. thanks a million,joy
+44,monisha,"isme thanks kehne ki kya zarurat hai, ye to mera farz hai",joy
+44,sahil,haan haan lekin nibhaya to pehli baar na,neutral
+44,monisha,"to pehli baar hi to aa rhe hai, karan verma urf patang ji.",neutral
+44,sahil,"acha wo... kyaa. okay, matlab ye sari saaf safai tumne us patang ke liye ki hai",surprise
+44,monisha,"sahil, tumhe btaya to tha ki patang ji humare ghar aa rhe hai. contest",joy
+44,rosesh,"monisha bhabhi, ye... wow, amazing. patang ji ko welcome karne ki achi tayari ki hai aapne.",joy
+44,monisha,"haina. acha sahil, tum maaj clinic nhi gye to nhi chalega. acha theek hai chale jana. tiffin kitne baje bhejun",neutral
+44,sahil,"tiffin 2 baje, orr...",neutral
+44,monisha,"patang ji aa gye. sahil, tum ye diya jalao please, jaldi se. or rosesh bhaiya, kavita",joy
+44,rosesh,bas thodi si baki hai.,neutral
+44,monisha,"rosesh bhaiya me unka swagat kese karungi... aap bhi na. sahil jaldi karo. or rosesh bhaiya aap darwaza kholiye please lekin haan, teen baar kholiega darwaza, haan",joy
+44,rosesh,teen baar kyun,surprise
+44,monisha,kyunki serial me patang ji ki entry pe teen baar darwaza khulta hai na... teen baar ho gya rosesh bhaiya hatiye na,joy
+44,patang/karan,"tv ke hum badshah to hai, diwani hui hai ladkiya kayi sari. kayi ke autograph liye to kayi ne photograph. lekin, ye arti, arti pehli baar hi kisi ne utari hai.",neutral
+44,rosesh,"wow, nice one huh",joy
+44,monisha,"shhh, aiye na, aiye na",joy
+44,monisha,"karan ji, karan ji, ye mere dewar hai, rosesh.",joy
+44,patang/karan,hi,neutral
+44,rosesh,hi,neutral
+44,monisha,"or ye, ye mere pati hai. or me na...",joy
+44,patang/karan,"let me guess, you are monisha",neutral
+44,monisha,aapko kese pta chala,surprise
+44,pandit,"ye dono mard hai na to inka naam monisha ho nhi sakta. to mujhe laga ki shayad, shayad tum monisha ho.",neutral
+44,patang/karan,how intelligent na...,joy
+44,sahil,"lekin aap khade kyun hai, bethiye na. aaiye aaiye.",neutral
+44,monisha,"ek min, ek min. hato...",fear
+44,sahil,ye kya tha,surprise
+44,patang/karan,"ye mera, entry music hai serial me. serial me mera naam patang hai.",neutral
+44,sahil,"oohh, matlab, jab bhi aapki entry hoti hai to yahi music bajta hai, lapet lapet",neutral
+44,patang/karan,"yeah, infact agar dukh bhara scene hai to sad version bhi hai.",neutral
+44,sahil,wo kya hai,neutral
+44,patang/karan,lapet.... lapet..... lapet bas,sadness
+44,monisha,"rosesh bhaiya, photo khinchiye na",joy
+44,patang/karan,ek alag pose ho jaye,neutral
+44,sahil,monisha me office ja rha hun.,sadness
+44,monisha,ek or,joy
+44,patang/karan,yeah yeah sure,neutral
+44,monisha,wo ese wala,neutral
+45,rosesh,momma!,sadness
+45,maya,"rosesh, hausla rakho, sweetie",neutral
+45,rosesh,"kaise rakhun hausla, momma?",sadness
+45,maya,"control yourself, sweetie.",neutral
+45,rosesh,"kaise karun control, momma?",sadness
+45,maya,"beta, samajhne ki koshish karo.",neutral
+45,rosesh,"kaise samajhne ki koshish karun, momma?",sadness
+45,indu,"teen mein se ek bhi cheez karni nahin aati hai tujhe?humesha puchta rehta hai “kaise karun momma?”. maya, iski shaadi ho gayi to kya hoga?",contempt
+45,maya,"indu, please! just shut up! ek to bechare ka visa reject ho gaya hai",sadness
+45,indu,"wo to hona hi tha, maine isse keha tha ki visa office karke samne burqa pehenke jaana,phir bhi usne apna chehera dikhaya, phir bhi upar se munh bhi khola, “hi, i want to visit my parrot uncle in the u.s.”",contempt
+45,maya,baqwas band karo indu aur kuch kaam karo. jao. paani le aao.,anger
+45,indu,main mard hoon.,anger
+45,maya,"pata hai, lekin ab iska kuch nahin ho sakta hai. tumhein isko accept karni hi hogi.",neutral
+45,rosesh,ab kitne din ke liye jaa rahi hain?,sadness
+45,maya,ek mahina to lagega na,neutral
+45,rosesh,"ek mahina! main to adha mar jaunga, momma.",sadness
+45,indu,"maya, in that case, tum do mahine ke liye kyon nahin nikali jaati?",neutral
+45,maya,"indravadhan, please! answer the phone.",anger
+45,indu,main mard hoon. kaun? viren?,neutral
+45,maya,viren! kya hua?,fear
+45,monisha,"popat kaka guzar gaye, sahil.",sadness
+45,sahil,"ah, i know that. chalo, apne aapk ko sambhalo.",neutral
+45,monisha,hum log los angeles nahin ja rahe hain.,sadness
+45,sahil,hm.,neutral
+45,monisha,hum shok yahin manayenge.,sadness
+45,sahil,to?,neutral
+45,monisha,to kya? los angeles mein main main? sabun sirf do dollar dozen hain. chance gaya na.,sadness
+45,sahil,"shaant ho jaiye, mom.",neutral
+45,rosesh,"honi ko kaun taal sakta hai, momma.",neutral
+45,indu,"haan, rosesh ko dekho na.",contempt
+45,maya,mujhe apne kande par bithakar ice cream khilane le jaate the popat kaka.,sadness
+45,sahil,"mom jab choti thi na, tab.",neutral
+45,monisha,"accha, tab.",neutral
+45,maya,"you know, mera kanyadaan bhi, unhone kiya tha, aur wo diamond ka set hai na,jo maine tumhein diya monisha",sadness
+45,monisha,kaun sa?,neutral
+45,maya,"wohin, jo tum artificial silk ki salwar camiz par pehenti ho.wo bhi mujhe popat kaka ne diya tha. main unki ladli thi.",sadness
+45,monisha,hongi. tabhi to unhone aisi shararti pet names se bulane ki himmat kar sakti hain aap –popat kaka.,neutral
+45,sahil,"monisha, yahi unki asli naam tha",neutral
+45,monisha,popat?,surprise
+45,maya,"gujaratiyon mein buzargon ke aise hi naam hote hain haathi bhai, gujara lal",neutral
+45,indu,"haan, humari ek mami ka naam to mirchi mami tha. bahut darti thi wo popat kaka se.you know, mirchi, popat.",joy
+45,maya,ghar mein dehant hua hai,sadness
+45,indu,"haan, maya. main to mahaul relax karne ki koshish kar raha hoon.",neutral
+46,monish,sahil sahil sahil. sirf 4 din bache hai or sari ladkiyan khatam ho gyi hai,fear
+46,sahil,haan lekin mom unn charo me se kisi ek ko finalise kar lengi.,neutral
+46,monish,mummy ji ko to unme se koi pasand nhi hai,sadness
+46,sahil,rosesh ko?,neutral
+46,monish,"unhe to charo pasand hai. wese sahil, waqt beeta jaa rha hai. rosesh bhaiya bhot pareshan hai ki kon banegi unki dulhan. pta hai unhone khana peena tak chorr diya hai",fear
