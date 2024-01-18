@@ -1,0 +1,1355 @@
+,id,speaker,utterance,emotion,utterance_translit
+0,1,good rosesh,ye kya kar raha hai rosesh? bharat tera desh! bhartiya insan hai saccha. kisi ka khat padhna nahin hai achcha.,neutral,ये क्या कर रहा है रोसेश? भारत तेरा देश! भारतीय इंसान है सच्चा. किसी का खत पढ़ना नहीं है अच्छा।
+1,1,bad rosesh,"hahaha khat padh le rosesh baby or padhne de hamen bhi. kitna achcha lagta hai balon mein gel, ding dong bell.",neutral,"हहाहा खत पढ़ ले रोसेश बेबी ओर पढ़ने दे हमें भी. कितना अच्छा लगता है बालों में जेल, डिंग डोंग बेल।"
+2,1,good rosesh,"kavita acchi hai lekin khayal achcha nahin hai, villain rosesh. momma ne kaha hai kisi aur ka khat padhna galat baat hai",neutral,"कविता अच्छी है लेकिन खयाल अच्छा नहीं है, विलेन रोसेश. मोम्मा ने कहा है किसी और का खत पढ़ना गलत बात है"
+3,1,bad rosesh,"galat hai, par momma ne tumse kaha tha ki do bar brush karna aur tumne sirf ek bar kiya tha kya vah galat nahin tha?",contempt,"गलत है, पर मोम्मा ने तुमसे कहा था की दो बार ब्रश करना और तुमने सिर्फ एक बार किया था क्या वह गलत नहीं था?"
+4,1,good rosesh,galat tha per,neutral,गलत था पेर
+5,1,bad rosesh,momma ne tumse jab green chatni mangi thi aur tumne red pass ki thi kya vah galat nahin tha?,contempt,मोम्मा ने तुमसे जब ग्रीन चटनी मांगी थी और तुमने रेड पास की थी क्या वह गलत नहीं था?
+6,1,good rosesh,wo to galat tha,neutral,वो तो गलत था
+7,1,bad rosesh,pichhle sal momma ki nayi hair style ostrich jesi thi aur tumne unhen apsara kaha tha kya vah galat nahin tha?,contempt,पिछले साल मोम्मा की नई हेयर स्टाइल ऑस्ट्रिच जेसी थी और तुमने उन्हें अप्सरा कहा था क्या वह गलत नहीं था?
+8,1,good rosesh,han tha tha tha!,neutral,हन था था था!
+9,1,rosesh,"please please please, tum log jara sophisticated argument karo na varna momma kahenge ki meri antaratma bahut middle class hai. tum log decide kar lo tab tak main yah lifafa khol ke padh leta hun.",neutral,"प्लीज प्लीज प्लीज, तुम लोग जरा सोफिस्टिकेटेड आर्गुमेंट करो ना वर्ण मोम्मा कहेंगे की मेरी अंतरात्मा बहुत मिडल क्लास है. तुम लोग डिसाइड कर लो तब तक मैं याह लिफाफा खोल के पढ़ लेता हुन।"
+10,1,rosesh,"""my darling husband indravadan"" yah to momma ki handwriting hai...",neutral,"""माई डार्लिंग हसबैंड इंद्रवदन"" याह तो मोम्मा की हैंडव्राइटिंग है..."
+11,1,maya,"darling i know ki ham do hamare do is so middle class. isiliye to humne teesra bachcha plan kiya tha haina? lekin present circumstances ko dekh ke i am not so sure. is topic pe main tumse baat nahin kar sakti isiliye khat likh rahi hun, but kya hamen sachmuch mein yah teesra baccha. i am so confused indravadan",sadness,"डार्लिंग आई नोव की हम दो हमारे दो इस सो मिडल क्लास. इसीलिए तो हमने तीसरा बच्चा प्लान किया था हैना? लेकिन प्रेजेंट सर्कमस्टेंस को देख के आई एएम नोट सो सुरे. इस टॉपिक पे मैं तुमसे बात नहीं कर सकती इसीलिए खत लिख रही हुन, बट क्या हमें सचमुच में याह तीसरा बच्चा. आई एएम सो कन्फ्यूज्ड इंद्रवदन"
+12,1,rosesh,momma...,sadness,मोम्मा...
+13,2,kismi,excuse me,neutral,एक्सक्यूज मे
+14,2,rosesh,kaun hai kaun hai?,fear,कौन है कौन है?
+15,2,kismi,mai kismi,neutral,मई किसमी
+16,2,rosesh,kis meethi raat gaye,neutral,किस मीठी रात गये
+17,2,kismi,han vah sorry aapko disturb kiya so rahe the aap,neutral,हन वह सॉरी आपको डिस्टर्ब किया सो रहे थे आप
+18,2,rosesh,nahin bus thodi si nind aa gai thi. sorry han ,joy,नहीं बस थोड़ी सी निंद आ गई थी. सॉरी हन
+19,2,kismi,sorry kya. baje raat ke 3:30 baje hain. sabko hi nind aati hai. bus mujhe hi nind nahin aati hai,sadness,सॉरी क्या. बजे रात के ३:३० बजे हैं. सबको ही निंद आती है. बस मुझे ही निंद नहीं आती है
+20,2,rosesh,kismi don't cry. try counting sheep,neutral,किसमी दोन'टी क्राई. ट्राई काउंटिंग शीप
+21,2,kismi,kya?,neutral,क्या?
+22,2,rosesh,man mein bed bakriyan gino,neutral,मन में बेड बकरियां गिनो
+23,2,kismi,"ab tak 16,824 bed bakri gin chauki mein. apne jaitpur gaon ki",sadness,"अब तक १६,८२४ बेड बकरी गिन चौकी में. अपने जैतपुर गांव की"
+24,2,rosesh,toh?,neutral,तोह?
+25,2,kismi,toh octroi wale aaye mere man mein sawal karne lage. itni sari bade bakriyan lai ho to unka octroi kyon nahin bhara,neutral,तोह ओक्ट्रोई वाले आये मेरे मन में सवाल करने लगे. इतनी सारी बड़े बकरियां लाई हो तो उनका ओक्ट्रोई क्यों नहीं भरा
+26,2,rosesh,kismi mujhe lagta hai ki tum jyada hi imaginative ho,joy,किसमी मुझे लगता है की तुम ज्यादा ही इमेजिनेटिव हो
+27,2,kismi,nahin re nahin imaginative hoti to train ki dhad dhad imagine nahin kar leti main. mujhe na train ki awaaz sunkar hi sone ki aadat hai. aapko koi aisi aadat hai,neutral,नहीं रे नहीं इमेजिनेटिव होती तो ट्रेन की धड़ धड़ इमेजिन नहीं कर लेती मैं. मुझे ना ट्रेन की अवाज़ सुनकर ही सोने की आदत है. आपको कोई ऐसी आदत है
+28,2,rosesh,bahut pahle ek buri aadat ki,neutral,बहुत पहले एक बुरी आदत की
+29,2,kismi,kya?,neutral,क्या?
+30,2,rosesh,angutha chusne ki,neutral,अंगूठा चूसने की
+31,2,kismi,angutha chusne ki aadat buri kaise hovi?,surprise,अंगूठा चूसने की आदत बुरी कैसे होवी?
+32,2,rosesh,pair ka,neutral,पैर का
+33,2,kismi,ahan,neutral,अहान
+34,2,rosesh,pair ulta karke i'll show you. yeh aese. aaaa. aaaa,sadness,पैर उल्टा करके आई'ल्ल शो यू. येह ऐसे. एएए. एएए
+35,2,kismi,kya hua rosesh kya hua?,fear,क्या हुआ रोसेश क्या हुआ?
+36,2,rosesh,nass pe nass chad gayi! my back,sadness,नास पे नास चढ़ गयी! माई बैक
+37,2,kismi,ek minute ek minute. hilna mat hilna mat hilna mat. ruko ruko. yeh yah yahan dukh raha hai,neutral,एक मिनिट एक मिनिट. हिलना मत हिलना मत हिलना मत. रुको रुको. येह याह यहां दुख रहा है
+38,2,rosesh,momma,sadness,मोम्मा
+39,2,kismi,shhh. shanti shanti ek minute 1 2 3,neutral,श्ह. शांति शांति एक मिनिट १ २ ३
+40,2,rosesh,dard chala gaya kismi,joy,दर्द चला गया किसमी
+41,2,kismi,han,joy,हन
+42,2,rosesh,you are amazing,joy,यू अरे अमेजिंग
+43,2,kismi,vah kya hai na mere mama ki na cycle repair karne ki dukaan hai,joy,वह क्या है ना मेरे मामा की ना साइकिल रिपेयर करने की दुकान है
+44,2,rosesh,toh?,neutral,तोह?
+45,2,kismi,vah side mein ka bhi karte hain. hadiya jodne ka bhi aata hai unhen,neutral,वह साइड में का भी करते हैं. हादिया जोड़ने का भी आता है उन्हें
+46,2,rosesh,ok,neutral,ओक
+47,2,kismi,unse sikha maine,joy,उनसे सिखा मैने
+48,2,rosesh,really?,joy,रियली?
+49,2,kismi,han chaluth hai re. good night ,neutral,हन चलुथ है रे. गुड नाइट
+50,2,rosesh,kismi kismi. baitho na tumhen gehri neend sona hai na,neutral,किसमी किसमी. बैठो ना तुम्हें गहरी नींद सोना है ना
+51,2,kismi,haan,sadness,हाँ
+52,2,rosesh,tumhen main apne natak ka dialogue sunao?,neutral,तुम्हें मैं अपने नाटक का डायलॉग सुनाओ?
+53,2,kismi,tumhare natak ke dialogue sun ke log so jaate hain,neutral,तुम्हरे नाटक के डायलॉग सुन के लोग सो जाते हैं
+54,2,rosesh,nahin yah ek special natak tha jismein mein train ka dabba banaa tha,neutral,नहीं याह एक स्पेशल नाटक था जिसमें में ट्रेन का डब्बा बना था
+55,2,kismi,train ka dabba?,neutral,ट्रेन का डब्बा?
+56,2,rosesh,han aise aur mera dialogue tha. train noises.,joy,हन ऐसे और मेरा डायलॉग था. ट्रेन नोइसेस।
+57,3,rosesh,oh my god yamraj uncle. mama aap night gown main corridor mein,surprise,ओह माई गोद यमराज अंकल. मामा आप नाइट गाउन मैं कॉरिडोर में
+58,3,maya,o just forget about it. indu indu,fear,ओ जस्ट फॉरगेट अबाउट इट. इंदु इंदु
+59,3,rosesh,mom dad ki pulse nahi hai. dad gaye,sadness,मोम दाद की पल्स नही है. दाद गये
+60,3,maya,what rubbish yamraj ji e aap abhi ke abhi isse zinda karo come on,anger,व्हाट रबिश यमराज जी ई आप अभी के अभी इस्से जिंदा करो कोम ओन
+61,3,yamraj,vah re kalyug ki savitri. mein chalta hun,contempt,वह रे कलयुग की सावित्री. में चलता हुन
+62,3,maya,nahin nahin nahin please rukiye. please mere pati ko wapas jinda kar dijiye please,sadness,नहीं नहीं नहीं प्लीज रुकिए. प्लीज मेरे पति को वापस जिंदा कर दीजिए प्लीज
+63,3,yamraj,uske alava dusra kuch mangi hai maya. aur han so santan chahie vah wali trick nahin mat aajmana,neutral,उसके अलावा दूसरा कुच मांगी है माया. और हन सो संतान चाहिए वह वाली ट्रिक नहीं मत आजमाना
+64,3,indravardhan,are nahin yamraj ji wo aisi koi chij mange bhi na to kabhi tathasthu hargiz mat kahan. agar 100 rosesh paida ho gaye to hamara kya hoga,fear,अरे नहीं यमराज जी वो ऐसी कोई चीज मांगे भी ना तो कभी तथास्तु हरगिज मत कहन. अगर १०० रोसेश पैदा हो गये तो हमारा क्या होगा
+65,3,maya,o just shut up yah waqt hai joke karne ka. hello indravardhan,contempt,ओ जस्ट शूट यूपी याह वक्त है जोक करने का. हेलो इन्द्रवर्धन
+66,3,everyone,everyone sings,joy,एवरयोन सिंग्स
+67,3,maya,yah sab tum logon ka natak tha mujhe pahle se hi pata tha,neutral,याह सब तुम लोगों का नाटक था मुझे पहले से ही पता था
+68,3,indravardhan,abhi thodi der pahle tu ro rahi thi. sahil maine kaha tha na ham donon ke bich mein koi bhi problem ho lekin waqt aane per yah mere liye sati savitri jarur banegi,joy,अभी थोड़ी देर पहले टू रो रही थी. साहिल मैने कहा था ना हम दोनों के बीच में कोई भी प्रॉब्लम हो लेकिन वक्त आने पेर याह मेरे लिए सती सावित्री जरूर बनेगी
+69,3,rosesh,and momma meet him this is ramesh shirke stage actor,joy,एंड मोम्मा मीट हिम थिस इस रमेश शिरके स्टेज एक्टर
+70,3,yamraj,hello,joy,हेलो
+71,3,maya,i hate him.,joy,आई हटे हिम।
+72,3,monisha,mummy ji yah ine sab ki mili bhagat thi,joy,मम्मी जी याह इने सब की मिली भगत थी
+73,3,indravardhan,han taki wedding anniversary ki party se pahle thoda maja a jaaye,joy,हन ताकी वेडिंग एनिवर्सरी की पार्टी से पहले थोड़ा मजा आ जाए
+74,3,sahil,i'm sorry mum. i love you.,joy,आई'एम सॉरी मम. आई लव यू।
+75,3,monisha,mummy ji pata hai shirke sab ne muft mein acting ki. sirf unki costume ke 300 rupaye lage uska aadha ham de denge,joy,मम्मी जी पता है शिरके सब ने मुफ्त में एक्टिंग की. सिर्फ उनकी कॉस्ट्यूम के ३०० रुपये लगे उसका आधा हम दे देंगे
+76,3,maya,monisha please.,contempt,मोनिशा प्लीज।
+77,4,sahil,mr. sindolin ghar mein matlab hamare parivar ke sath 7 sal bad kabhi kuchh achcha bhi hoga? i mean thoda sa,contempt,एमआर. सिंडोलिन घर में मतलब हमारे परिवार के साथ ७ साल बाद कभी कुछ अच्छा भी होगा? आई मीन थोड़ा सा
+78,4,monisha,han han jaise ki hamen gas ka extra cylinder mila ho yah balcony ko bahar tak khinch kar extra ka kamra banane ki permission di ho municipality ne?,neutral,हन हन जैसे की हमें गैस का एक्स्ट्रा सिलेंडर मिला हो याह बाल्कनी को बाहर तक खींच कर एक्स्ट्रा का कमरा बनने की परमिशन दी हो म्युनिसिपैलिटी ने?
+79,4,rosesh,aisa kuchh jahan hamari puri family ek dusre ka sath de rahi ho,neutral,आइसा कुछ जहां हमारी पूरी फैमिली एक दूसरे का साथ दे रही हो
+80,4,maya,right,neutral,राइट
+81,4,rosesh,aisa kuchh achcha sa dikhaiye na,neutral,आइसा कुछ अच्छा सा दिखाइए ना
+82,4,indravardhan,ay chambu. ham bahubhai jamuna ka ke pass cut piece centre nahin ja rahe ek shirt piece dikhaiye na,contempt,आय चंबू. हम बहुभाई जमुना का के पास कट पीस सेंटर नहीं जा रहे एक शर्ट पीस दिखाइए ना
+83,4,rosesh,mera matlab hai jahan hamari family ek dusre ko support kar rahi ho ok ,anger,मेरा मतलब है जहां हमारी फैमिली एक दूसरे को सपोर्ट कर रही हो ओक
+84,4,mr. sindolin,ok. ,neutral,ओक।
+85,4,sahil,ocean of the unknown,neutral,ओशन ओएफ थे अंकनाउन
+86,4,maya,mountains of mistic,neutral,माउंटेन्स ओएफ मिस्टिक
+87,4,mr. sindolin,ek minute ek minute mein jaon?,anger,एक मिनिट एक मिनिट में जाओं?
+88,4,sahil,nahin nahin we are sorry continue,neutral,नहीं नहीं वे अरे सॉरी कंटिन्यू
+89,4,mr. sindolin,oceans of the unknown mountains of mystique supportive family hand in hand that is what we seek,neutral,ओशन्स ओएफ थे अंकनाउन माउंटेन्स ओएफ मिस्टिक सपोर्टिव फैमिली हैंड इन हैंड थाट इस व्हाट वे सीक
+90,5,vithal,sahil baba bete honi ko kaun tal sakta hai. bete chalo khana khate hain,neutral,साहिल बाबा बेटे होनी को कौन टाल सकता है. बेटे चलो खाना खाते हैं
+91,5,sahil,kitna pyar tha ham donon ke bich mein vitthal kaka,sadness,कितना प्यार था हम दोनों के बीच में विठ्ठल काका
+92,5,maya,oh my god monisha i think tum gai,fear,ओह माई गोद मोनिशा आई थिंक तुम गई
+93,5,monisha,sahil please rona band karo na. ,sadness,साहिल प्लीज रोना बंद करो ना।
+94,5,monisha,main zinda hoon main zinda hoon,joy,मैं जिंदा हूँ मैं जिंदा हूँ
+95,5,indravardhan,maya mar gai hai,neutral,माया मार गई है
+96,5,rosesh,momma,sadness,मोम्मा
+97,5,maya,dekhne do kya ho raha hai,neutral,देखने दो क्या हो रहा है
+98,5,monisha,thank god khana mil gaya,neutral,थैंक गोद खाना मिल गया
+99,5,sahil,iska matlab khana kho gaya tha?,sadness,इसका मतलब खाना खो गया था?
+100,5,monisha,han vah pinku hai na bahut badmash ho gai hai aajkal. aaj to uss kamini ne khana tak chhupa diya. pinku bahar nikal bathroom se,anger,हन वह पिंकू है ना बहुत बदमाश हो गई है आजकल. आज तो यूएस कामिनी ने खाना तक छुपा दिया. पिंकू बाहर निकल बाथरूम से
+101,5,sahil,aisa khana ho to koi bhi chup padega yah hai kya?,anger,आइसा खाना हो तो कोई भी चुप पड़ेगा याह है क्या?
+102,5,monisha,daal aur biryani,neutral,डाल और बिरयानी
+103,5,sahil,kaun si yah kali kali,neutral,कौन सी याह काली काली
+104,5,monisha,vah biryani hai,neutral,वह बिरयानी है
+105,5,sahil,achcha. two blue dal hai,neutral,अच्छा. त्वो ब्लू दल है
+106,5,monisha,blue? daal blue hai dikhao. woh washing machine mein kapde dhote dhote daal banai thi na toh shayad,sadness,ब्लू? डाल ब्लू है दिखाओ. वोह वाशिंग मशीन में कपड़े धोते धोते डाल बनाई थी ना तोह शायद
+107,5,sahil,hah? matlab washing machine mein aapane kapdon  ke sath garam masala dal diya?,surprise,हाह? मतलब वाशिंग मशीन में आपने कपड़ों  के साथ गरम मसाला दल दिया?
+108,5,monisha,hio rabba main abhi dekh kar aati hun pinku bathroom se bahar nikal,fear,हियो रब्बा मैं अभी देख कर आती हुन पिंकू बाथरूम से बाहर निकल
+109,5,vithal,baba baba main kuchh dusra banaa kar le aata hun,neutral,बाबा बाबा मैं कुछ दूसरा बना कर ले आता हुन
+110,5,sahil,nahin nahin vithika ka rahane dijiye mujhe bilkul bhookh nahin hai. mujhe bahut yad a rahi hai,sadness,नहीं नहीं विथिका का रहने दीजिए मुझे बिल्कुल भूख नहीं है. मुझे बहुत याद आ रही है
+111,5,rosesh,kiski?,neutral,किसकी?
+112,5,indravardhan,obviously maya ki,neutral,ऑबवियसली माया की
+113,5,maya,sahil,sadness,साहिल
+114,5,sahil,mum,sadness,मम
+115,5,maya,main hun iska matlab tum indu,neutral,मैं हुन इसका मतलब तुम इंदु
+116,5,indravardhan,nahin nahin rosesh ki baat ho,fear,नहीं नहीं रोसेश की बात हो
+117,5,maya,sahil darling control kisi na kisi tarah hamen to jina hi hai na. yah dekho obituary bhi chhapke a gai,sadness,साहिल डार्लिंग कंट्रोल किसी ना किसी तरह हमें तो जिना ही है ना. याह देखो ओबिचुअरी भी छपके आ गई
+118,5,indravardhan,is taraf ghumana ham bhi dekhen,neutral,इस तरफ घुमाना हम भी देखें
+119,5,maya,main jid ki tabhi newspaper walon ne yah photo aur shok sabha ki details page 3:00 per chhape. varna obituary page per obituary aana is so middle class,sadness,मैं जिद की तभी न्यूजपेपर वालों ने याह फोटो और शोक सभा की डिटेल्स पेज ३:०० पेर छापे. वर्ण ओबिचुअरी पेज पेर ओबिचुअरी आना इस सो मिडल क्लास
+120,5,rosesh,hi momma,neutral,ही मोम्मा
+121,5,rosesh,yaay whopie i am alive,joy,याय व्हूपी आई एएम अलाइव
+122,5,indravardhan,iska matlab sirf mein baj gaya maya,neutral,इसका मतलब सिर्फ में बाज गया माया
+123,5,maya,on the contrary to nahin bacche indu,fear,ओन थे कंट्रेरी तो नहीं बच्चे इंदु
+124,5,rosesh,shradhanjali suniye. kichud kichud kan kan kan achanak dhan tana nan,neutral,श्रद्धांजलि सुनिए. किचुड़ किचुड़ कान कान कान अचानक धन ताना नान
+125,5,rosesh,jindagi ko khatm karne a gaya maran,sadness,जिंदगी को खत्म करने आ गया मरण
+126,5,maya,oh god,sadness,ओह गोद
+127,5,indravardhan,maya kaun guzar gaya,neutral,माया कौन गुजर गया
+128,5,maya,thank god hum sab  hai,neutral,थैंक गोद हम सब  है
+129,5,rosesh,whoppie,joy,व्हॉपी
+130,6,monisha," mamee jee, sandwichh?",neutral,"मामी जी, सैंडविच?"
+131,6,maya," nahin, nahin, nahin. tum log khao.",sadness,"नहीं, नहीं, नहीं. तुम लोग खाओ।"
+132,6,monisha," mamee jee, plaiasai kha leejie na? mere khaatir.",neutral,"मामी जी, प्लायासाई खा लीजिए ना? मेरे खातिर।"
+133,6,maya," monisha, plaiasai.",neutral,"मोनिशा, प्लायासाई।"
+134,6,rosesh," momm, kha leejie na. daddy ko kuchh nahin hua hoga.",neutral,"मोम, खा लीजिए ना. डैडी को कुछ नहीं हुआ होगा।"
+135,6,sahil," mom ham chaalees offichais ke lifts bhee chhaichk kar aaye hain. dad kisee lift mein nahin hai. you don’t worry, huh?",neutral,"मोम हम चालीस ऑफिचाइस के लिफ्ट्स भी छैचक कर आये हैं. दाद किसी लिफ्ट में नहीं है. यू दोन’टी वारी, हुह?"
+136,6,rosesh," aur ham polichai station bhee gaye the, na, momm. vah daddy kee laash nahin thee na.",neutral,"और हम पोलीचाई स्टेशन भी गये थे, ना, मोम. वह डैडी की लाश नहीं थी ना।"
+137,6,dushyant,achchha aap ne wallait chhaichk kiya tha laash ka?,neutral,अच्छा आप ने वॉलेट छैचक किया था लाश का?
+138,6,sonya," dushyant, ek baar chahera chhaichk kar liya phir wallait chhaichk karane kee kya zaroorat hai.",anger,"दुष्यंत, एक बार चहेरा छैचक कर लिया फिर वॉलेट छैचक करने की क्या ज़रूरत है।"
+139,6,dushyant," nahin nahin, har tarah kee tasallee karana zarooree hai, sonya. i’ll aixplain.",neutral,"नहीं नहीं, हर तरह की तसल्ली करना ज़रूरी है, सोन्या. आई’ल्ल एक्सप्लेन।"
+140,6,monisha," jeeja jee, vah laash jis aadamee kee thee, usane khudakhushee kee thee. ab daddy jee bhala khudakhushee kyon karenge?",neutral,"जीजा जी, वह लाश जिस आदमी की थी, उसने खुदखुशी की थी. अब डैडी जी भाला खुदखुशी क्यों करेंगे?"
+141,6,maya,tumhaare haath kee banee sandwichh khaate to zaroor khudakhushee karane kee koshish karate. is mein chatanee hai ya mirchon ka khet?,disgust,तुम्हारे हाथ की बनी सैंडविच खाते तो ज़रूर खुदखुशी करने की कोशिश करते. इस में चटनी है या मिर्चों का खेत?
+142,6,monisha," oh my god, bahut teekhee banee hai kya? laie. main us mein gud daalake aatee hoon.",neutral,"ओह माई गोद, बहुत तीखी बनी है क्या? लाई. मैं यूएस में गुड डालके आती हूँ।"
+143,6,maya," my god! sandwichh mein gud? plaiasai givai mai a braiak, moneesha. rosesh, tumane railway station mein phonai kiya tha na.",neutral,"माई गोद! सैंडविच में गुड? प्लायासाई गिवई मई आ ब्रैक, मोनीशा. रोसेश, तुमने रेलवे स्टेशन में फोनाई किया था ना।"
+144,6,dushyant," maine. maine phonai kiya tha. mujhe pata chala hai ki ek achchidaint ho gaya  hai, ek train dairail ho gayee hai. par vah goods train thee. maal gaadee. don’t worry, mom train ko bilkul nuqasaan nahin pahuncha hai. kyonki kya hai, ki train ka aiquilibrium hota hai, vah low hota hai. i’ll aixplain. maan lo ki, rosesh kee kamar, train ka dibba hai.",neutral,"मैने. मैने फोनाई किया था. मुझे पता चला है की एक अच्छिदैंत हो गया  है, एक ट्रेन दैरैल हो गयी है. पर वह गुड्स ट्रेन थी. माल गाड़ी. दोन’टी वारी, मोम ट्रेन को बिल्कुल नुकसान नहीं पहुंचा है. क्योंकि क्या है, की ट्रेन का एक्विलिब्रियम होता है, वह लो होता है. आई’ल्ल एक्सप्लेन. मान लो की, रोसेश की कमर, ट्रेन का डिब्बा है।"
+145,6,sonya," dushyant, chhoo chhoo gaadee ham baad mein khelenge. mom, dad ka voodoo chhart bata raha hai, vah kisee gupha mein hai",neutral,"दुष्यंत, छू छू गाड़ी हम बाद में खेलेंगे. मोम, दाद का वूडू छार्ट बता रहा है, वह किसी गुफा में है"
+146,6,maya,gupha mein?,surprise,गुफा में?
+147,6,rosesh,you maian chavai? lekin dad chavai mein kyon jaenge?,neutral,यू मायन चवाई? लेकिन दाद चवाई में क्यों जाएंगे?
+148,6,dushyant,soosoo?,neutral,सूसू?
+149,6,rosesh,how gross!,disgust,होव ग्रॉस!
+150,6,dushyant," naturai’s chall. praissurai badh gaya hoga, to gupha mein. kyonki kidnaiy ka kya hota hai, i’ll aixplain. to rosesh…",neutral,"नतुराई’एस चाल. प्रैशुराय बढ़ गया होगा, तो गुफा में. क्योंकि किडने का क्या होता है, आई’ल्ल एक्सप्लेन. तो रोसेश…"
+151,6,rosesh," dushyant main kidnaiy nahin banoonga, okay.",anger,"दुष्यंत मैं किडने नहीं बनूंगा, ओके।"
+152,6,dushyant,okay. mom…,neutral,ओके. मोम…
+153,6,maya," nahin, plaiasai, ham sab samajh chuke hain, tum moneesha ko samajhao.",anger,"नहीं, प्लायासाई, हम सब समझ चुके हैं, तुम मोनीशा को समझाओ।"
+154,6,monisha," mamee jee, kuchh to kha leejie.",neutral,"मामी जी, कुछ तो खा लीजिए।"
+155,6,maya," no thanks, beta.",sadness,"नो थैंक्स, बेटा।"
+156,6,monisha," mamee jee plaiasai. dekhie na, maine sheera banaaya hai.",neutral,"मामी जी प्लायासाई. देखिए ना, मैने शीरा बनाया है।"
+157,6,maya," tab to daifinitaily no thanks, beta",disgust,"तब तो डेफिनिटेली नो थैंक्स, बेटा"
+158,7,indravardhan,fir to tumhen 100% jail hogi sharman,neutral,फिर तो तुम्हें १००% जेल होगी शरमन
+159,7,sharman,it's preposterous uncle partner ke daddy heart attack ka natak kar rahe hain aur kuchh nahin han ,contempt,इट'एस प्रीपोस्टेरस अंकल पार्टनर के डैडी हार्ट अटैक का नाटक कर रहे हैं और कुछ नहीं हन
+160,7,indravardhan,icu mai lete lete,neutral,आईसीयू मई लेते लेते
+161,7,rosesh,hi guys hey sharman what a pleasant surprise. tumhari to shaadi hone wali thi na,joy,ही गाइज हे शरमन व्हाट आ प्लीजेंट सरप्राइज. तुम्हारी तो शादी होने वाली थी ना
+162,7,sharman,uncle man lijiye ki main roses ko thappad mara,neutral,अंकल मन लिजिए की मैं रोजों को थप्पड़ मारा
+163,7,indravardhan,theek se samjha actually thappad maar,neutral,ठीक से समझा एक्चुअली थप्पड़ मार
+164,7,rosesh,kyuu,surprise,क्यू
+165,7,indravardhan,are bhai ye apne case ka demonstration dikha raha hai,neutral,अरे भाई ये अपने केस का डेमोंस्ट्रेशन दिखा रहा है
+166,7,sharman,lekin uncle rosesh ke bal bhi to jalane padenge na,neutral,लेकिन अंकल रोसेश के बाल भी तो जलने पड़ेंगे ना
+167,7,rosesh,noo,fear,नू
+168,7,indravardhan,haan to jala,neutral,हाँ तो जला
+169,7,sharman,nahin uncle please assume ke main rosesh ko thappad mara rosesh gira hello mein aag lagi ab aapka kya reaction hoga,neutral,नहीं अंकल प्लीज एस्यूम के मैं रोसेश को थप्पड़ मारा रोसेश गिरा हेलो में आग लगी अब आपका क्या रिएक्शन होगा
+170,7,indravardhan,hahahaha meri zor zor ki fansi ke rukne bad ka reaction na hahaha,joy,हहहहा मेरी ज़ोर ज़ोर की फांसी के रुकने बाद का रिएक्शन ना हहाहा
+171,7,sharman,"uncle please, it's a serious stuff kya aapko heart attack hoga",neutral,"अंकल प्लीज, इट'एस आ सीरियस स्टफ क्या आपको हार्ट अटैक होगा"
+172,7,indravardhan,"no , i dont think so",neutral,"नो , आई डोंट थिंक सो"
+173,7,sharman,point proved,neutral,पॉइंट प्रूव्ड
+174,7,indravardhan,kyunki jo rosesh ki kavita ko first prize mila tha na tab bhi mujhe heart attack nahin aaya,contempt,क्यूंकि जो रोसेश की कविता को फर्स्ट प्राइज मिला था ना तब भी मुझे हार्ट अटैक नहीं आया
+175,7,rosesh,that was a great poem. ok. title tha chappal ki chu chu ne chidiya ki chi chi se chilla chilla kar kaha chidiya ki chup suno chappal ki chu chu ne chidiya ki chi chi se chilla chilla kar kaha,joy,थाट वास आ ग्रेट पोएम. ओक. टाइटल था चप्पल की चू चू ने चिड़िया की ची ची से चिल्ला चिल्ला कर कहा चिड़िया की चुप सुनो चप्पल की चू चू ने चिड़िया की ची ची से चिल्ला चिल्ला कर कहा
+176,7,indravardhan,chup dekha tumne to iske bal kyon jalane wale the tum yahan kyon aaye ho yah sab chhodkar ja apni kavita sunane baitha ise kavita,anger,चुप देखा तुमने तो इसके बाल क्यों जलने वाले थे तुम यहां क्यों आये हो याह सब छोड़कर जा अपनी कविता सुनने बैठा इसे कविता
+177,7,madhu,hello! good evening indravardhan,joy,हेलो! गुड इवनिंग इन्द्रवर्धन
+178,7,rosesh,are madhu phufa aapke yahan itna bada bag leke,joy,अरे मधु फूफा आपके यहां इतना बड़ा बैग लेके
+179,7,indravardhan,ab mujhe zaroor heart attack ayega,fear,अब मुझे ज़रूर हार्ट अटैक आएगा
+180,7,madhu,arre sharman tu yahan. everything ok,neutral,अर्रे शरमन टू यहां. एवरीथिंग ओक
+181,7,sharman,yaa i'm  ok,neutral,या आई'एम  ओक
+182,7,madhu,nahi maine pucha everything ok,neutral,नही मैने पूछा एवरीथिंग ओक
+183,7,sharman,i said i'm ok,anger,आई सैद आई'एम ओक
+184,7,madhu,yah bahra hai kya,contempt,याह बहरा है क्या
+185,7,indravardhan,vah chhodo madhusudan bhai aap itna bada briefcase lekar ke yahan kyon aaye ho,fear,वह छोड़ो मधुसूदन भाई आप इतना बड़ा ब्रीफकेस लेकर के यहां क्यों आये हो
+186,7,madhu,bag voh to maiya ne kaha tha ki police welfare assosciation ke liye kuchh chijen donate karni hai toh mai kuch cheejen is me le aya,neutral,बैग वोह तो मैया ने कहा था की पुलिस वेलफेयर एसोसिएशन के लिए कुछ चीजें डोनेट करनी है तोह मई कुच चीजें इस मे ले आया
+187,7,rosesh,police se yad aaya abhi radio fm mein news flash aaya tha ki mh tu02ak722 ,neutral,पुलिस से याद आया अभी रेडियो एफएम में न्यूज फ्लैश आया था की म्ह टू०२अक७२२
+188,7,sharman,yah to meri kar ka number hai indu uncle,fear,याह तो मेरी कर का नंबर है इंदु अंकल
+189,7,rosesh,lekin unhone tu kaha usmein ek mujrim faraar hai,neutral,लेकिन उन्होंने टू कहा उसमें एक मुजरिम फरार है
+190,7,indravardhan,han to vah mujrim yahi hai rosesh,anger,हन तो वह मुजरिम यही है रोसेश
+191,7,rosesh,kya kabse,surprise,क्या कबसे
+192,7,indravardhan,abhi abhi shuru kiya hai side business are bevkuf police bachne ke liye hi to yahan aaya hai,anger,अभी अभी शुरू किया है साइड बिजनेस अरे बेवकूफ पुलिस बचने के लिए ही तो यहां आया है
+193,7,rosesh,like a good citizen mein police ko phone kar diya hai ki vah gadi yahi pak hai building ke neeche,neutral,लाइक आ गुड सिटीजन में पुलिस को फोन कर दिया है की वह गाडी यही पाक है बिल्डिंग के नीचे
+194,7,indravardhan,bolo,neutral,बोलो
+195,8,sahil,manisha tum theek to ho,fear,मनीषा तुम ठीक तो हो
+196,8,monisha,mummy ji theek hai?,neutral,मम्मी जी ठीक है?
+197,8,maya,han han main bilkul theek hun beta,neutral,हन हन मैं बिल्कुल ठीक हुन बेटा
+198,8,sahil,to main bilkul theek nahin hun sahil. mujhe bahut dar lag raha hai sahil. help!,fear,तो मैं बिल्कुल ठीक नहीं हुन साहिल. मुझे बहुत दर लग रहा है साहिल. हेल्प!
+199,8,indravardhan,sahil voh elevator service centre per phone lagaya to pata chala unka chief engineer bahar gaon chala gaya hai ,neutral,साहिल वोह एलिवेटर सर्विस सेंटर पेर फोन लगाया तो पता चला उनका चीफ इंजीनियर बाहर गांव चला गया है
+200,8,dushyant,aur junior engineer ko jaundice ho gaya hai,neutral,और जूनियर इंजीनियर को जॉन्डिस हो गया है
+201,8,maya,oh god ab kya hoga?,fear,ओह गोद अब क्या होगा?
+202,8,dushyant,uska liver kamjor ho jaega aur vah protein or alcohol digest nahin kar payega. i'll explain,neutral,उसका लिवर कमजोर हो जाएगा और वह प्रोटीन ओर अल्कोहोल डाइजेस्ट नहीं कर पाएगा. आई'ल्ल एक्सप्लेन
+203,8,indravardhan,nahin to liver maya ko banaa ja,contempt,नहीं तो लिवर माया को बना जा
+204,8,dushyant,mom maan lijije ki aap liver hai,neutral,मोम मान लिजिजे की आप लिवर है
+205,8,maya,enough dushyant!,anger,एनाउघ दुष्यंत!
+206,8,monisha,aaa! sahil! andar tubelight hai vah bhi kanch ki,fear,आ! साहिल! अंदर ट्यूबलाइट है वह भी कांच की
+207,8,sahil,monisha maine kitni bar kaha hai tumse ine baton per vishwas mat karo,anger,मोनिशा मैने कितनी बार कहा है तुमसे इने बातों पेर विश्वास मत करो
+208,8,maya,aur tubelight kanch ki nahin hogi aur kis chij ki hogi monisha. hahaha! waise andar kuch kale rang ka hai kya,contempt,और ट्यूबलाइट कांच की नहीं होगी और किस चीज की होगी मोनिशा. हहाहा! वैसे अंदर कुच काले रंग का है क्या
+209,8,indravardhan,hai na. jo lift man ka stool hai vah kale hi rang hello nahin kuchh bhi nahin. ka to hai,neutral,है ना. जो लिफ्ट मन का स्टूल है वह काले ही रंग हेलो नहीं कुछ भी नहीं. का तो है
+210,8,monisha,sahil sahil mein saanse nahin le pa rahi hun lagta hai oxygen khatm ho raha hai ,fear,साहिल साहिल में सांसे नहीं ले पा रही हुन लगता है आक्सीजन खत्म हो रहा है
+211,8,sahil,tum jindagi bhar is lift mein band rahi na tu bhi oxygen khatm nahin hone wala.,anger,तुम जिंदगी भर इस लिफ्ट में बंद रही ना टू भी आक्सीजन खत्म नहीं होने वाला।
+212,8,indravardhan,aur han jahan tak khane peene ka sawal hai ham vah kisi na kisi tarah dalte rahenge. han sirf tv nahin dekh paogi tum,neutral,और हन जहां तक खाने पीने का सवाल है हम वह किसी ना किसी तरह डालते रहेंगे. हन सिर्फ टीवी नहीं देख पाओगी तुम
+213,8,sahil,dad! please.,contempt,दाद! प्लीज।
+214,8,rosesh,galat time par galat baat karna dad ka nature hai,anger,गलत टाइम पर गलत बात करना दाद का नेचर है
+215,8,indravardhan,really ,contempt,रियली
+216,8,rosesh,hatie hatie. bhabhi! maine aapke liye shradhanjali likhi hai. kaisi lagi bataiyega. hamen pata nahin tha jara bhi ki lift mein hi chal jayegi bhabhi. hum,neutral,हैटी हैटी. भाभी! मैने आपके लिए श्रद्धांजलि लिखी है. कैसी लगी बताइएगा. हमें पता नहीं था जरा भी की लिफ्ट में ही चल जाएगी भाभी. हम
+217,8,sahil,rosesh out! out!,anger,रोसेश आउट! आउट!
+218,8,rosesh,main ghar ke out hi to hun,neutral,मैं घर के आउट ही तो हुन
+219,8,sahil,so go in. dad ine donon ko aap in le jaaiye,anger,सो गो इन. दाद इने दोनों को आप इन ले जाइये
+220,8,indravardhan,chalo chalo,anger,चलो चलो
+221,8,monisha,aaaaaa! sahil lift hil rahi. lift hai jhatke de rahi hai. main upar ja rahi hoon sahil.  main bhagwan ke ghar ja rahi hoon,fear,आआआ! साहिल लिफ्ट हिल रही. लिफ्ट है झटके दे रही है. मैं उपर जा रही हूँ साहिल.  मैं भगवान के घर जा रही हूँ
+222,8,sahil,tumhen kuchh nahin hoga shut up,anger,तुम्हें कुछ नहीं होगा शूट यूपी
+223,8,monisha,sahil,fear,साहिल
+224,8,sahil,lft khul chuki haii. please bahar aayi. come out. hamesha jaldbazi mein ground floor ka button ke bajeye top ka button dabba ti tum,anger,एलएफटी खुल चुकी है. प्लीज बाहर आई. कोम आउट. हमेशा जल्दबाजी में ग्राउंड फ्लोर का बटन के बजेए टॉप का बटन डब्बा टी तुम
+225,8,monisha,"nai sahil iss baar maine theek button  dabaya tha. lekin stop ke button pe jo bhindi thina, usse nikal rahi thi",sadness,"नई साहिल आईएस बार मैने ठीक बटन  दबाया था. लेकिन स्टॉप के बटन पे जो भिंडी थिना, उस्से निकल रही थी"
+226,8,sahil,are jarurat kya thi tumhen yah manhoos bhindi vahan se uthane ki,anger,अरे जरूरत क्या थी तुम्हें याह मनहूस भिंडी वहन से उठाने की
+227,8,maya,sahil shant ho jao. vaise hi yah vichari kitni gairi hui hai. tum use aur dant rahe ho. come on beta come on. bass ab rona band karo. are chodo se chodo chodo. monisha monisha!,neutral,साहिल शांत हो जाओ. वैसे ही याह विचारी कितनी गैरी हुई है. तुम उसे और दांत रहे हो. कोम ओन बेटा कोम ओन. बास अब रोना बंद करो. अरे छोड़ो से छोड़ो छोड़ो. मोनिशा मोनिशा!
+228,8,indravardhan,are sahil! ,neutral,अरे साहिल!
+229,8,maya,tum suno you are safe ab sab kuch thik thak ho gaya tum chup karo rona,neutral,तुम सुनो यू अरे सेफ अब सब कुच थिक थक हो गया तुम चुप करो रोना
+230,8,monisha,mummy ji main bahut dar gai thi. agar mujhe kuchh ho jata toh sahil ka kya hota,sadness,मम्मी जी मैं बहुत दर गई थी. अगर मुझे कुछ हो जाता तोह साहिल का क्या होता
+231,8,maya,vah sab to theek hai per kuchh nahin hua hai na to main agar soniya ki bhavishyvani sach hone wali hai aur ham mein se koi ek marne wala hai aaj ,neutral,वह सब तो ठीक है पेर कुछ नहीं हुआ है ना तो मैं अगर सोनिया की भविष्यवाणी सच होने वाली है और हम में से कोई एक मारने वाला है आज
+232,8,monisha,aaaaaa,sadness,आआआ
+233,8,maya,yah mein ya tum. toh isn't it better ki ham yah aakhiri din shanti se bitaen ,neutral,याह में या तुम. तोह आईएस'टी इट बेटर की हम याह आखिरी दिन शांति से बिताएं
+234,8,monisha,aaaaaahaaa,sadness,आआआहा
+235,8,maya,like mature sensible people. manisha sundar hi hona ,neutral,लाइक मैच्योर सेंसिबल पियोपल. मनीषा सुंदर ही होना
+236,8,monisha,aaaahaaaa,sadness,आआहाआ
+237,8,maya,kyunki is tarah ka rona dhona shor machaya corridor mein is too middle class. chalo tum.,contempt,क्यूंकि इस तरह का रोना धोना शोर मचाया कॉरिडोर में इस टू मिडल क्लास. चलो तुम।
+238,9,monisha,keya bigara hai maine tera? haa,anger,केया बिगारा है मैने तेरा? हा
+239,9,maya,mera table. dekho kitna ganda kar diya. ,sadness,मेरा टेबल. देखो कितना गंदा कर दिया।
+240,9,monisha,"bigarne de, bigarne de. mana ki tu har cheez me mujhse better hai, ghar sajane main, khana pakane main, kapre pahenne main. ",anger,"बिगरने दे, बिगरने दे. माना की टू हर चीज मे मुझसे बेटर है, घर सजने मैं, खाना पकने मैं, कापरे पहेनने मैं।"
+241,9,maya,kapre pahenne main monisha? ,disgust,कापरे पहेनने मैं मोनिशा?
+242,9,monisha,tune mujhe toka?,anger,ट्यून मुझे टोका?
+243,9,maya,sorry,fear,सॉरी
+244,9,monisha,nehi mention not,neutral,नेही मेंशन नोट
+245,9,maya,"it's all right hai kahte hain monisha, for god's sake, mention not ",disgust,"इट'एस अल्ल राइट है कहते हैं मोनिशा, फोर गोद'एस सके, मेंशन नोट"
+246,9,monisha,tune mujhe firse toka?,anger,ट्यून मुझे फिरसे टोका?
+247,9,maya,har cheez mai middle class,disgust,हर चीज मई मिडल क्लास
+248,9,monisha,teri toh mai,anger,तेरी तोह मई
+249,9,maya,"aaaaah, indu indu",fear,"आआआह, इंदु इंदु"
+250,9,monisha,"kab tak tokega haa? tok tok tok tok tokte rahti hai. kash ki tune iye mobile phone hoti, kamse kam tera toka toh limited hota ",anger,"कब तक टोकेगा हा? टोक टोक टोक टोक टोकते रहती है. काश की ट्यून इये मोबाइल फोन होती, कमसे काम तेरा टोका तोह लिमिटेड होता"
+251,9,monisha,samjhi? tok tok tok tok ,joy,समझी? टोक टोक टोक टोक
+252,9,maya,"samaj gayi, mai janti hun ki mai tujse har cheez mai better hu, lekin tera dil mujhse better hai. ",contempt,"समाज गयी, मई जनती हुन की मई तुजसे हर चीज मई बेटर हू, लेकिन तेरा दिल मुझसे बेटर है।"
+253,9,monisha,haa,neutral,हा
+254,9,maya,thora sa. and i hate you for it. ,contempt,थोरा सा. एंड आई हटे यू फोर इट।
+255,9,monisha,you hate me?,neutral,यू हटे मे?
+256,9,maya,i hate you. ,disgust,आई हटे यू।
+257,9,monisha,you hate me mayapuri? ,contempt,यू हटे मे मायापुरी?
+258,9,maya,i hate you. ,disgust,आई हटे यू।
+259,9,monisha,i haat you.,disgust,आई हात यू।
+260,9,maya,"monisha, hurt hota hai, not haat ",disgust,"मोनिशा, हर्ट होता है, नोट हात"
+261,9,monisha,haat. tu haat. sahil. ,joy,हात. टू हात. साहिल।
+262,10,rosesh,"okay momma, ish clue ke hisaab se iye ",neutral,"ओके मोम्मा, इश क्लू के हिसाब से इये"
+263,10,maya,"rosesh, wo trophy tumhare kaan me toh nehi hogi na? ",contempt,"रोसेश, वो ट्रॉफी तुम्हरे कान मे तोह नेही होगी ना?"
+264,10,rosesh,"oh right momma, agar hoti toh mujhe toh pata chalta hi. lekin momma kaha chupayi hoge sahil bhai ne trophy? maine ek ek kona chan mara hai. iye dekhiye, 27 wa namkeen ka packet. aur iye bag bharke faltu jokes pokes. aur iye, sabun ke dibbe ke andar chocolates. pata nehi kaha rakhi hogi. isme se bhi? mere lagbhag 135 kavitaye dad ne chupahi he. see this one was my favourite momma. gutter ka medhak, trau trau trau",sadness,"ओह राइट मोम्मा, अगर होती तोह मुझे तोह पता चलता ही. लेकिन मोम्मा कहा छुपाई होगे साहिल भाई ने ट्रॉफी? मैने एक एक कोना चान मारा है. इये देखिए, २७ वा नमकीन का पैकेट. और इये बैग भरके फल्टू जोक्स पोक्स. और इये, साबुन के डिब्बे के अंदर चॉकलेट्स. पता नेही कहा रखी होगी. इसमे से भी? मेरे लगभग १३५ कविताएं दाद ने छुपाही हे. सी थिस ओने वास माई फेवराइट मोम्मा. गटर का मेधाक, ट्राउ ट्राउ ट्राउ"
+265,10,maya,"okay rosesh, i am sure that this is wonderful sweety. lekin abhi hamare paas iske liye wakt nehi hai na",contempt,"ओके रोसेश, आई एएम सुरे थाट थिस इस वंडरफुल स्वीटी. लेकिन अभी हमारे पास इसके लिए वक्त नेही है ना"
+266,10,rosesh,right,neutral,राइट
+267,10,maya,monisha se pahle sahil ke samne hume wo trophy rakhni hai na,neutral,मोनिशा से पहले साहिल के सामने हुमे वो ट्रॉफी रखनी है ना
+268,10,rosesh,toh ab keya kare momma? ,fear,तोह अब केया करे मोम्मा?
+269,10,maya ,well wo trophy nehi mil rahi hai toh market se ek aaise hi dusri trophy le karke hum sahil ko de sakti hai nehi? ,neutral,वेल वो ट्रॉफी नेही मिल रही है तोह मार्केट से एक आइसे ही दूसरी ट्रॉफी ले करके हम साहिल को दे सकती है नेही?
+270,10,rosesh,you mean aise hi trophy khareed karke hum sahil bhai se kahenge ki sahil bhai hum e trophy mil gayi ,neutral,यू मीन ऐसे ही ट्रॉफी खरीद करके हम साहिल भाई से कहेंगे की साहिल भाई हम ई ट्रॉफी मिल गयी
+271,10,maya,ha,neutral,हा
+272,10,rosesh,momma,contempt,मोम्मा
+273,10,maya,"are rosesh iye ek choti si innocent si bilkul masum si nirdosh cheating kahi ja sakti hai lekin acche kam ke liye hai. sahil ki bhalai ke liye hai. jara socho, agar sahil monisha ko le karke ush party me jayega toh uske reputation ka keya hoga? isi liye ek chota sa jhunt bolna is not wrong na? is not wrong na? ",neutral,"अरे रोसेश इये एक छोटी सी इनोसेंट सी बिल्कुल मासुम सी निर्दोष चीटिंग कही जा सकती है लेकिन अच्छे काम के लिए है. साहिल की भलाई के लिए है. जरा सोचो, अगर साहिल मोनिशा को ले करके उष पार्टी मे जाएगा तोह उसके रेपुटेशन का केया होगा? इसी लिए एक छोटा सा झुंट बोलना इस नोट व्रोंग ना? इस नोट व्रोंग ना?"
+274,10,rosesh,no. krishna bhagwan ne bhi iye hi kaha hai ki jisme dusro ki bhalai ho aisa jhoot bol sakta hai.  ,neutral,नो. कृष्ण भगवान ने भी इये ही कहा है की जिसमे दुसरो की भलाई हो आइसा झूट बोल सकता है।
+275,10,maya,right,neutral,राइट
+276,10,rosesh,toh momma chaliye na duplicate trophy le kar aye ,neutral,तोह मोम्मा चलिए ना डुप्लीकेट ट्रॉफी ले कर आये
+277,10,maya,kam me deri kyun? maine already wo trophy khareed ke rakh liye hai. ,joy,काम मे देरी क्यून? मैने अलरेडी वो ट्रॉफी खरीद के रख लिए है।
+278,10,rosesh,momma ,joy,मोम्मा
+279,11,sahil,darling hamare ghar me mirchi ka anchar nehi banta na ,neutral,डार्लिंग हमारे घर मे मिर्ची का अंचार नेही बांटा ना
+280,11,monisha ,tumhe mirchi hajam kaha hoti hai?,neutral,तुम्हे मिर्ची हजम कहा होती है?
+281,11,sahil,aaj tak aadat nehi dali isi liye. but i think we should give it a try. khane me jara swad barega. ,neutral,आज तक आदत नेही डाली इसी लिए. बट आई थिंक वे शोल्ड गिव इट आ ट्राई. खाने मे जरा स्वाद बरेगा।
+282,11,monisha ,mirchi,sadness,मिर्ची
+283,12,maya,sahil. monisha hain ghar mein?,joy,साहिल. मोनिशा हैं घर में?
+284,12,sahil,na nahi mom.,joy,ना नही मोम।
+285,12,maya,to suno. sahil monisha se saadi kaarke tum bohot badi galti ki.,sadness,तो सुनो. साहिल मोनिशा से साड़ी कारके तुम बोहोत बड़ी गलती की।
+286,12,sahil,mom!,neutral,मोम!
+287,12,maya,"nahi agar tum nahi sunna cahati ho to mein chali jaati hoon yaha se. i have to tell you ki wo mrs samtaani ke champange party mein kya kiya. usne doodh maanga. wo bhi maasale wala. aue jab saab loog ne cheers kaha to wo ne bola ""cheers ki kya jaroorat hain, sofa to hain na gham mein"" aur phir aapne ki joke mein hi zor zor se haasi. aue jab aur koi ne haasa to wo ne joke saamjhaya. ki cheers chairs kursi. aue phir ussi ne sabke saamne chamcha maanga. chancha.",disgust,"नही अगर तुम नही सुन्ना कहती हो तो में चली जाती हूँ याहा से. आई हेव तो टेल यू की वो एमआरएस समतानी के चंपांगे पार्टी में क्या किया. उसने दूध माँगा. वो भी मासले वाला. आउ जब साब लूग ने चीयर्स कहा तो वो ने बोला ""चीयर्स की क्या जरूरत हैं, सोफा तो हैं ना घम में"" और फिर आपने की जोक में ही ज़ोर ज़ोर से हासी. आउ जब और कोई ने हासा तो वो ने जोक सामझाया. की चीयर्स चेयर्स कुर्सी. आउ फिर उस्सी ने सबके सामने चमचा माँगा. चांचा।"
+288,12,sahil,mom chamach maangne mein kya burayi hain!,neutral,मोम चमच मांगने में क्या बुराई हैं!
+289,12,maya,glass mein jama huya maasala khaane ke liye. aue phir ussne glaas eyaaa karke khaali kiya. cortesy ki khaatir cheers bhi nahi kaha usne.,contempt,ग्लास में जमा हुया मासला खाने के लिए. आउ फिर उसने ग्लास ऐया करके खाली किया. कॉर्टेसी की खातिर चीयर्स भी नही कहा उसने।
+290,12,sahil,mein unse kaahunga,neutral,में उनसे काहूंगा
+291,12,maya,absolutely!,anger,एब्सोल्यूटली!
+292,12,sahil,ki kam se kam cheers to kahena cahiye!,neutral,की काम से काम चीयर्स तो कहेना चाहिए!
+293,12,maya,right!,neutral,राइट!
+294,12,sahil,ki bhaleyi haat mein doodh ka glass kyu na ho.,neutral,की भलेई हात में दूध का ग्लास क्यू ना हो।
+295,12,maya,"absolutely, lekin please tum usse strict ho kar baat karna sakt sabdo mein. jusr say monisha…monishaa! hello! my darling!",joy,"एब्सोल्यूटली, लेकिन प्लीज तुम उस्से स्ट्रिक्ट हो कर बात करना सक्त शब्दो में. जुसर से मोनिशा…मोनिशा! हेलो! माई डार्लिंग!"
+296,13,jugalkishore,yaha rehkar mein usse dur nahi reh payoonga monisha!,sadness,याहा रहकर में उस्से दूर नही रेह पायूँगा मोनिशा!
+297,13,monisha,pagal ho gaya tu jugal! ek baar peheli baar deekha aur deekhte hi pyaar ho gaya? atey naisha maussi ki 50% doscount ki coupan hain,anger,पागल हो गया टू जुगल! एक बार पहली बार दीखा और दीखते ही प्यार हो गया? अते नैशा मौसी की ५०% डोस्काउंट की कूपन हैं
+298,13,jugalkishore,arey mujhe to wo 75% ki doscount ki coupon jaise pyaare laagi monisha.,sadness,अरे मुझे तो वो ७५% की डोस्काउंट की कूपों जैसे प्यारे लागी मोनिशा।
+299,13,monisha,chalo mana. mana ki hoongi wo tere 75% discount waala coupon jaisi pyaari lekin srif discount pe mat ja jugal. sale mein akhir hain kya ye to dekh! dhokha kha gaya to?,anger,चलो माना. माना की हूँगी वो तेरे ७५% डिस्काउंट वाला कूपों जैसी प्यारी लेकिन श्रीफ डिस्काउंट पे मत जा जुगल. साले में आखिर हैं क्या ये तो देख! धोखा खा गया तो?
+300,13,jugalkishore,aisa mat bol monisha!,fear,आइसा मत बोल मोनिशा!
+301,13,monisha,us din mega mall pe plastic ki cheezon pe 50% ki sale chal rahi thi. deewano ki tarah bhaagti hui wahan gayi aur 2 balti aur 7 drum khareedkar le aayi. par pata hain kya hua? a mere saath….dekh dekh iss gamle ko. garam sanbhar daalte hi plastic pighal gaya. ab ye srif thandi cheezein rakhne ke kaam aata hain. dekha?,sadness,यूएस दिन मेगा माल पे प्लास्टिक की चीजों पे ५०% की साले चल रही थी. दीवानों की तरह भागती हुई वाहन गयी और २ बाल्टी और ७ ड्रम खरीदकर ले आई. पर पता हैं क्या हुआ? आ मेरे साथ….देख देख आईएस गमले को. गरम सांभर डालते ही प्लास्टिक पिघल गया. अब ये श्रीफ ठंडी चीज़ें रखने के काम आता हैं. देखा?
+302,13,jugalkishore,"monisha, ek tumbler kharaab ko kya saare tumbler kharaab? kal kya tu nahi kaha ki wahan se tu jo balti khareeda tha wo bohot majboot aur paisa wasool nikli?",neutral,"मोनिशा, एक टंबलर खराब को क्या सारे टंबलर खराब? कल क्या टू नही कहा की वाहन से टू जो बाल्टी खरीदा था वो बोहोत मजबूत और पैसा वसूल निकली?"
+303,13,monisha,kaha tha!,sadness,कहा था!
+304,13,jugalkishore,"fir? ho saakta ki naisha tumbler nahi, baalti ho!",sadness,"फिर? हो साकता की नैशा टंबलर नही, बालती हो!"
+305,14,sonya,"mom, guru saaf saaf bata raha hain ki lease ke papers salamat hain, ehi kahi hain",surprise,"मोम, गुरु साफ साफ बता रहा हैं की लीज के पेपर्स सलामत हैं, एही कही हैं"
+306,14,maya ,"sonya darling, please locate those papers. ek toh municipal corporation ne hume notice bheja hain, upar se building residance association ne bhi notice bhej diya. agar char din ke andar andar hum ne wo lease ke papers submit nehi kiye, toh hum per ekkish fraud ke cases daarj ho jayenge. ",fear,"सोन्या डार्लिंग, प्लीज लोकेट ठोसे पेपर्स. एक तोह म्युनिसिपल कॉर्पोरेशन ने हुमे नोटिस भेजा हैं, उपर से बिल्डिंग रेजिडेंस एसोसिएशन ने भी नोटिस भेज दिया. अगर चार दिन के अंदर अंदर हम ने वो लीज के पेपर्स सबमिट नेही किये, तोह हम पेर इक्किश फ्रॉड के केसों दार्ज हो जाएंगे।"
+307,14,rosheh,"bechere daad bankrupt ho jayenge, sahil bhai ki gari bik jayegi, bechare ko cycle pe jana parega clinic. ",fear,"बेचरे दाद बैंकरप्ट हो जाएंगे, साहिल भाई की गरी बिक जाएगी, बेचारे को साइकिल पे जाना परेगा क्लिनिक।"
+308,14,maya ,are clinic bhi toh bik jayega,fear,अरे क्लिनिक भी तोह बिक जाएगा
+309,14,rosheh,"ha sahil bhai compounder ban jayega kisi doctor ke. aur mama, aap ko toh aachar, papad aur khakra bechna parega ghar ghar pe jake. khakra le lo ",fear,"हा साहिल भाई कंपाउंडर बन जाएगा किसी डॉक्टर के. और मामा, आप को तोह आचार, पापड़ और खाकरा बेचना परेगा घर घर पे जाके. खाकरा ले लो"
+310,14,maya ,"sweety shail ki compounder banne tak toh baat theek thi, lekin main aachar papad aur khakra le kar ghar ghar pe nehi jane wali hun, its just too middle class. oh come on sonya think of something. ",fear,"स्वीटी शैल की कंपाउंडर बन्ने तक तोह बात ठीक थी, लेकिन मैं आचार पापड़ और खाकरा ले कर घर घर पे नेही जाने वाली हुन, आईटी जस्ट टू मिडल क्लास. ओह कोम ओन सोन्या थिंक ओएफ समथिंग।"
+311,14,sonya,"oh mom please give me some time, let me think. ",neutral,"ओह मोम प्लीज गिव मे सोम टाइम, लेट मे थिंक।"
+312,14,maya ,kuch sujha?,neutral,कुच सुझा?
+313,14,sonya,ek rasta hain,joy,एक रास्ता हैं
+314,14,maya ,keya,surprise,केया
+315,14,sonya,"sirf baa jante the lease ke papers kaha rakhe hain, right? ",neutral,"सिर्फ बा जानते थे लीज के पेपर्स कहा रखे हैं, राइट?"
+316,14,maya ,unfortunately,sadness,अनफॉर्च्यूनेटली
+317,14,sonya,"toh agar hum baa se hi puche papers kaha hain, toh? ",neutral,"तोह अगर हम बा से ही पूछे पेपर्स कहा हैं, तोह?"
+318,14,rosheh,"oh my god, wo upar swarg main hain, uha kyun jayega? ",fear,"ओह माई गोद, वो उपर स्वर्ग मैं हैं, उहा क्यून जाएगा?"
+319,14,sonya,"oh silly boy, hum baa ke atma ko niche bulanyenge. ",joy,"ओह सिली बॉय, हम बा के आत्मा को नीचे बुलानयेंगे।"
+320,14,maya ,oh you mean,joy,ओह यू मीन
+321,14,monisha,main janti hun ek agori baba ko. wo 100 100 rupay main jiski chaho uski atma ko niche bula dete hain,joy,मैं जनती हुन एक अगोरी बाबा को. वो १०० १०० रुपे मैं जिसकी चाहो उसकी आत्मा को नीचे बुला देते हैं
+322,14,sonya,"bhabhi 100 rupay main kohi taxi main baith kar kandivali se kolawa bhi nehi ja sakta, toh kohi upar se iha niche kaise aa sakta hain ",contempt,"भाभी १०० रुपे मैं कोही टैक्सी मैं बैठ कर कांदिवली से कोलावा भी नेही जा सकता, तोह कोही उपर से इहा नीचे कैसे आ सकता हैं"
+323,14,maya ,"and besides agori baba is just too downmarket. sonya, tum kisi paranormal studies ya occult science ke expert baba ko nehi janti? ",neutral,"एंड बिसाइड्स अगोरी बाबा इस जस्ट टू डाउनमार्केट. सोन्या, तुम किसी पैरानॉर्मल स्टडीज या ओकल्ट साइंस के एक्सपर्ट बाबा को नेही जनती?"
+324,14,sonya,"yes mom, ek occult science ka student hain, krish majumder. ",joy,"येस मोम, एक ओकल्ट साइंस का स्टूडेंट हैं, कृष मजूमदार।"
+325,14,maya ,"oh you mean sanjeevani and santanu majumder ka baba, i mean beta ",neutral,"ओह यू मीन संजीवनी एंड संतानु मजूमदार का बाबा, आई मीन बेटा"
+326,14,sonya,yaaaa,joy,याआ
+327,14,monisha,wo jante hain bhut pret ko bulana?,joy,वो जानते हैं भूत प्रेत को बुलाना?
+328,14,maya ,monisha please bhut pret kahe karke use cheapen maat karo,contempt,मोनिशा प्लीज भूत प्रेत कहे करके उसे चीपें मात करो
+329,14,sonya,its called atma ropon proyog,neutral,आईटी कॉल्ड आत्मा रोपों प्रयोग
+330,14,maya ,that sounds classier,joy,थाट साउंड क्लासियर
+331,15,monisha ,bakura bakura iye sab keya ho raha hain? bakura kaha mar gaye sab ke sab bakura,anger,बाकुरा बाकुरा इये सब केया हो रहा हैं? बाकुरा कहा मार गये सब के सब बाकुरा
+332,15,indu,"are baa baa dekho, dulhan aa gayi baa",joy,"अरे बा बा देखो, दुल्हन आ गयी बा"
+333,15,rosesh,lekin baa ko pata chal geya to?,fear,लेकिन बा को पता चल गेया तो?
+334,15,indu,"chup kisi ko kuch pata nehi chalega. are baa ko manane ka ihi ek tarika hain. nakli saadi, nakli dulhan samjha. aur sun tu ihi khada rahe, mai jar bulaun tab ana. ",neutral,"चुप किसी को कुच पता नेही चलेगा. अरे बा को मनाने का इही एक तरीका हैं. नकली साड़ी, नकली दुल्हन समझा. और सुन टू इही खड़ा रहे, मई जार बुलाऊँ तब आना।"
+335,15,monisha ,bakura,neutral,बाकुरा
+336,15,indu,"haa baa baa, dekho aapki dulhan aa gayi. ",joy,"हा बा बा, देखो आपकी दुल्हन आ गयी।"
+337,15,monisha ,"iye sab keya ho raha hain daddy ji, kaisa halkat appka. sahil ne toh haa kar di. ",fear,"इये सब केया हो रहा हैं डैडी जी, कैसा हलकत आपका. साहिल ने तोह हा कर दी।"
+338,15,indu,"fikar mat karo. rosesh ko main le aya hun dulhan banake, sab thik ho jayega. aha, rashika baby, ayo ato baa ke paho paro, ayo",joy,"फिकर मत करो. रोसेश को मैं ले आया हुन दुल्हन बनके, सब थिक हो जाएगा. अहा, रशिका बेबी, आयो एटीओ बा के पाहो पारो, आयो"
+339,15,sahil,"rukiye. daad, baa ko dhoka dete hue aapko saram nehi ayi? ",contempt,"रुकिए. दाद, बा को धोका देते हुए आपको सरम नेही आई?"
+340,15,indu,"are, maine keya dhoka diya? mai toh iye",fear,"अरे, मैने केया धोका दिया? मई तोह इये"
+341,15,monisha ,keya hua babla? ,neutral,केया हुआ बबला?
+342,15,sahil,"iye dulhan nehi hain baa, rosesh hai.",anger,"इये दुल्हन नेही हैं बा, रोसेश है।"
+343,15,rosesh,hi baa,neutral,ही बा
+344,15,monisha ,keya bakura ,surprise,केया बाकुरा
+345,15,sahil,"daad, aapki ma ke sath aapne itna bara biswasghat kiya ",contempt,"दाद, आपकी मा के साथ आपने इतना बारा बिस्वासघात किया"
+346,15,monisha ,waise babla iye rosesh bhi itna bura nehi lag raha hai. ise le jaa,neutral,वैसे बबला इये रोसेश भी इतना बुरा नेही लग रहा है. इसे ले जा
+347,15,sahil,nehi baa nehi. aapki aakhri iccha ke sath mai itna bara khilwat nehi hone dunga. mom,neutral,नेही बा नेही. आपकी आखरी इच्छा के साथ मई इतना बारा खिलवत नेही होने दूंगा. मोम
+348,15,maya,ha ha ilaben jaldi aa bhi jao. mandap puraj bas suru hone hi wala hain. sarita ki beti preeti ke saath finally saadi ho raha hai meri sahil ki ,joy,हा हा इलाबेन जल्दी आ भी जाओ. मंडप पुराज बस सुरू होने ही वाला हैं. सरिता की बेटी प्रीति के साथ फाइनल साड़ी हो रहा है मेरी साहिल की
+349,15,sahil,"pandit ji, aap kriyakaram suru kijiye",neutral,"पंडित जी, आप क्रियाकर्म सुरू कीजिए"
+350,15,monisha ,widhi babla widhi. kriyakaram toh aab mera hoga,fear,विधि बबला विधि. क्रियाकर्म तोह आब मेरा होगा
+351,15,maya,aapko kyun kuch hoga baa?,neutral,आपको क्यून कुच होगा बा?
+352,15,person,jaldi aa jao bhai muhurat ka samay ho raha hai ,neutral,जल्दी आ जाओ भाई मुहूर्त का समय हो रहा है
+353,15,maya,"are pandit ji suru kara hai, cholo cholo indu, come on rosesh ",neutral,"अरे पंडित जी सुरू कारा है, चोलो चोलो इंदु, कोम ओन रोसेश"
+354,15,indu,ha ha chalo chalo mai bhi aa jau ,joy,हा हा चलो चलो मई भी आ जाउ
+355,15,monisha ,bakura,anger,बाकुरा
+356,15,indu,haa haa baa,neutral,हा हा बा
+357,15,monisha ,sahil babla toh saadi kar raha hai bakura ,fear,साहिल बबला तोह साड़ी कर रहा है बाकुरा
+358,15,indu,"ha ha baa, mai kuch nehi kar sakta",fear,"हा हा बा, मई कुच नेही कर सकता"
+359,15,sahil,"rosesh baa ko iha le aao, aur preeti ki ghar pe phone karna. kahna do baaje tak iha pouche, dhai baje fir lenge",joy,"रोसेश बा को इहा ले आओ, और प्रीति की घर पे फोन करना. कहना दो बाजे तक इहा पौछे, ढाई बजे फिर लेंगे"
+360,15,rosesh,okay. chaliye baa mandappuraj suru ho gayi hai,joy,ओके. चलिए बा मंडप्पुराज सुरू हो गयी है
+361,15,monisha ,bakura bakura,fear,बाकुरा बाकुरा
+362,15,person,[chants mantra],neutral,[चैंट्स मंत्र]
+363,15,indu,hey sahil tere saadi toh ho chuki hai,neutral,हे साहिल तेरे साड़ी तोह हो चुकी है
+364,15,sahil,"daad building bachane hai ki nehi. aur waise bhi aaj aakhri din hai, lease hasil karni hain. ",neutral,"दाद बिल्डिंग बचाने है की नेही. और वैसे भी आज आखरी दिन है, लीज हासिल करनी हैं।"
+365,15,maya,"absolutely. desperate timess, desperate measures. infact agar baa mujhe bhi kahe na toh mai bhi saadi karne ke liye taiyaar ho jayun. ",neutral,"एब्सोल्यूटली. डेस्परेट टाइम्स, डेस्परेट मेजर्स. इनफैक्ट अगर बा मुझे भी कहे ना तोह मई भी साड़ी करने के लिए तैयार हो जयुन।"
+366,15,monisha ,bakura ,anger,बाकुरा
+367,15,maya ,chaliye,neutral,चलिए
+368,15,person,[chants mantra],neutral,[चैंट्स मंत्र]
+369,15,monisha ,"hey pandit ji ruk jao, ruk jao iye. babla mujhe tere iye kapre bilkul pasand nehi hai, tu nayi kapre leke aa, fir saadi karna haa? ",neutral,"हे पंडित जी रुक जाओ, रुक जाओ इये. बबला मुझे तेरे इये कापरे बिल्कुल पसंद नेही है, टू नई कापरे लेके आ, फिर साड़ी करना हा?"
+370,15,sahil,"bilkul baa, in fact saadi ki wakt mai ek brand new suit karidne wala hun, aap ko pata hai iha parosh mai mega mall hain. waha pe do ghante ke liye ninety percent ka discount chal raha hai, ",joy,"बिल्कुल बा, इन फैक्ट साड़ी की वक्त मई एक ब्रांड न्यू सूट करीदने वाला हुन, आप को पता है इहा परोश मई मेगा माल हैं. वहा पे दो घंटे के लिए नाइनटी पर्सेंट का डिस्काउंट चल रहा है,"
+371,15,monisha ,ninety percent discount sell do ghante ke liye. bakura mere pair ,fear,नाइनटी पर्सेंट डिस्काउंट सेल दो घंटे के लिए. बाकुरा मेरे पैर
+372,15,maya,"kat dun, monisha? ",contempt,"कट दून, मोनिशा?"
+373,16,maya,hello sudhanshu,joy,हेलो सुधांशु
+374,16,sudhanshu,flower for my darling maya,joy,फ्लावर फोर माई डार्लिंग माया
+375,16,indravardhan,are ek hi phool..pura bouque kharidne ke paise nhi the?,neutral,अरे एक ही फूल..पूरा बुक खरीदने के पैसे नही थे?
+376,16,sudhanshu,funny man,joy,फनी मन
+377,16,maya,yess,joy,येस
+378,16,sudhanshu,maya ab mujhse aur sabar nhi kiya jata..,neutral,माया अब मुझसे और सबर नही किया जाता..
+379,16,indravardhan,achha to washroom us taraf hai,neutral,अछा तो वॉशरूम यूएस तरफ है
+380,16,sudhanshu,or bedroom kis taraf hai?,neutral,ओर बेडरूम किस तरफ है?
+381,16,indravardhan,kyu?,neutral,क्यू?
+382,16,sudhanshu,maya ki painting mai ek bahut hi passionate jagah pe banana chahta hu...chale?,joy,माया की पेंटिंग मई एक बहुत ही पैशनेट जगह पे बनाना चाहता हू...चले?
+383,17,sahil,all set dad..great dekhiye mai aapko missed call dunga uske baad aap apna romance shuru kijiye,joy,अल्ल सेट दाद..ग्रेट देखिए मई आपको मिस्ड कॉल दूंगा उसके बाद आप अपना रोमांस शुरू कीजिए
+384,17,roshesh,momma aap nhi samjh rhi,sadness,मोम्मा आप नही समझ रही
+385,17,maya,tum chup karo bas,anger,तुम चुप करो बस
+386,17,sahil,woow nashik jane ke liye ready,joy,वू नाशिक जाने के लिए रेडी
+387,17,maya,wo to hmlog indravardhan ke nazro me nashik jaa rhe..actyally hum tumhare yha chhupane wale ,neutral,वो तो हमलॉग इन्द्रवर्धन के नज़रो मे नाशिक जा रहे..एक्ट्याली हम तुम्हरे यहा छुपाने वाले
+388,17,roshesh,nhi momma,sadness,नही मोम्मा
+389,17,maya,"indravardhan us yashodha ko hmare ghar lekar aane wala hai,hamri gair maujudgi me",neutral,"इन्द्रवर्धन यूएस यशोधा को हमारे घर लेकर आने वाला है,हमरी गैर मौजूदगी मे"
+390,17,roshesh,momma wo aapko ullu bna rhe hai..koi yashodha nhi hai,sadness,मोम्मा वो आपको उल्लू बना रहे है..कोई यशोधा नही है
+391,17,maya,sahil ne dono ko saath me dekha hai coffe shop me..btao na tum sahil,fear,साहिल ने डोनो को साथ मे देखा है कॉफी शॉप मे..बताओ ना तुम साहिल
+392,17,sahil,kya btaau dad apne sleeve se aashu poonch rhe the,neutral,क्या बताऊ दाद अपने स्लीव से आशु पूंछ रहे थे
+393,17,maya,ghosh,disgust,घोष
+394,17,sahil,us yasodha ke..hotel sunvilla ke coffe shop me,neutral,यूएस यशोधा के..होटल सनविले के कॉफी शॉप मे
+395,17,roshesh,hotel sunvilla ..lekin wo to rennovation ke liy band hai mumma,neutral,होटल सनविले ..लेकिन वो तो रेनोवेशन के ली बंद है मम्मा
+396,17,maya,really?,surprise,रियली?
+397,17,sahil,"mujhe bhi aisa hi lga tha,,but kal hi wo reopen huai hai..mom esiliye to dad waha gye honge na ki hotel ka renovation chal rha hmme se koi waha jayega nhi..",neutral,"मुझे भी आइसा ही लगा था,,बट कल ही वो रिओपेन हुआई है..मोम एसिलिए तो दाद वहा गये होंगे ना की होटल का रिनोवेशन चल रहा हम्मे से कोई वहा जाएगा नही.."
+398,17,maya,right,joy,राइट
+399,17,roshesh,aap ullu bna rhe sahil bhai..challenge jeetne ke liye aap ullu bna rhe hai,sadness,आप उल्लू बना रहे साहिल भाई..चैलेंज जीतने के लिए आप उल्लू बना रहे है
+400,17,sahil,roshesh give me a break mai bahut hi serious hu,anger,रोशेश गिव मे आ ब्रेक मई बहुत ही सीरियस हू
+401,17,roshesh,nhi..aap ullu bna rhe hai sahil bhai,sadness,नही..आप उल्लू बना रहे है साहिल भाई
+402,17,maya,"sahil tumhe bandar bna skta, gadaha bna skta..lekin tumhe ullu nhi bna skta...qki ullu to tum pehle se ho hi...sahil aaj mai indravardhan ko red handed pakadne wali hu,he is in deep trouble",anger,"साहिल तुम्हे बंदर बना स्कता, गदहा बना स्कता..लेकिन तुम्हे उल्लू नही बना स्कता...केकेआई उल्लू तो तुम पहले से हो ही...साहिल आज मई इन्द्रवर्धन को रेड हैंडेड पकड़ने वाली हू,हे इस इन दीप ट्रबल"
+403,18,maya,i can't take it! i just can't take it!,anger,आई कैन'टी टेक इट! आई जस्ट कैन'टी टेक इट!
+404,18,rosesh,aapne aap ko saamhaliye momma please,sadness,आपने आप को साम्हलिए मोम्मा प्लीज
+405,18,maya,duniya mein justice naam ke koi cheezhi nahi hain! i mean wo monisha jisne mona lisa ki painting mein mooch bana sakti hain uske liye koi picasso,sadness,दुनिया में जस्टिस नाम के कोई चीझी नही हैं! आई मीन वो मोनिशा जिसने मोना लिसा की पेंटिंग में मूच बना सकती हैं उसके लिए कोई पिकासो
+406,18,rosesh,wo bhi uske long lost uncle. jisko wo 20 saal se phone tak nahi kiya!,neutral,वो भी उसके लॉन्ग लोस्ट अंकल. जिसको वो २० साल से फोन तक नही किया!
+407,18,maya,kya zaroorat thi aisa karne ki i mean koi choota mota gift de dete…you know jaise ya thermos ya…,contempt,क्या ज़रूरत थी आइसा करने की आई मीन कोई छूटा मोटा गिफ्ट दे देते…यू नोव जैसे या थर्मोस या…
+408,18,rosesh,ashtray,neutral,अष्ट्रय
+409,18,maya,ya statue of liberty ka coffee mug,contempt,या स्टेच्यू ओएफ लिबर्टी का कॉफी मुग
+410,18,rosesh,ya ghadi…ek dail ke saat mein che alag alag color ka strap,neutral,या घड़ी…एक डेल के सात में चे अलग अलग कलर का स्ट्रैप
+411,18,maya,that’s right! international middle class. lekin picasso ka headless hero?,sadness,थाट’एस राइट! इंटरनेशनल मिडल क्लास. लेकिन पिकासो का हेडलेस हीरो?
+412,18,rosesh,haan very sad! momma aapka koi long lost uncles nahi hain kya?,neutral,हाँ वेरी सद! मोम्मा आपका कोई लॉन्ग लोस्ट अंकल्स नही हैं क्या?
+413,18,maya,"hain, sab zinda",sadness,"हैं, सब जिंदा"
+414,18,rosesh,really really very sad,sadness,रियली रियली वेरी सद
+415,18,maya,"you know what the worst thing is, ki crorepati banne ki baad monisha aur bhi middle classiyat dikhayegi",disgust,"यू नोव व्हाट थे वर्स्ट थिंग इस, की क्रोरेपति बन्ने की बाद मोनिशा और भी मिडल क्लासियत दिखाएगी"
+416,18,rosesh,bhabhi to bol rahi thi ki wo bohot saare paise kharch kaarenge.,neutral,भाभी तो बोल रही थी की वो बोहोत सारे पैसे खर्च कारेंगे।
+417,18,maya,haan sure….but tumhe pata hain na uske bohot kharch karne ka style. new york ka koi boutique mein se gown khareedenge to bag free mangegi. paris ki koi salon mein ja kar ke bolegi dono arm waxing karana hain sahi bol na.,contempt,हाँ सुरे….बट तुम्हे पता हैं ना उसके बोहोत खर्च करने का स्टाइल. न्यू यॉर्क का कोई बुटिक में से गाउन खरीदेंगे तो बैग फ्री मांगेगी. पेरिस की कोई सालों में जा कर के बोलेगी डोनो आर्म वैक्सिंग करना हैं सही बोल ना।
+418,18,rosesh,relax momma..bhabhi ne galti se passport de di hain raddi waale ko.,neutral,रिलैक्स मोम्मा..भाभी ने गलती से पासपोर्ट दे दी हैं रद्दी वाले को।
+419,18,maya,good! noo that is worse. agar yahan rahegi to manglu baba ya lakkar baba ke naam pe mandir banwayegi. vada paw restaurant ka chain kholegi. oh god we are in serious trouble rosesh.,sadness,गुड! नू थाट इस वॉर्स. अगर यहां रहेगी तो मंगलू बाबा या लक्कर बाबा के नाम पे मंदिर बनवाएगी. वादा पाव रेस्टोरेंट का चैन खोलेगी. ओह गोद वे अरे इन सीरियस ट्रबल रोसेश।
+420,19,sahil,"umm, monu, khana tumne banaya hai?",neutral,"उम्म, मोनू, खाना तुमने बनाया है?"
+421,19,monisha,kyun puchh rahe ho?,neutral,क्यून पूछ रहे हो?
+422,19,sahil,"ni, accha bana hai",neutral,"नी, अच्छा बना है"
+423,19,monisha,mai accha khana ni bnati kya?,anger,मई अच्छा खाना नी बनती क्या?
+424,19,sahil,arey ni ni,joy,अरे नी नी
+425,19,monisha,haan,surprise,हाँ
+426,19,sahil,haan haan,neutral,हाँ हाँ
+427,19,monisha,"hello, haan kab ka mil gya parcel. hmm, ek minute. sahil, aaloo palak better hai ya daal?",neutral,"हेलो, हाँ कब का मिल ग्या पार्सल. हम्म, एक मिनिट. साहिल, आलू पलक बेटर है या डाल?"
+428,19,sahil,daal,neutral,डाल
+429,19,monisha,"daal better hai. lekin suniye, home delivery to free hai na, to fir aapne mujhse dus rupay service charge kyun liye? ni ni aise ni chalega. parosa to maine hai, to dus rupay mujhe milne chahiye, kyun",anger,"डाल बेटर है. लेकिन सुनिए, होम डिलिवरी तो फ्री है ना, तो फिर आपने मुझसे डस रुपे सर्विस चार्ज क्यून लिए? नी नी ऐसे नी चलेगा. परोसा तो मैने है, तो डस रुपे मुझे मिलने चाहिए, क्यून"
+430,19,sahil,"monisha, monisha phone rakho, mai tumhe dus rupay dunga. come on",contempt,"मोनिशा, मोनिशा फोन रखो, मई तुम्हे डस रुपे दूंगा. कोम ओन"
+431,19,monisha,tumhe mujhe dus hazar rupay dene padenge sahil,sadness,तुम्हे मुझे डस हजार रुपे देने पड़ेंगे साहिल
+432,19,sahil,"kyun, agle hazar dino tak roz tum hotel se khana mangwane wali ho?",joy,"क्यून, अगले हजार दिनो तक रोज तुम होटल से खाना मंगवाने वाली हो?"
+433,19,monisha,"nae, wo na..ek baat btao sahil, mard aur aurat ek dusre se alag hote hain?",sadness,"ने, वो ना..एक बात बताओ साहिल, मर्द और औरत एक दूसरे से अलग होते हैं?"
+434,19,sahil,haan hote hain,neutral,हाँ होते हैं
+435,19,monisha,kaise,fear,कैसे
+436,19,sahil,"kaise matlab,mard...mard...wo mard hote hain, aur auratein...come on monisha, ab tumhe ye nhi pta ki mard aur aurat kis tarah se alag hote hain?",contempt,"कैसे मतलब,मर्द...मर्द...वो मर्द होते हैं, और औरतें...कोम ओन मोनिशा, अब तुम्हे ये नही पटा की मर्द और औरत किस तरह से अलग होते हैं?"
+437,19,monisha,"mai uss tarah se alag hone ki baat ni krri hun, mai dimag ki baat krri hun",sadness,"मई यूएस तरह से अलग होने की बात नी कर्री हुन, मई दिमाग की बात कर्री हुन"
+438,19,sahil,"accha dimag se? totally alag hote hain. look, mardon k dimag hote hain, aur aurton k baal lambe hote hain",contempt,"अच्छा दिमाग से? टोटली अलग होते हैं. लूक, मर्दों के दिमाग होते हैं, और औरतों के बाल लंबे होते हैं"
+439,19,monisha,"very funny, sahil majak mat udao na, ye mere jeevan maran ka sawal hai. jante ho, mummy ji keh ri thi ki mard aurat k muqabale insensitive hote hain, unhe tv pe cricket, aur star world pe wwf kab hai, aisi cheezon k alawa jyada kuchh yaad hi nhi rehta",sadness,"वेरी फनी, साहिल मजाक मत उड़ाओ ना, ये मेरे जीवन मरण का सवाल है. जानते हो, मम्मी जी केह री थी की मर्द औरत के मुकाबले इंसेंसिटिव होते हैं, उन्हे टीवी पे क्रिकेट, और स्टार वर्ल्ड पे डब्ल्यूडब्ल्यूएफ कब है, ऐसी चीजों के अलावा ज्यादा कुछ याद ही नही रहता"
+440,19,sahil,"bilkul galat. mardon ko inn sb cheezon k alawa aur bhi bahut kuchh yaad hota hai. jaise ki, umm..kyun puccha mom ne ye?",neutral,"बिल्कुल गलत. मर्दों को इन एसबी चीजों के अलावा और भी बहुत कुछ याद होता है. जैसे की, उम्म..क्यून पूछा मोम ने ये?"
+441,19,monisha,"wo maine unse kaha na, ki tumhe sare birthdays aur anniversaries yaad rehti hai, to zor zor se hasne lagi, aur..tumhe yaad rehti hai na?",neutral,"वो मैने उनसे कहा ना, की तुम्हे सारे बर्थडेज और एनिवर्सरीज याद रहती है, तो ज़ोर ज़ोर से हसने लगी, और..तुम्हे याद रहती है ना?"
+442,19,sahil,haan haan of course,joy,हाँ हाँ ओएफ कोर्स
+443,19,monisha,humari wedding anniversary?,neutral,हमारी वेडिंग एनिवर्सरी?
+444,19,sahil,bees feb..january,neutral,बीस फेब..जैन्युअरी
+445,19,monisha,haan,anger,हाँ
+446,19,sahil,ke aas paas,fear,के एएस पास
+447,19,monisha,bees january correct hai,neutral,बीस जैन्युअरी करेक्ट है
+448,19,sahil,haan,joy,हाँ
+449,19,monisha,meri saalgirah?,neutral,मेरी सालगिरह?
+450,19,sahil,ninth..november,neutral,निंथ..नवम्बर
+451,19,monisha,humari pehli mulaqat anniversary,joy,हमारी पहली मुलाकात एनिवर्सरी
+452,19,sahil,ravivar,neutral,रविवार
+453,19,monisha,konsa,neutral,कोनसा
+454,19,sahil,"har ravivar. mai bhagwan se har ravivar ko thank you kehta hun ki, mujhe tum mili",neutral,"हर रविवार. मई भगवान से हर रविवार को थैंक यू कहता हुन की, मुझे तुम मिली"
+455,19,monisha,achha,joy,अछा
+456,19,sahil,i love you moni darling,joy,आई लव यू मोनी डार्लिंग
+457,19,monisha,i love you too sahil..umhuh humare pyar k izhar ki saalgirah?,neutral,आई लव यू टू साहिल..उम्हूह हमारे प्यार के इजहार की सालगिरह?
+458,19,sahil,"come on darling, ab tum kya kya puchh rahi ho. ab mai bhi tumhe puchh sakta hun phir",neutral,"कोम ओन डार्लिंग, अब तुम क्या क्या पूछ रही हो. अब मई भी तुम्हे पूछ सकता हुन फिर"
+459,19,monisha,puchho,neutral,पूछो
+460,19,sahil,hein,neutral,हें
+461,19,monisha,puchho na...puchho puchho,joy,पूछो ना...पूछो पूछो
+462,19,sahil,just a minute..haha...humari first...umm....kiss anniversary,neutral,जस्ट आ मिनिट..हाहा...हमारी फर्स्ट...उम्म....किस एनिवर्सरी
+463,19,monisha,fifth april,joy,फिफ्थ एप्रिल
+464,19,sahil,wow..um...tumhe mercedes me bitha kr paanipuri khilane le kar gaya tha babulnath k yahan,neutral,वो..यूएम...तुम्हे मर्सिडीज मे बिठा केआर पानीपुरी खिलाने ले कर गया था बाबुलनाथ के यहां
+465,19,monisha,twenty first august ninteen ninty nine..huh,joy,ट्वेंटी फर्स्ट ऑगस्ट निन्तीन नाइंटी नाइन..हुह
+466,19,sahil,ye date hai actually?,neutral,ये डेट है एक्चुअली?
+467,19,monisha,haan,neutral,हाँ
+468,19,sahil,"ni, just asking...um..alright, hum dono sath chheenke the aur baad me hum chemist ki shop me gaye the..",neutral,"नी, जस्ट आस्किंग...यूएम..अलराइट, हम डोनो साथ छींके थे और बाद मे हम केमिस्ट की शॉप मे गये थे.."
+469,19,monisha,seventeenth september beech candy chemist day and night,joy,सेवेंटींथ सप्टेंबर बीच कैंडी केमिस्ट डे एंड नाइट
+470,20,indravadhan,maya..hah..maya..haha..jogging karke aaya..aa...tumhare liye phool laya hun,joy,माया..हाह..माया..हाहा..जॉगिंग करके आया..आ...तुम्हरे लिए फूल लाया हुन
+471,20,maya,ye gulaab hain..,fear,ये गुलाब हैं..
+472,20,indravadhan,haan...ab tum apne baalon me mere naam ka gulaab daalna,joy,हाँ...अब तुम अपने बालों मे मेरे नाम का गुलाब डालना
+473,20,maya,gulaab...as in roses..,fear,गुलाब...एएस इन रोजों..
+474,20,indravadhan,haa aan...to roses smell as sweet in english,neutral,हा आन...तो रोजों स्मेल एएस स्वीट इन इंग्लिश
+475,20,maya,roses are as allergic for me in any language,anger,रोजों अरे एएस एलर्जिक फोर मे इन अन्य लैंग्वेज
+476,20,indravadhan,haan lekin maya...,neutral,हाँ लेकिन माया...
+477,20,maya,mujhe gulaab ki allergy hai..indravadhan,anger,मुझे गुलाब की एलर्जी है..इन्द्रवधन
+478,20,indravadhan,"maya tumhe laal gulaab ki allergy hai, ye to yellow hain",neutral,"माया तुम्हे लाल गुलाब की एलर्जी है, ये तो येलो हैं"
+479,20,maya,"allergy meri naak me hai, meri aankho me nae..rang ka iske sath kya...just...get these flowers away from me..",anger,"एलर्जी मेरी नाक मे है, मेरी आंखों मे ने..रंग का इसके साथ क्या...जस्ट...गेट ठेसे फ्लावर्स अवे फ्रॉम मे.."
+480,20,indravadhan,maya..,sadness,माया..
+481,21,roshesh,agar kal mera puna me show nhi rahta to mai tumhara b'day kabhi miss nhi karta,joy,अगर कल मेरा पूना मे शो नही रहता तो मई तुम्हरा बी'डे कभी मिस नही करता
+482,21,indravardhan,"no no no, the show must go on..tumhe puna jana hi chahiye",contempt,"नो नो नो, थे शो मस्त गो ओन..तुम्हे पूना जाना ही चाहिए"
+483,21,maya,mera gift kaha hai?,joy,मेरा गिफ्ट कहा है?
+484,21,roshesh,maine tumhare liye kavita likhi hai,joy,मैने तुम्हरे लिए कविता लिखी है
+485,21,indravardhan,kavita chhod gift kaha hai?,neutral,कविता छोड़ गिफ्ट कहा है?
+486,21,maya,kavita hi gift hai indravardhan..esme roshesh ne apni sari feelings chhupa kar rakhi hai,joy,कविता ही गिफ्ट है इन्द्रवर्धन..इसमे रोशेश ने अपनी सारी फीलिंग्स छुपा कर रखी है
+487,21,indravardhan," to kavita ko bhi chhupa kar rakhta,,ab ye padhega or hume sunni padegi",neutral,"तो कविता को भी छुपा कर रखता,,अब ये पढ़ेगा ओर हुमे सुन्नी पड़ेगी"
+488,21,maya,oo enough,anger,ओओ एनाउघ
+489,21,indravardhan,okay oaky,neutral,ओके ओकी
+490,21,maya,"sunao beta, hum sunenge",neutral,"सुनाओ बेटा, हम सुनेंगे"
+491,21,roshesh,"o momma, o momma, tumne mujhe janam diya o momma,o momma, sabse achha karam kiya o momma, o momma. aakash...",neutral,"ओ मोम्मा, ओ मोम्मा, तुमने मुझे जनम दिया ओ मोम्मा,ओ मोम्मा, सबसे अछा करम किया ओ मोम्मा, ओ मोम्मा. आकाश..."
+492,21,indravardhan,waah waah waah..mere bharat ratna waah,contempt,वाह वाह वाह..मेरे भारत रत्न वाह
+493,21,maya,koi baat nhi..mai khud hi padh lungi betaa,neutral,कोई बात नही..मई खुद ही पढ़ लुंगी बेटा
+494,21,sahil,hii  hii roshes..,joy,ही  ही रोश..
+495,21,roshesh,hii,neutral,ही
+496,21,sahil,tumhari bhabhi ne kuchh pack karke diya hai kha lena..,joy,तुम्हारी भाभी ने कुछ पैक करके दिया है खा लेना..
+497,21,roshesh,woww thanks,joy,वॉव थैंक्स
+498,21,sahi,and all the best.,joy,एंड अल्ल थे बेस्ट।
+499,21,indravardhan,are sahil wo problem solve ho gya na?,neutral,अरे साहिल वो प्रॉब्लम सॉल्व हो ग्या ना?
+500,21,maya,kaun sa problem?,neutral,कौन सा प्रॉब्लम?
+501,21,indravardhan,hein? tumhe batata nhi esne..monisha ke pass lunch ke hi coupan hai..to sari bala tal gyi..dekho na biwi ke saath lunch or maa ke saath dinner..and they all live happily ever after,neutral,हें? तुम्हे बताता नही एसने..मोनिशा के पास लंच के ही कूपन है..तो सारी बाला टाल गयी..देखो ना बीवी के साथ लंच ओर मा के साथ डिनर..एंड थे अल्ल लाइव हैप्पिली एवर आफ्टर
+502,21,maya,achha sahil..dekho na mujhe abhi yaad aaya.. darling kal sham me mujhe anath aashram me bachho ko lecture dene jana hai..esliy dinner will not be possible..to hmlog lunch ke liye jaa skte hai?,neutral,अछा साहिल..देखो ना मुझे अभी याद आया.. डार्लिंग कल शाम मे मुझे अनाथ आश्रम मे बच्चो को लेक्चर देने जाना है..एस्ली डिनर विल नोट बे पॉसिबल..तो हमलॉग लंच के लिए जा स्केट है?
+503,21,sahil,mom kya hai na maine monisha ko already promise kiya hai ki lunch uske saath karunga to i don't think really it would be possible,neutral,मोम क्या है ना मैने मोनिशा को अलरेडी प्रॉमिस किया है की लंच उसके साथ करूंगा तो आई दोन'टी थिंक रियली इट वोल्ड बे पॉसिबल
+504,21,maya,it's okay,neutral,इट'एस ओके
+505,21,sahil,roshesh,neutral,रोशेश
+506,21,maya,mai kal dopehar se hi anaath aashram chli jaungi..unka bhi dil behal jayega..un anaath bachho ko lgega ki jaise unhe apni maa mil gyi hai or mai samjh lungi ki apne hi beto ke saath hu,sadness,मई कल दोपहर से ही अनाथ आश्रम चली जाऊंगी..उनका भी दिल बेहल जाएगा..उन अनाथ बच्चो को लगेगा की जैसे उन्हे अपनी मा मिल गयी है ओर मई समझ लुंगी की अपने ही बेटो के साथ हू
+507,21,indravardhan,nirupa roy,contempt,निरूपा रॉय
+508,21,sahil,aap to ruth gyi mom,fear,आप तो रुथ गयी मोम
+509,21,maya,such is a lie..roshes bhi nhi hai yha aur tum to busy ho,sadness,सुच इस आ लिए..रोश भी नही है यहा और तुम तो बसी हो
+510,21,roshesh,mai puna jana cancel kar du?,neutral,मई पूना जाना कैंसल कर डू?
+511,21,indravardhan,bete fikar kyu karta hai..wo sahil hai na ..mummy ke saath chala jayega..hai na sahil?,joy,बेटे फिकर क्यू करता है..वो साहिल है ना ..मम्मी के साथ चला जाएगा..है ना साहिल?
+512,21,maya,thank you so much darling..to kal zodiac bistro..2'o clock.. reservation tum kara loge na?,joy,थैंक यू सो मुच डार्लिंग..तो कल जोडियाक बिस्त्रो..२'ओ क्लॉक.. रिजर्वेशन तुम कारा लोगे ना?
+513,21,sahil,yaaa..i will do that,joy,या..आई विल दो थाट
+514,21,maya,love you beta,joy,लव यू बेटा
+515,21,roshesh,love you momma,joy,लव यू मोम्मा
+516,21,maya,ooo love you too sweety,joy,ओओ लव यू टू स्वीटी
+517,21,suri,"hahah...excuse me, haan sahil bol, whatsup?",joy,"हाहाह...एक्सक्यूज मे, हाँ साहिल बोल, व्हाटसअप?"
+518,21,sahil,suri tu kya kr rha hai abhi?,neutral,सूरी टू क्या केआर रहा है अभी?
+519,21,suri,"kuchh nae yaar, bss ek naye natak ke script pe kaam kar raha hun..",joy,"कुछ ने यार, बीएस एक नये नाटक के स्क्रिप्ट पे काम कर रहा हुन.."
+520,21,sahil,"dekh tu apni script chhod aur turant zodiac bistro pahunch ja, yahan pe tujhe live natak karna hai",neutral,"देख टू अपनी स्क्रिप्ट छोड़ और टुरेंट जोडियाक बिस्त्रो पहुंच जा, यहां पे तुझे लाइव नाटक करना है"
+521,21,suri,kya?,surprise,क्या?
+522,21,sahil,"dekh tu sawal mat puchh, kya hai ki kuchh der ke liye tujhe doctor rajshekhar acharya banna hai. aur agar tune mana kiya to mai  swargiya sahil sarabhai ban jaunga",fear,"देख टू सवाल मत पूछ, क्या है की कुछ देर के लिए तुझे डॉक्टर राजशेखर आचार्य बन्ना है. और अगर ट्यून माना किया तो मई  स्वर्गीय साहिल साराभाई बन जाऊंगा"
+523,22,rosesh,"momma, sahil bhai ka phone aaya tha, wo aapko surprise dena chahte hain",fear,"मोम्मा, साहिल भाई का फोन आया था, वो आपको सरप्राइज देना चाहते हैं"
+524,22,maya,oh my god! i'm sure usne dilli me bangla select kar liya hoga. pehle ye batao tumne kuchh socha ki nahi use rokne ke liye?,fear,ओह माई गोद! आई'एम सुरे उसने दिल्ली मे बंगला सेलेक्ट कर लिया होगा. पहले ये बताओ तुमने कुछ सोचा की नही उसे रोकने के लिए?
+525,22,rosesh,"haan..melodrama..you come with me..aap sirf chhe mahiney ki mehmaan hain, aapko blood cancer hai",neutral,"हाँ..मेलोड्रामा..यू कोम विथ मे..आप सिर्फ छे महीने की मेहमान हैं, आपको ब्लड कैंसर है"
+526,22,maya,umm but blood cancer is very padestrian..kuchh aur socho na..,contempt,उम्म बट ब्लड कैंसर इस वेरी पेडेस्ट्रियन..कुछ और सोचो ना..
+527,22,rosesh,lemme see..lemme see..haan..,neutral,लेमे सी..लेमे सी..हाँ..
+528,22,maya,liver?,neutral,लिवर?
+529,22,rosesh,cancer of the esophagus?,joy,कैंसर ओएफ थे इसोफेगस?
+530,22,maya,right. that's good that's good,joy,राइट. थाट'एस गुड थाट'एस गुड
+531,22,rosesh,hum ye dikhaenge ki humne ye baat sahil bhai se chhipai hai taki unhe apna dilli jane ka program cancel na karna pade,joy,हम ये दिखाएंगे की हमने ये बात साहिल भाई से छिपाई है ताकी उन्हे अपना दिल्ली जाने का प्रोग्राम कैंसल ना करना पड़े
+532,22,maya,aur..aur monisha kisi tarah by chance ye baat sunn leti hai..,neutral,और..और मोनिशा किसी तरह बी चांस ये बात सुन लेती है..
+533,22,monisha,mummy ji!,joy,मम्मी जी!
+534,22,maya,aa gayi wo..continue..aur suno..blood cancer hi bolna..esophagus wo nahi samajh paegi,neutral,आ गयी वो..कंटिन्यू..और सुनो..ब्लड कैंसर ही बोलना..इसोफेगस वो नही समझ पाएगी
+535,22,rosesh,okay,neutral,ओके
+536,22,monisha,mummy ji,joy,मम्मी जी
+537,22,maya,nahi nahi rosesh..tum sahil ko kuchh nahi btaoge i beg of you,sadness,नही नही रोसेश..तुम साहिल को कुछ नही बताओगे आई बेग ओएफ यू
+538,22,rosesh,lekin momma aapko blood cancer hai kaise na bataun mai sahil bhai ko?,sadness,लेकिन मोम्मा आपको ब्लड कैंसर है कैसे ना बताऊँ मई साहिल भाई को?
+539,22,maya,sahil apna dilli ka programme cancel kar dega rosesh aur ye mai nahi chahti,sadness,साहिल अपना दिल्ली का प्रोग्राम कैंसल कर देगा रोसेश और ये मई नही चाहती
+540,22,sahil,mom?,neutral,मोम?
+541,22,rosesh,sahil bhai aa gaye,fear,साहिल भाई आ गये
+542,22,monisha,shh..idhar aao idhar aao,neutral,श्ह..इधर आओ इधर आओ
+543,22,sahil,kya hua?,neutral,क्या हुआ?
+544,22,monisha,suno,neutral,सुनो
+545,22,maya,ab kya karein,fear,अब क्या करें
+546,22,rosesh,baitho,fear,बैठो
+547,22,sahil,arey kya suno..chalo..,neutral,अरे क्या सुनो..चलो..
+548,22,rosesh,ro lijiye momma..ro lijiye,sadness,रो लिजिए मोम्मा..रो लिजिए
+549,22,sahil,kya hua mom kyun ro ri hai?,neutral,क्या हुआ मोम क्यून रो री है?
+550,22,maya,nai..mai kahan ro rahi hun..meri aankhon me to sirf kuchh kachara chala gaya hai,sadness,नई..मई कहन रो रही हुन..मेरी आंखों मे तो सिर्फ कुछ कचरा चला गया है
+551,22,sahil,itna sara kachara?,neutral,इतना सारा कचरा?
+552,22,monisha,nai sahil..mummy ji jhooth keh rahi hain..inhein cancer hua hai,sadness,नई साहिल..मम्मी जी झूठ केह रही हैं..इन्हें कैंसर हुआ है
+553,22,sahil,what?,surprise,व्हाट?
+554,22,maya,nahi nahi sahil..mujhe kuchh nahi hua hai..i'm fine,sadness,नही नही साहिल..मुझे कुछ नही हुआ है..आई'एम फाइन
+555,22,sahil,haan i know that you are fine haha kyunki aapki six monthly medical report hai mere hathon me and and..now comes the surprise..doctor sarthi ne jab ye report dekhi to unhone turant kaha ki wo aapki lifestyle pe ek kitaab likhna chahte hain..maya sarabhai's health and fitness regime haha look thirty and fifty,joy,हाँ आई नोव थाट यू अरे फाइन हाहा क्यूंकि आपकी सिक्स मंथली मेडिकल रिपोर्ट है मेरे हाथों मे एंड एंड..नौ कम्स थे सरप्राइज..डॉक्टर सारथी ने जब ये रिपोर्ट देखी तो उन्होंने टुरेंट कहा की वो आपकी लाइफस्टाइल पे एक किताब लिखना चाहते हैं..माया साराभाई'एस हेल्थ एंड फिटनेस रिजाइम हाहा लूक थर्टी एंड फिफ्टी
+556,22,maya,forty eight,fear,फोर्टी आईआईटी
+557,22,sahil,"haan ma...matlab..you are healthy as a horse..and by the way, aapko cancer hai ye kisne btaya?",neutral,"हाँ मा...मतलब..यू अरे हेल्थी एएस आ हॉर्स..एंड बी थे वे, आपको कैंसर है ये किसने बताया?"
+558,22,maya,doctor desai,neutral,डॉक्टर देसाई
+559,22,rosesh,doctor agarwal ne..,neutral,डॉक्टर अगरवाल ने..
+560,22,sahil,hah?,neutral,हाह?
+561,22,rosesh,doctor desai ne,neutral,डॉक्टर देसाई ने
+562,22,sahil,doctor desai?,neutral,डॉक्टर देसाई?
+563,22,maya,pata nai unhone aisa kyun kaha..ki mujhe cancer of the esophagus ho gaya hai,joy,पता नई उन्होंने आइसा क्यून कहा..की मुझे कैंसर ओएफ थे इसोफेगस हो गया है
+564,22,monisha,magar aap to keh rahi thi ki aapko blood cancer hai,sadness,मगर आप तो केह रही थी की आपको ब्लड कैंसर है
+565,22,maya,haan matlab...,neutral,हाँ मतलब...
+566,22,rosesh,dono hai,neutral,डोनो है
+567,22,maya,dono ni ho sakte,neutral,डोनो नी हो सकते
+568,22,sahil,mom..is the cat out of the bag yet?,neutral,मोम..इस थे कैट आउट ओएफ थे बैग येत?
+569,22,maya,what are you saying sahil...haan...i mean mai nahi chah rahi thi ki tum...,sadness,व्हाट अरे यू सेइंग साहिल...हाँ...आई मीन मई नही चाह रही थी की तुम...
+570,22,sahil,dilli chala jaun? hai na? so i am not going,neutral,दिल्ली चला जौन? है ना? सो आई एएम नोट गोइंग
+571,22,monisha,kyun?,surprise,क्यून?
+572,22,sahil,oxford medical center ke jo dean ki minimum age hai na..that's thirty eight..and i'm a bit younger,neutral,ऑक्सफोर्ड मेडिकल सेंटर के जो डीन की मिनिमम आगे है ना..थाट'एस थर्टी आईआईटी..एंड आई'एम आ बिट यंगर
+573,22,maya,yay..hehe,joy,याय..हेहे
+574,22,monisha,hai ram..dilli cancel..matlab sale cancel?,sadness,है राम..दिल्ली कैंसल..मतलब साले कैंसल?
+575,22,maya,sale?,surprise,साले?
+576,22,monisha,"haan mummy ji..maine humare ghar ki razai, takiya, bartan, jhadoo sab sale pe laga diya garage me..oh my god..radha bai..",sadness,"हाँ मम्मी जी..मैने हमारे घर की रजाई, तकिया, बर्तन, झाडू सब साले पे लगा दिया गैरेज मे..ओह माई गोद..राधा बाई.."
+577,22,sahil,mom..happy?,neutral,मोम..हैप्पी?
+578,22,maya,very. i'm so sorry about this but dekhna tum dilli nahi ja rahe ho na ye tumhare hi liye accha hoga,joy,वेरी. आई'एम सो सॉरी अबाउट थिस बट देखना तुम दिल्ली नही जा रहे हो ना ये तुम्हरे ही लिए अच्छा होगा
+579,22,sahil,kaise?,neutral,कैसे?
+580,22,maya,kyunki wo s...,neutral,क्यूंकि वो एस...
+581,23,sahil,"mom,mom",neutral,"मोम,मोम"
+582,23,indravardhan,maya maya tumhari umar hi kya thi,sadness,माया माया तुम्हारी उमर ही क्या थी
+583,23,sahil,can you relax dad,anger,कैन यू रिलैक्स दाद
+584,23,indravardhan,ab anath aur bhukhe bacchon ke liye janna ikattha karne five star hotel main 6 pose dinner kaun rakhega?,sadness,अब अनाथ और भूखे बच्चों के लिए जन्ना इकट्ठा करने फाइव स्टार होटल मैं ६ पोज डिनर कौन रखेगा?
+585,23,maya,main mari nahin hun indravadan sirf thoda chakkar a raha hai.,neutral,मैं मारी नहीं हुन इंद्रवदन सिर्फ थोड़ा चक्कर आ रहा है।
+586,23,rosesh,don't be modest. kya thoda sa mama tu itni jor se ghoom rahi thi ke mujhe laga mama kar thak kar rahi hai,neutral,दोन'टी बे मॉडेस्ट. क्या थोड़ा सा मामा टू इतनी जोर से घूम रही थी के मुझे लगा मामा कर थक कर रही है
+587,23,indravardhan,chakkar aane per duniya ghumti hai patient nahin ghumta samjha,anger,चक्कर आने पेर दुनिया घुमटी है पेशेंट नहीं घूमता समझा
+588,23,maya,just ignore him beta indravadan ko to hamesha hi lagta hai ki main dhong kar rahi hun. o meri hath do mujhe apne ghar le chalo,sadness,जस्ट इग्नोर हिम बेटा इंद्रवदन को तो हमेशा ही लगता है की मैं ढोंग कर रही हुन. ओ मेरी हाथ दो मुझे अपने घर ले चलो
+589,23,rosesh,lekin mama ghar per to painters touch up kar raha hai bedroom.,neutral,लेकिन मामा घर पेर तो पेंटर्स टच यूपी कर रहा है बेडरूम।
+590,23,sahil,isiliye lete rahi hai mom,neutral,इसीलिए लेते रही है मोम
+591,23,maya,lekin mein monisha par bojh nahin banna chahti.,sadness,लेकिन में मोनिशा पर बोझ नहीं बन्ना चाहती।
+592,23,sahil,"come on mom aap ham per bojh. monisha keya mom tum par bojh banegi? jawab do monisha, monisha .",anger,"कोम ओन मोम आप हम पेर बोझ. मोनिशा केया मोम तुम पर बोझ बनेगी? जवाब दो मोनिशा, मोनिशा ।"
+593,23,maya,mujhe mera jawab mil gaya beta,sadness,मुझे मेरा जवाब मिल गया बेटा
+594,23,sahil,nahin mom jab talak aapki puri test nahin ho jaati aur mujhe puri tarah tasalli nahin ho jaati tab tak aap kahin nahin jaenge and that's an order.,neutral,नहीं मोम जब तलक आपकी पूरी टेस्ट नहीं हो जाती और मुझे पूरी तरह तसल्ली नहीं हो जाती तब तक आप कहीं नहीं जाएंगे एंड थाट'एस एएन ऑर्डर।
+595,23,maya,hi hi hi ek bete ke zid kaun mar tal sakti hai i love you darling,joy,ही ही ही एक बेटे के ज़िद कौन मार टाल सकती है आई लव यू डार्लिंग
+596,23,sahil,let me check your temperature,neutral,लेट मे चेक यूर टेंपरेचर
+597,23,rosesh,sacra for that let's pray together hold my hand and old mamas hand. dear krishna bhagwan aap hamari mama ko apni mama samjhaiye yashoda mama na sahi devaki mama samajhiye,neutral,साकरा फोर थाट लेट'एस प्राय टोगेदर होल्ड माई हैंड एंड ओल्ड मामास हैंड. डियर कृष्ण भगवान आप हमारी मामा को अपनी मामा समझाइए यशोदा मामा ना सही देवकी मामा समझिए
+598,23,indravardhan,chhuuuuu tum bahut acchi ladki thi.,neutral,छूऊ तुम बहुत अच्छी लड़की थी।
+599,23,monisha,thi?,surprise,थी?
+600,23,indravardhan,han kyunki maya ab tumhe jeene nahin degi,neutral,हन क्यूंकि माया अब तुम्हे जीने नहीं देगी
+601,23,monisha,kya ? really,sadness,क्या ? रियली
+602,24,maya,"this is just not done monisha, just not done",anger,"थिस इस जस्ट नोट डोन मोनिशा, जस्ट नोट डोन"
+603,24,monisha,hush mom,neutral,हुश मोम
+604,24,maya,don't you dare hush me..nau baje sham ki dinner party me humein bula ke khud saadhe dus baje pahonchati ho..samjhati kya ho tum apne aap ko?,anger,दोन'टी यू डेयर हुश मे..नौ बजे शाम की डिनर पार्टी मे हमें बुला के खुद साधे डस बजे पहोंचाती हो..समझती क्या हो तुम अपने आप को?
+605,24,monisha,"rule number sixteen mom..nau baje rakhi hui party me sharp nau baje sirf middle class log pahunchte hain..haanth jod ke aaiye aaiye kehne ke liye..khud ki di hui party me kam se kam ek ghanta late pahunchna is a style statement..rosesh, rule dikhao na",neutral,"रूले नंबर सिक्सटीन मोम..नौ बजे रखी हुई पार्टी मे शार्प नौ बजे सिर्फ मिडल क्लास लोग पहुंचते हैं..हांठ जोड़ के आइये आइये कहने के लिए..खुद की दी हुई पार्टी मे काम से काम एक घंटा लेट पहुंचना इस आ स्टाइल स्टेटमेंट..रोसेश, रूले दिखाओ ना"
+606,24,rosesh,oh yeah yeah..momma ye..,neutral,ओह याह याह..मोम्मा ये..
+607,24,maya,"tum mujhe kya rule dikhane lage..monisha, gyarah baar maine tumhein phone kiya gyarah baar..har baar this phone is not reachable",anger,"तुम मुझे क्या रूले दिखने लगे..मोनिशा, ग्यारह बार मैने तुम्हें फोन किया ग्यारह बार..हर बार थिस फोन इस नोट रीचेबल"
+608,24,monisha,"i'm sorry mom, wo mera phone mere assistant phillip ke paas tha. you see khud ka mobile khud carry karna is so crude and down market..right rosesh",contempt,"आई'एम सॉरी मोम, वो मेरा फोन मेरे असिस्टेंट फिलिप के पास था. यू सी खुद का मोबाइल खुद कैरी करना इस सो क्रूड एंड डाउन मार्केट..राइट रोसेश"
+609,24,maya,tumhein iss tarah se behave karne me maza aata hai monisha,anger,तुम्हें आईएस तरह से बिहेव करने मे मज़ा आता है मोनिशा
+610,24,monisha,"um..mom, mai aap logon ka dinner yahin bhejwa deti hun..and mom, kal mere yahan pe cards and cocktail ki party hai, aap jarur aaiyega okay? ciao",joy,"यूएम..मोम, मई आप लोगों का डिनर यहीं भेजवा देती हुन..एंड मोम, कल मेरे यहां पे कार्ड एंड कॉकटेल की पार्टी है, आप जरूर आइएगा ओके? सियाओ"
+611,24,maya,you know i think we've created a frankenstein's monster,anger,यू नोव आई थिंक वे'वे क्रिएटेड आ फ्रैंकेंस्टीन'एस मॉन्स्टर
+612,24,rosesh,simple aunty ne sir pe chadhaya hai monisha bhabhi ko,anger,सिंपल आंटी ने सिर पे चढ़ाया है मोनिशा भाभी को
+613,24,maya,"argh..that simple, i tell you..wo to bilkul..wo kya gaaliyan deti thi monisha?",anger,"अर्घ..थाट सिंपल, आई टेल यू..वो तो बिल्कुल..वो क्या गालियां देती थी मोनिशा?"
+614,24,rosesh,kutti kamini haramzaadi,neutral,कुट्टी कामिनी हरामजादी
+615,24,maya,"right. kutti kamini haramzaadi hai wo simple..haa aan..kya se kya bana diya hai usne humari bholi bhali monisha ko..wo purani wali monisha kahan gayi, i miss her so much..wo wapas aaegi kya?",sadness,"राइट. कुट्टी कामिनी हरामजादी है वो सिंपल..हा आन..क्या से क्या बना दिया है उसने हमारी भोली भली मोनिशा को..वो पुरानी वाली मोनिशा कहन गयी, आई मिस हेर सो मुच..वो वापस आएगी क्या?"
+616,25,raj gopal sharma,rosesh ready for the shot?,neutral,रोसेश रेडी फोर थे शॉट?
+617,25,rosesh,yeah yeah,neutral,याह याह
+618,25,rosesh,sahil bhai ,neutral,साहिल भाई
+619,25,raj gopal sharma,arey roko isse field mein jaa rahe hai,fear,अरे रोको इस्से फील्ड में जा रहे है
+620,25,assistant,excuse me aap field mein nahi jaa sakte ,anger,एक्सक्यूज मे आप फील्ड में नही जा सकते
+621,25,madhusudan,madhusudhan,neutral,मधुसूदन
+622,25,assistant,sir wo field hai,fear,सिर वो फील्ड है
+623,25,madhusudan,madhusudhan fufa,neutral,मधुसूदन फूफा
+624,25,sahil,i am sorry brother,sadness,आई एएम सॉरी ब्रदर
+625,25,rosesh,it's ok ,joy,इट'एस ओक
+626,25,sahil,all the best and just go and ..,neutral,अल्ल थे बेस्ट एंड जस्ट गो एंड ..
+627,25,monisha,band baja do uss raj gopal sharma ki ,joy,बंद बजा दो यूएस राज गोपाल शर्मा की
+628,25,raj gopal sharma,family drama khatam ho gaya ho toh kaam shuru karein ,contempt,फैमिली ड्रामा खतम हो गया हो तोह काम शुरू करें
+629,25,rosesh,go go go,neutral,गो गो गो
+630,25,assistant,ready sir?,neutral,रेडी सिर?
+631,25,rosesh,yes sir,neutral,येस सिर
+632,25,assistant,ready?,neutral,रेडी?
+633,25,rosesh,yes,neutral,येस
+634,25,raj gopal sharma,role ,neutral,रोल
+635,25,assistant2,roling,neutral,रोलिंग
+636,25,raj gopal sharma,action,neutral,एक्शन
+637,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+638,25,raj gopal sharma,cut! ye kyu aise bol raha hai. rosesh normally bolo ,neutral,कट! ये क्यू ऐसे बोल रहा है. रोसेश नॉर्मली बोलो
+639,25,rosesh,normal hi tha sir,neutral,नॉर्मल ही था सिर
+640,25,raj gopal sharma,toh abnormal bolo,surprise,तोह एब्नॉर्मल बोलो
+641,25,rosesh,ok,neutral,ओक
+642,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+643,25,raj gopal sharma,cut cut itna abnormally nahin thoda kam beech wala ok?,anger,कट कट इतना एबनॉर्मली नहीं थोड़ा काम बीच वाला ओक?
+644,25,rosesh,ok,neutral,ओक
+645,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+646,25,raj gopal sharma,cut! action,anger,कट! एक्शन
+647,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+648,25,raj gopal sharma,cut! action,anger,कट! एक्शन
+649,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+650,25,raj gopal sharma,cut! action,anger,कट! एक्शन
+651,25,rosesh,mumbai ka raja khailayega kaun pak gaya maathe ye naya don,neutral,मुंबई का राजा खैलाएगा कौन पाक गया माथे ये नया दोन
+652,25,raj gopal sharma,ok,joy,ओक
+653,25,maya,ye ok tha ?,surprise,ये ओक था ?
+654,25,raj gopal sharma,ji nahi ,neutral,जी नही
+655,25,maya,par aapne ok kaha,neutral,पर आपने ओक कहा
+656,25,raj gopal sharma,ok ye ladka zindagi bhar actor nahi ban sakta ye wo waala ok tha ,anger,ओक ये लड़का जिंदगी भर एक्टर नही बन सकता ये वो वाला ओक था
+657,25,raj gopal sharma,pack up,neutral,पैक यूपी
+658,25,sahil,arey ek minute excuse me director sahab just give him one more ,fear,अरे एक मिनिट एक्सक्यूज मे डायरेक्टर साहब जस्ट गिव हिम ओने मोरे
+659,25,rosesh,rehne dijiye sahil bhai meri 39 mei se ek bhi style inhe pasand nahi aayi ,sadness,रहने दीजिए साहिल भाई मेरी ३९ मेई से एक भी स्टाइल इन्हे पसंद नही आई
+660,25,monisha,matlab rosesh bhaiya ab hero nahi banenge. baldev uncle ne ghar mein jo surprise party rakhi hai hum kya karenge mummy ji ,fear,मतलब रोसेश भैया अब हीरो नही बनेंगे. बलदेव अंकल ने घर में जो सरप्राइज पार्टी रखी है हम क्या करेंगे मम्मी जी
+661,25,maya,arey kyun? sahil ko bhi toh award milne wala hai. i mean harvard medical journal mein iska research chapne wala hai that's not a small thing i am so proud of you darling ,joy,अरे क्यून? साहिल को भी तोह अवार्ड मिलने वाला है. आई मीन हार्वर्ड मेडिकल जर्नल में इसका रिसर्च छापने वाला है थाट'एस नोट आ स्मॉल थिंग आई एएम सो प्राउड ओएफ यू डार्लिंग
+662,25,monisha,mei bhi lekin sahil trophy steel ki maangna haan,joy,मेई भी लेकिन साहिल ट्रॉफी स्टील की मांगना हाँ
+663,25,sahil,can you just chill guys? please? rosesh dekh dil chota mat kar  ,neutral,कैन यू जस्ट चिल गाइज? प्लीज? रोसेश देख दिल छोटा मत कर
+664,25,rosesh,meine toh interview bhi dediya hai sahil bhai ,sadness,मीन तोह इंटरव्यू भी देदिया है साहिल भाई
+665,25,maya,haan toh keh denge tumne script padhne ke baad reject kar di thi film it was just too down market ,contempt,हाँ तोह केह देंगे तुमने स्क्रिप्ट पढ़ने के बाद रिजेक्ट कर दी थी फिल्म इट वास जस्ट टू डाउन मार्केट
+666,25,sahil,aur tum koi classy crossover film karne america gaye ,neutral,और तुम कोई क्लासी क्रॉसओवर फिल्म करने अमेरिका गये
+667,25,rosesh,america?,surprise,अमेरिका?
+668,25,sahil,kyun mera award lene tum mere saath america nahi aaoge ,neutral,क्यून मेरा अवार्ड लेने तुम मेरे साथ अमेरिका नही आओगे
+669,25,maya,oh that's so nice ,joy,ओह थाट'एस सो नाइस
+670,25,monisha,bhai ho toh aise ,joy,भाई हो तोह ऐसे
+671,25,maya,can we say sweet and special siblings or blood brothers. ye bhai ho toh aise is just so middle class monisha ,disgust,कैन वे से स्वीट एंड स्पेशल सिबलिंग्स ओर ब्लड ब्रदर्स. ये भाई हो तोह ऐसे इस जस्ट सो मिडल क्लास मोनिशा
+672,25,madhusudan,hein,neutral,हें
+673,25,rosesh,huhuhuhu,joy,हुहुहुहू
+674,26,maya,haan sarita bataya main usse are rosesh to ajanta ka naam sunte hi ucchal pada ,joy,हाँ सरिता बताया मैं उस्से अरे रोसेश तो अजंता का नाम सुनते ही उच्चल पड़ा
+675,26,monisha,ladki ka naam ajanta kyon rakha,neutral,लड़की का नाम अजंता क्यों रखा
+676,26,indravadan,kyunki uski maa ajanta caves dekh rahi thi jab vo paida hui haha,joy,क्यूंकि उसकी मा अजंता केव्स देख रही थी जब वो पैदा हुई हाहा
+677,26,sahil,sochiye dad agar qutub minar dekh rahi hogi,neutral,सोचिए दाद अगर कुतुब मीनार देख रही होगी
+678,26,indravadan,are tu kitna interesting wedding card banta rosesh ka rosesh weds qutub minar haha,joy,अरे टू कितना इंटरेस्टिंग वेडिंग कार्ड बांटा रोसेश का रोसेश वेड्स कुतुब मीनार हाहा
+679,26,rosesh,very funny ,contempt,वेरी फनी
+680,26,maya,nahin nahin come on main kisi ko nahin bataungi how can i do that i will talk to you later,neutral,नहीं नहीं कोम ओन मैं किसी को नहीं बताऊंगी होव कैन आई दो थाट आई विल तल्क तो यू लेटर
+681,26,maya,ok everybody apne ghar mein confession day banate hue ab ek dusre ko ek dusre se chhupaya vah koi sach bataen pahle ek baat sun lo monisha,neutral,ओक एवरीबॉडी अपने घर में कन्फेशन डे बनते हुए अब एक दूसरे को एक दूसरे से छुपाया वह कोई सच बताएं पहले एक बात सुन लो मोनिशा
+682,26,monisha,kya ,neutral,क्या
+683,26,maya,sach ko lekar koi argument koi jhagada nahin hoga ok?,neutral,सच को लेकर कोई आर्गुमेंट कोई झगड़ा नहीं होगा ओक?
+684,26,rosesh,ok,neutral,ओक
+685,26,maya,good,neutral,गुड
+686,26,maya,indu pata hai abhi sarita ne kitna bada confession kia,neutral,इंदु पता है अभी सरिता ने कितना बड़ा कन्फेशन किया
+687,26,indravadan,kya,neutral,क्या
+688,26,maya,jab vo choti thi aur nimbu churaya karti thi,contempt,जब वो छोटी थी और निम्बू चुराया करती थी
+689,26,monisha,nimbu churane main bada confession kya hai ,neutral,निम्बू चुराने मैं बड़ा कन्फेशन क्या है
+690,26,indravadan,wo bade nimbu churati hogi haha,joy,वो बड़े निम्बू चुराती होगी हाहा
+691,26,sahil,kisi aur ke confession ko lekar lambi charcha yatra nikale apna confession start karen mom we will start with you,neutral,किसी और के कन्फेशन को लेकर लंबी चर्चा यात्रा निकले अपना कन्फेशन स्टार्ट करें मोम वे विल स्टार्ट विथ यू
+692,26,maya,me,neutral,मे
+693,26,sahil,hmm,neutral,हम्म
+694,26,maya,haha ok,joy,हाहा ओक
+695,26,maya,indravadan yaad hai ek din hamare ghar per bijali chali gai aur tumhari ba ne mujh par ilzaam lagaya tha,neutral,इंद्रवदन याद है एक दिन हमारे घर पेर बिजली चली गई और तुम्हारी बा ने मुझ पर इल्ज़ाम लगाया था
+696,26,indravadan,are han han yad hai are bakuda ye maya dekh jor jor se gala daba rahi hai mera haha bechari pagali thi kuchh bhi bol deti hai,joy,अरे हन हन याद है अरे बाकुडा ये माया देख जोर जोर से गला दबा रही है मेरा हाहा बेचारी पगली थी कुछ भी बोल देती है
+697,26,maya,actually wo,neutral,एक्चुअली वो
+698,26,indravadan,maiya tumne waakiye uska gala daba,fear,मैया तुमने वाकिये उसका गला दबा
+699,26,maya,mujhse raha nahin gaya indu,neutral,मुझसे रहा नहीं गया इंदु
+700,26,indravadan,how could you maya meri maa,anger,होव कोल्ड यू माया मेरी मा
+701,26,maya,anyway pure do saal zinda rahi thi wo main tumhe kaha tha na sach sunke accept karna uska issue mat banana,neutral,एनीवे पूरे दो साल जिंदा रही थी वो मैं तुम्हे कहा था ना सच सुनके एक्सेप्ट करना उसका इश्यू मत बनाना
+702,26,indravadan,arey,neutral,अरे
+703,26,maya,monisha tumhari baari,neutral,मोनिशा तुम्हारी बारी
+704,26,monisha,maine ek bar sahil ko teen din purani sabji khiladi,fear,मैने एक बार साहिल को तीन दिन पुरानी सब्जी खिलाड़ी
+705,26,monisha,ho gaya,neutral,हो गया
+706,26,maya,monisha confession beta koi aisa sach jo humei pata na ho,neutral,मोनिशा कन्फेशन बेटा कोई आइसा सच जो हुमेई पता ना हो
+707,26,monisha,acha haan meine apne bedroom ki chaddar dhoyi nahi thi usse palat kar bicha di thi,fear,अचा हाँ मीन अपने बेडरूम की चद्दर धोई नही थी उस्से पलट कर बीचा दी थी
+708,26,indravadan,fir,neutral,फिर
+709,26,monisha,ho gaya,neutral,हो गया
+710,26,sahil,tum samjhi nahin monisha koi aisi baat jise sunkar ham chauk jaaye uh haila bolun you know aisa koi sach,neutral,तुम समझी नहीं मोनिशा कोई ऐसी बात जिसे सुनकर हम चौक जाए उह हैला बोलून यू नोव आइसा कोई सच
+711,26,monisha,aisa sach,neutral,आइसा सच
+712,26,indravadan,han bolo bolo daro mat,neutral,हन बोलो बोलो दारो मत
+713,26,sahil,ok kal jo tiffin main tumne mujhe khana diya tha,neutral,ओक कल जो टिफिन मैं तुमने मुझे खाना दिया था
+714,26,monisha,wo sabji maine bilkul fresh banai thi aur aur tiffin bhi acchi tarah se dhoya tha,neutral,वो सब्जी मैने बिल्कुल फ्रेश बनाई थी और और टिफिन भी अच्छी तरह से धोया था
+715,26,indravadan,haila,surprise,हैला
+716,26,sahil,kya,surprise,क्या
+717,26,rosesh,what are you saying ,surprise,व्हाट अरे यू सेइंग
+718,26,maya,now that's a confession dekha sab log chauke na ,joy,नौ थाट'एस आ कन्फेशन देखा सब लोग चौके ना
+719,26,maya,ok indu ab tumhari baari,neutral,ओक इंदु अब तुम्हारी बारी
+720,26,indravadan,uh meri baari ahaan meine ek baar rosesh ko apne hathon se pani pilaya tha,neutral,उह मेरी बारी अहाँ मीन एक बार रोसेश को अपने हाथों से पानी पिलाया था
+721,26,rosesh,so ismein confession kya hai,neutral,सो इसमें कन्फेशन क्या है
+722,26,indravadan,wo paani meine toilet ki tank se nikala tha,fear,वो पानी मीन टॉयलेट की टैंक से निकाला था
+723,26,rosesh,what ,surprise,व्हाट
+724,26,rosesh,meine piya tha ?,disgust,मीन पिया था ?
+725,26,indravadan,han han aur kaha bhi tha dad ke hath ka kuchh jyada meetha lag raha hai aaj,joy,हन हन और कहा भी था दाद के हाथ का कुछ ज्यादा मीठा लग रहा है आज
+726,26,rosesh,momma,disgust,मोम्मा
+727,26,maya,this is disgusting how could you do that,disgust,थिस इस डिसगस्टिंग होव कोल्ड यू दो थाट
+728,26,sahil,hahah there is no judgement no judgement mom,joy,हाहाह थेरे इस नो जजमेंट नो जजमेंट मोम
+729,26,sahil,alright it's my turn now mera confession suniye mom aapko aap ki friend yad hai dolly aunty,neutral,अलराइट इट'एस माई टर्न नौ मेरा कन्फेशन सुनिए मोम आपको आप की फ्रेंड याद है डॉली आंटी
+730,26,indravadan,oho wo that bombshell 38 26 36,joy,ओहो वो थाट बॉम्बशेल ३८ २६ ३६
+731,26,sahil,wo mujhe zabardasti kiss kiya karti thi,neutral,वो मुझे जबरदस्ती किस किया करती थी
+732,26,sahil,main 17 sal ka hua tab tak,neutral,मैं १७ साल का हुआ तब तक
+733,26,maya,oh my god tumne mujhe bataya kyon nahin main rok deti hai aisi harkat,surprise,ओह माई गोद तुमने मुझे बताया क्यों नहीं मैं रोक देती है ऐसी हरकत
+734,26,indravadan,isiliye to nahin bataya le hahaha,joy,इसीलिए तो नहीं बताया ले हहाहा
+735,26,sahil,haha,joy,हाहा
+736,26,monisha,sahil,anger,साहिल
+737,26,sahil,rosesh tumhara confession bolo,neutral,रोसेश तुम्हरा कन्फेशन बोलो
+738,26,maya,go on,neutral,गो ओन
+739,26,rosesh,well momma mei ,fear,वेल मोम्मा मेई
+740,26,maya,kya ,neutral,क्या
+741,26,rosesh,mei shaadi shuda hun aur humara ek bacha bhi hai bye,fear,मेई शादी शुदा हुन और हमारा एक बचा भी है बाई
+742,26,maya,what rosesh,surprise,व्हाट रोसेश
+743,27,indravadan,arey bhai vithal arey meine jo jhute khareede the wo wapas de aao ,neutral,अरे भाई विठ्ठल अरे मीन जो झूटे खरीदे थे वो वापस दे आओ
+744,27,monisha,kyun? ,surprise,क्यून?
+745,27,indravadan,kyunki rosesh ki qitab khareedne ke baad itne jhute padenge ke jhute khaaredne ki zaroorat hi nahi padegi zindagi bhar ,contempt,क्यूंकि रोसेश की किताब खरीदने के बाद इतने झूटे पड़ेंगे के झूटे खारेदने की ज़रूरत ही नही पड़ेगी जिंदगी भर
+746,27,sahil,alright mom aapko tamatar khaareedne ki bhi zaroorat nahi hai kyonki rosesh ki qitab padne ke baad log waise bhi tamtar fenk ke maarne waale hai,contempt,अलराइट मोम आपको टमाटर खारीदने की भी ज़रूरत नही है क्योंकि रोसेश की किताब पड़ने के बाद लोग वैसे भी तमतर फेंक के मारने वाले है
+747,27,maya,what nonsense sahil,anger,व्हाट नॉनसेंस साहिल
+748,27,monisha,sahil tamatar 35 kilo ho gaye hai ,fear,साहिल टमाटर ३५ किलो हो गये है
+749,27,maya,monisha please sahil tumse ye umeed nahi thi i mean you are really cruel,contempt,मोनिशा प्लीज साहिल तुमसे ये उमीद नही थी आई मीन यू अरे रियली क्रुएल
+750,27,sahil,me!! it was rosesh mom who was cruel to us ,anger,मे!! इट वास रोसेश मोम व्हो वास क्रुएल तो यूएस
+751,27,indravadan,he is absolutely right kavi banne chala hai mera gas meri ghar ghanti arey socho bhai maya koi khudko hue gas par kavita likhta hai ,contempt,हे इस एब्सोल्यूटली राइट कवि बन्ने चला है मेरा गैस मेरी घर घंटी अरे सोचो भाई माया कोई खुदको हुए गैस पर कविता लिखता है
+752,27,maya,indravadan cooking gas par kavita thi!,anger,इंद्रवदन कुकिंग गैस पर कविता थी!
+753,27,indravadan,acha aur kavita mein jo dhum dhaam awaaze thi wo ?,contempt,अचा और कविता में जो धूम धाम आवाज़े थी वो ?
+754,27,monisha,wo ghar ghanti ki awaaz thi daddy ji ,neutral,वो घर घंटी की अवाज़ थी डैडी जी
+755,27,maya,right dekha! even monisha ye baat samaj gayi .. wo monisha jo aaj tak nahi samjhi ke yu yu yu chappal khaseetke nahi chalna chaiye jo ye nahi samjhi ke ghar mein plastic bags ki exhibition nahi lagani chaiye ,contempt,राइट देखा! इवेन मोनिशा ये बात समाज गयी .. वो मोनिशा जो आज तक नही समझी के यू यू यू चप्पल खसीतके नही चलना चैये जो ये नही समझी के घर में प्लास्टिक बैग्स की एक्जीबिशन नही लगानी चैये
+756,27,indravadan,ye naya point hai,neutral,ये नया पॉइंट है
+757,27,maya,jo ye nahi samjhi dinner party mei uhm uhm aise ungliyaan nahi chaatni chaiye. jo ye,contempt,जो ये नही समझी डिनर पार्टी मेई उह्म उह्म ऐसे उंगलियां नही चाटनी चैये. जो ये
+758,27,monisha,mummy ji!,sadness,मम्मी जी!
+759,27,maya,i know bohot lambi list hai! but the point is monisha bhi ye baat samaj gayi hai aur tum i mean give the poor boy a chance tumhe kaise pata ho sakta hai ki kal rosesh ki qitab khaaredne ke liye logo ki line lage ,neutral,आई नोव बोहोत लंबी लिस्ट है! बट थे पॉइंट इस मोनिशा भी ये बात समाज गयी है और तुम आई मीन गिव थे पूर बॉय आ चांस तुम्हे कैसे पता हो सकता है की कल रोसेश की किताब खारेदने के लिए लोगो की लाइन लगे
+760,27,rosesh,momma ,sadness,मोम्मा
+761,27,maya,hello darling ! ,joy,हेलो डार्लिंग !
+762,27,rosesh,ek bhi qitab nahi biki ,sadness,एक भी किताब नही बिकी
+763,27,maya,we eh eh well baby aaj pehle dinn hai ,neutral,वे एह एह वेल बेबी आज पहले दिन है
+764,27,rosesh,it's ok mommma,sadness,इट'एस ओक मोम्मा
+765,27,monisha,sahil dekha rosesh bhaiya kitne dhuki the jao na ,sadness,साहिल देखा रोसेश भैया कितने धुकी थे जाओ ना
+766,27,sahil,i am sorry mom . but remember aap hi ne kaha tha ki honesty is the best policy ,neutral,आई एएम सॉरी मोम . बट रिमेंबर आप ही ने कहा था की होनेस्टी इस थे बेस्ट पॉलिसी
+767,27,maya,iss kahavat se pehle kabhi kabhi lagana bhul gayi kabhi kabhi honesty is the best policy magar kabhi kabhi kisika dil rakhne ke liye jhut bolna padta hai kyun monisha ka dil rakhne ke liye jhut nahi bolte hum,contempt,आईएस कहावत से पहले कभी कभी लगाना भूल गयी कभी कभी होनेस्टी इस थे बेस्ट पॉलिसी मगर कभी कभी किसीका दिल रखने के लिए झूट बोलना पड़ता है क्यून मोनिशा का दिल रखने के लिए झूट नही बोलते हम
+768,27,indravadan,maya bas bas bas bas ye monisha haaye haaye puran baadmein ok ok ok rosesh ka hausla badane ki puri koshish karega sahil ,neutral,माया बस बस बस बस ये मोनिशा हाए हाए पुराण बादमें ओक ओक ओक रोसेश का हौसला बड़ने की पूरी कोशिश करेगा साहिल
+769,27,sahil,aur dad meri madad karenge,neutral,और दाद मेरी मदद करेंगे
+770,27,maya,good,neutral,गुड
+771,28,sahil,mom aap aa rahi haina! so come fast i am waiting near the car alright! ,neutral,मोम आप आ रही हैना! सो कोम फास्ट आई एएम वेटिंग नियर थे कार अलराइट!
+772,28,rosesh,sahil bhai muje macchi market drop kar denge kya  ,neutral,साहिल भाई मुजे मच्छी मार्केट ड्रॉप कर देंगे क्या
+773,28,sahil,rosesh pocket money ke liye paise kamana achi baat hai lekin macchi bech kar paise kamana ,contempt,रोसेश पॉकेट मोनी के लिए पैसे कमाना अची बात है लेकिन मच्छी बेच कर पैसे कमाना
+774,28,rosesh,don't be silly theatre group ke annual festival ka play hai mei usmein macchimaar bana hun research karne jana hai,neutral,दोन'टी बे सिली थिएटर ग्रुप के एनुअल फेस्टिवल का प्ले है मेई उसमें मच्छिमार बना हुन रिसर्च करने जाना है
+775,28,sahil,main role kar rahe ho?,neutral,मैं रोल कर रहे हो?
+776,28,rosesh,nahin hum 40 macchimaar hai lekin usmein mera main role hai director ne mujhe aage khada kia hai ,joy,नहीं हम ४० मच्छिमार है लेकिन उसमें मेरा मैं रोल है डायरेक्टर ने मुझे आगे खड़ा किया है
+777,28,sahil,waah kitne dialogues hai?,neutral,वाह कितने डायलॉग्स है?
+778,28,rosesh,dialogue toh nahi hai lekin meine improvise kar liya suniye dabduk dabduk dabduk gado ,neutral,डायलॉग तोह नही है लेकिन मीन इम्प्रोवाइज कर लिया सुनिए दब्दुक दब्दुक दब्दुक गाडो
+779,28,sahil,ye?,neutral,ये?
+780,28,rosesh,offo hum log samundar ke tufaan mein dubde hue macchi maar rahe haina toh ye dialogue dabduk dabduk finally gado,neutral,ओफो हम लोग समुंदर के तूफान में दुबड़े हुए मच्छी मार रहे हैना तोह ये डायलॉग दब्दुक दब्दुक फाइनल गाडो
+781,28,sahil,great toh abhi kahan samundar ke niche drop karun ke macchi market ,contempt,ग्रेट तोह अभी कहन समुंदर के नीचे ड्रॉप करून के मच्छी मार्केट
+782,28,monisha,hello ji ,joy,हेलो जी
+783,28,rosesh,sahil bhai andar beth jaao warna bolegi abhi abhi gao se aayi hun wapas jaane ke paise do,fear,साहिल भाई अंदर बेथ जाओ वारना बोलेगी अभी अभी गाओ से आई हुन वापस जाने के पैसे दो
+784,28,sahil,meri friend hai ,neutral,मेरी फ्रेंड है
+785,28,rosesh,ye,neutral,ये
+786,28,monisha,arey sasriyakaal ji doctor saab,joy,अरे ससरियाकाल जी डॉक्टर साब
+787,28,sahil,ye hai manisha aur ye mera bhai rosesh ,neutral,ये है मनीषा और ये मेरा भाई रोसेश
+788,28,rosesh,natak mein macchi maar bana hun,neutral,नाटक में मच्छी मार बना हुन
+789,28,monisha,ek waari meine bhi natak mein kaam kita si . diler tussi tohp ho . usmein na meine diler da role kiya tha ,joy,एक वारी मीन भी नाटक में काम किता सी . दिलेर तुस्सी टॉप हो . उसमें ना मीन दिलेर डीए रोल किया था
+790,28,sahil,acha,neutral,अचा
+791,28,monisha,dardi rab rab kardi bebe dardi rab rab kardi ath mastaani teri chadti jawaani teri mei toh hun nain milaa aha aha aha aha,joy,दर्दी रब रब करदी बेबे दर्दी रब रब करदी अथ मस्तानी तेरी चढ़ती जवानी तेरी मेई तोह हुन नैन मिला अहा अहा अहा अहा
+792,28,maya,aur ab bas sahil chalein ,neutral,और अब बस साहिल चलें
+793,28,sahil,mom ye manisha hai manisha ye meri mom hai ,neutral,मोम ये मनीषा है मनीषा ये मेरी मोम है
+794,28,monisha,ohh peripauna aunty ji ,joy,ओह पेरीपौना आंटी जी
+795,28,maya,you scared me jeete raho sahil zara der ho rahi hai beta ,fear,यू स्केयर्ड मे जीते रहो साहिल ज़रा देर हो रही है बेटा
+796,28,sahil,wo hum uh,neutral,वो हम उह
+797,28,monisha,koi gal nahi ! tussi chalo waise bhi mei tonu ye peh lautane waaste aayi thi ginn lo pure 600 hai ,neutral,कोई गाल नही ! तुस्सी चलो वैसे भी मेई टोनू ये पेह लौटने वास्ते आई थी जिन लो पूरे ६०० है
+798,28,sahil,lekin meine toh aapko 500 diye the ,neutral,लेकिन मीन तोह आपको ५०० दिये थे
+799,28,monisha,meri bauji kehte hai ke jitna lo usse zyada lautao,joy,मेरी बौजी कहते है के जितना लो उस्से ज्यादा लौटाओ
+800,28,sahil,i appreciate that par uhh,joy,आई एप्रिशिएट थाट पर उह्ह
+801,28,monisha,agar zyada lataoge toh saamne se chaar gunna zyada milta hai ,joy,अगर ज्यादा लताओगे तोह सामने से चार गुना ज्यादा मिलता है
+802,28,sahil,acha iska matlab mei aapko 2400 rupay dun ,neutral,अचा इसका मतलब मेई आपको २४०० रुपे दून
+803,28,monisha,oye naa ji naa bauji toh aise hi nasiyat dete rehnde hai mei bhala aapse 4 gunna paise zyada lungi?,joy,ओये ना जी ना बौजी तोह ऐसे ही नसीयत देते रहंदे है मेई भाला आपसे ४ गुना पैसे ज्यादा लुंगी?
+804,28,sahil,par uh!,neutral,पर उह!
+805,28,monisha,haan lekin agar aap apne clinic mein bulaakar mujhe free mein facial shacial kara de toh mei mana nahi karungi toh mei aa jaun parso wo beauty treatment karane?,joy,हाँ लेकिन अगर आप अपने क्लिनिक में बुलाकर मुझे फ्री में फेशियल शेशियल कारा दे तोह मेई माना नही करूंगी तोह मेई आ जौन परसो वो ब्यूटी ट्रीटमेंट करने?
+806,28,maya,sahil can we go?,contempt,साहिल कैन वे गो?
+807,28,sahil,uhh yeah,neutral,उह्ह याह
+808,28,monisha,acha ji bye bye ,neutral,अचा जी बाई बाई
+809,28,sahil,excuse me mei aapko chod dun kahin?,neutral,एक्सक्यूज मे मेई आपको छोड़ दून कहीं?
+810,28,monisha,oye naa ji naa mei taxi se chali jaungi wo wahan khadi haina mere mama di taxi hai oye maame dr sahil! ,joy,ओये ना जी ना मेई टैक्सी से चली जाऊंगी वो वाहन खड़ी हैना मेरे मामा दी टैक्सी है ओये मामे डीआर साहिल!
+811,28,bhai (monisha),sasriyakaal!,joy,ससरियाकाल!
+812,28,sahil,haaan!! uhh haan!,neutral,हाँ!! उह्ह हाँ!
+813,28,monisha,mere maa ka muh bola bhai hai ,neutral,मेरे मा का मुह बोला भाई है
+814,28,monisha,acha ji mei chalti hun namaste namaste ,neutral,अचा जी मेई चलती हुन नमस्ते नमस्ते
+815,28,sahil,excuse me uhh uhh i am repeating myself lekin aap bohot hi dilchust insaan hai ,joy,एक्सक्यूज मे उह्ह उह्ह आई एएम रिपीटिंग माइसेल्फ लेकिन आप बोहोत ही दिलचस्त इंसान है
+816,29,indravadan,haan toh bilkul sahi kaha priya ne tu monisha ko bhaga ke le aa,neutral,हाँ तोह बिल्कुल सही कहा प्रिया ने टू मोनिशा को भागा के ले आ
+817,29,sahil,don't be crazy dad monisha ke mann mein bhi toh kuch hona chaiye na mere liye ,contempt,दोन'टी बे क्रेजी दाद मोनिशा के मन्न में भी तोह कुच होना चैये ना मेरे लिए
+818,29,indravadan,arey mann mein nahi hota toh ,neutral,अरे मन्न में नही होता तोह
+819,29,monisha,doctor sahil doctor sahil namaste uncle ji ,neutral,डॉक्टर साहिल डॉक्टर साहिल नमस्ते अंकल जी
+820,29,indravadan,arey aao bete aao aap log baatein karo mei bhi aaya ,neutral,अरे आओ बेटे आओ आप लोग बातें करो मेई भी आया
+821,29,sahil,dad monisha aap is everything alright?,fear,दाद मोनिशा आप इस एवरीथिंग अलराइट?
+822,29,monisha,aunty ji hai? mujhe ye taufa exchange karane jaana hai ,neutral,आंटी जी है? मुझे ये तौफा एक्सचेंज करने जाना है
+823,29,sahil,kyun? gurpreet ko acha nahi laga ye taufa ,neutral,क्यून? गुरप्रीत को अचा नही लगा ये तौफा
+824,29,monisha,usne mera ye diya hua taufa utha ke phenk diya uhuhuh ,sadness,उसने मेरा ये दिया हुआ तौफा उठा के फेंक दिया उहुहुः
+825,29,indravadan,kya? dekha mei toh pehle hi kehta tha ye gurpreet bada nalayak aadmi hai ,disgust,क्या? देखा मेई तोह पहले ही कहता था ये गुरप्रीत बड़ा नालायक आदमी है
+826,29,sahil,dad aapne dekha tak nahi hai gurpreet ko anyway calm down aap bethiye na yahan bethiye bethiye ,neutral,दाद आपने देखा तक नही है गुरप्रीत को एनीवे काल्म डाउन आप बेठिये ना यहां बेठिये बेठिये
+827,29,indravadan,betho beti  ,neutral,बैठो बेटी
+828,29,monisha,apne saare patients ke saamne usne mera ye taufa utha ke phenk diya ,sadness,अपने सारे पेशेंट्स के सामने उसने मेरा ये तौफा उठा के फेंक दिया
+829,29,indravadan,kya? patients ke saamne ,surprise,क्या? पेशेंट्स के सामने
+830,29,monisha,haan uncle ji 4 kutte 3 billiyaan aur ek bandar bhi tha jaanwar bale hi bezubaan hote hai lekin samjhte toh wo sab kuch haina ,sadness,हाँ अंकल जी ४ कुत्ते ३ बिल्लियां और एक बंदर भी था जानवर बाले ही बेजुबान होते है लेकिन समझते तोह वो सब कुच हैना
+831,29,indravadan,haan haan bilkul aur kuch bolne waale jaanwar sab kuch samjhte hue bhi kuch bolte nahi hai ullu ke pathe ,contempt,हाँ हाँ बिल्कुल और कुच बोलने वाले जानवर सब कुच समझते हुए भी कुच बोलते नही है उल्लू के पाठे
+832,29,sahil,dad ! relax will you dad ,neutral,दाद ! रिलैक्स विल यू दाद
+833,29,sahil,mujhe aisa lagta hai ke aapne hi kuch kiya hoga jisse ,neutral,मुझे आइसा लगता है के आपने ही कुच किया होगा जिस्से
+834,29,monisha,meine toh bas kaha lo ji happy engagement . ab lassi banana aasaan hoga gurpreet aur itne pyaar se meine ye ye blender diya tha ,sadness,मीन तोह बस कहा लो जी हैप्पी इंगेजमेंट . अब लस्सी बनाना आसान होगा गुरप्रीत और इतने प्यार से मीन ये ये ब्लेंडर दिया था
+835,29,sahil,aapne apne mangetar ko taufe mein blender diya ,surprise,आपने अपने मंगेतर को तौफे में ब्लेंडर दिया
+836,29,monisha,haan pure 4 saal ki gurantee wala hai agar 4 saal mein kuch bhi bigad jaaye toh pure paise wapas socho agar 2 saal mein bigad gaya toh hum ussi paiso se kuch aur bhi toh le sakte the na haina?,joy,हाँ पूरे ४ साल की गुरंटी वाला है अगर ४ साल में कुच भी बिगड़ जाए तोह पूरे पैसे वापस सोचो अगर २ साल में बिगड़ गया तोह हम उस्सी पैसो से कुच और भी तोह ले सकते थे ना हैना?
+837,29,indravadan,badi dur ki sochti hai ye haina?,neutral,बड़ी दूर की सोचती है ये हैना?
+838,29,monisha,lekin dekhiye na uncle ji usse iss baat ki qadar hi kahan hai pehle toh blender dekh ke bad badane laga aur fir jab meine kaha ki doctor sahil ki mummy bhi doctor sahil ki tarah achi hai unhone mujhe shopping karwai ice cream khilwai toh ye blender uthake phenk diya inka naam sunte hi maano uske sar pe bhut sawaar uthta hai ,sadness,लेकिन देखिए ना अंकल जी उस्से आईएस बात की कदर ही कहन है पहले तोह ब्लेंडर देख के बाद बड़ने लगा और फिर जब मीन कहा की डॉक्टर साहिल की मम्मी भी डॉक्टर साहिल की तरह अची है उन्होंने मुझे शॉपिंग करवाई इसे क्रीम खिलवाई तोह ये ब्लेंडर उठके फेंक दिया इनका नाम सुनते ही मानो उसके सर पे भूत सवार उठता है
+839,29,indravadan,haan kyunki wo jalta hai sahil se aur tum dono bohot kareeb hona ,neutral,हाँ क्यूंकि वो जलता है साहिल से और तुम डोनो बोहोत करीब होना
+840,29,monisha,lekin uncle ji jalan kis baat ki meine toh sirf 25-30 baar hi naam liya hoga doctor sahil ka ,sadness,लेकिन अंकल जी जलन किस बात की मीन तोह सिर्फ २५-३० बार ही नाम लिया होगा डॉक्टर साहिल का
+841,29,indravadan,lo aur itni si baat ke liye usne pura blender uthake phenk diya mei toh kehta hun jaanwaro ka ilaaj karte karte wo khud bhi jaanwar ho gaya hai ,disgust,लो और इतनी सी बात के लिए उसने पूरा ब्लेंडर उठके फेंक दिया मेई तोह कहता हुन जानवरो का इलाज करते करते वो खुद भी जानवर हो गया है
+842,29,sahil,aap uthiye ye gift exchange kijiye aur gurpreet ko jo pasand ho wo aap usse dijiye aur jaake sorry kahiye ,neutral,आप उठिए ये गिफ्ट एक्सचेंज कीजिए और गुरप्रीत को जो पसंद हो वो आप उस्से दीजिए और जाके सॉरी कहिए
+843,29,monisha,mei sorry kahun! ,surprise,मेई सॉरी कहूँ!
+844,29,sahil,kyunki aapne galati ki hai ,contempt,क्यूंकि आपने गलती की है
+845,29,monisha,huh!,neutral,हुह!
+846,29,sahil,come on come on let's go let's go ,neutral,कोम ओन कोम ओन लेट'एस गो लेट'एस गो
+847,30,maya,hello indravardhan kaise ho tum,neutral,हेलो इन्द्रवर्धन कैसे हो तुम
+848,30,indravardhan,kaam ki baat karo... polite conversations ke liye mere paas waqt nahi hai,neutral,काम की बात करो... पोलाइट कन्वर्सेशन्स के लिए मेरे पास वक्त नही है
+849,30,maya,haha.. polite baate tumhe aati hi kab thi..,contempt,हाहा.. पोलाइट बाते तुम्हे आती ही कब थी..
+850,30,indravardhan,hmm,neutral,हम्म
+851,30,maya,aur ab monisha ke ghar pe rehe rahe ho to...,neutral,और अब मोनिशा के घर पे रेहे रहे हो तो...
+852,30,indravardhan,"aray,, mai, mai, monisha ke ghar pe kyu rehene laga bhala!?",surprise,"अरे,, मई, मई, मोनिशा के घर पे क्यू रहने लगा भाला!?"
+853,30,maya,kyu?... agar hum dono saath nahi rehe rahai hai to tumhe hi ghar chodke jana pada hoga na... mai apna ghar thodi chodungi,neutral,क्यू?... अगर हम डोनो साथ नही रेहे रहै है तो तुम्हे ही घर छोड़के जाना पड़ा होगा ना... मई अपना घर थोड़ी छोडूंगी
+854,30,indravardhan,yani... ye ghar mera nahi hai,surprise,यानी... ये घर मेरा नही है
+855,30,maya,legally to mere hi naam pe hai na,joy,लीगली तो मेरे ही नाम पे है ना
+856,30,indravardhan,aray but...,neutral,अरे बट...
+857,30,maya,ye ghar.. humari dono gadiya... bank locker ki jewellery... alibaug ka cottage...,neutral,ये घर.. हमारी डोनो गड़िया... बैंक लॉकर की ज्वेलरी... अलीबाग का कॉटेज...
+858,30,indravardhan,aaila..,surprise,आइला..
+859,30,maya,ye aaila proove karta hai ki tum monisha ke hi ghar pe rehe rahe ho,contempt,ये आइला प्रूव करता है की तुम मोनिशा के ही घर पे रेहे रहे हो
+860,30,indravardhan,anyway anyway... hmmm... ye rahe divorce ke kaagajaat jara sign kar do,neutral,एनीवे एनीवे... हम्म... ये रहे डाइवोर्स के कागजात जरा साइन कर दो
+861,30,maya,"pahale meri kuch sharte hai, sun lo",anger,"पहले मेरी कुच शर्ते है, सुन लो"
+862,30,indravardhan,"pahale tumhe meri sharte sunni hogi, okay... is flat ha aadha hissa, aadhe paise...",neutral,"पहले तुम्हे मेरी शर्ते सुन्नी होगी, ओके... इस फ्लैट हा आधा हिस्सा, आधे पैसे..."
+863,30,maya,tumhe nahi milenge... next,neutral,तुम्हे नही मिलेंगे... नेक्स्ट
+864,30,indravardhan,humari do gadiyon mese ek gaadi..,neutral,हमारी दो गाडियों मेसे एक गाड़ी..
+865,30,maya,choti wali tumhe de dungi.. next,neutral,छोटी वाली तुम्हे दे डुंगी.. नेक्स्ट
+866,30,indravardhan,"vo.., umm... humare bank ke locker mein jo jwellery rakkhi hai bahut sari vo sab...",neutral,"वो.., उम्म... हमारे बैंक के लॉकर में जो ज्वेलरी रक्खी है बहुत सारी वो सब..."
+867,30,maya,us par tumhara koi haak nahi hai,neutral,यूएस पर तुम्हरा कोई हाक नही है
+868,30,indravardhan,hai!?,surprise,है!?
+869,30,maya,"ab meri sharte suno... har mahine tum muze 60,000 rs doge for maintenance... humare alliance industries ke 35,000 shares mein se 20,000 mere... tumhare vrs ke 80,00,000 mein se 25,00,000 meer aur 25,00,000 rosesh ke... alibaug ka cottage to mera hai hi... aur haa... mental harrasment ka muafja tum mujhe 15,00,000 rs doge, varana mai tumhare khilaf attempt to murder ka case darj karva dungi",neutral,"अब मेरी शर्ते सुनो... हर महीने तुम मुज़े ६०,००० आरएस दोगे फोर मेंटेनेंस... हमारे एलायंस इंडस्ट्रीज के ३५,००० शेयर्स में से २०,००० मेरे... तुम्हरे वीआरएस के ८०,००,००० में से २५,००,००० मीर और २५,००,००० रोसेश के... अलीबाग का कॉटेज तो मेरा है ही... और हा... मेंटल हैरेसमेंट का मुआफजा तुम मुझे १५,००,००० आरएस दोगे, वरना मई तुम्हरे खिलाफ अटेम्प्ट तो मर्डर का केस दर्ज करवा डुंगी"
+870,30,indravardhan,attempt to murder!?,surprise,अटेम्प्ट तो मर्डर!?
+871,30,maya,agar chehere pe laal-neele nishan pad sakte hai to gale pe strangulation ka nishan nahi pad sakta,joy,अगर चेहरे पे लाल-नीले निशान पद सकते है तो गले पे स्ट्रैंगुलेशन का निशान नही पद सकता
+872,30,maya,so... mere sharte qubool kar lo... varana... criminal proceedings suru karva dungi indravardhan sarabhai,anger,सो... मेरे शर्ते क़ुबूल कर लो... वरना... क्रिमिनल प्रोसीडिंग्स सुरू करवा डुंगी इन्द्रवर्धन साराभाई
+873,30,indravardhan,hehehehe... maya tum.. tum... tum.. please mujhe divorce mat dena... bapre baap tum to bahut khatarnak ho.. hehehe,joy,हेहेहेहे... माया तुम.. तुम... तुम.. प्लीज मुझे डाइवोर्स मत देना... बापरे बाप तुम तो बहुत खतरनाक हो.. हेहेहे
+874,30,maya,aray don't worry about that... but point is... what is the point?,neutral,अरे दोन'टी वारी अबाउट थाट... बट पॉइंट इस... व्हाट इस थे पॉइंट?
+875,30,indravardhan,"haa... now the point is ki agar aurat mard ko divorce deti hai to uski baniyan, shirt, patloon, sab utar deti hai",joy,"हा... नौ थे पॉइंट इस की अगर औरत मर्द को डाइवोर्स देती है तो उसकी बनियां, शर्ट, पतलून, सब उतर देती है"
+876,30,maya,"kyu na demand kare aurat apna haak... ha... aray bechaari abla, besahara jaegi kaha vo",sadness,"क्यू ना डिमांड करे औरत अपना हाक... हा... अरे बेचारी अबला, बेसहारा जाएगी कहा वो"
+877,31,indravardhan,to is baat ko lekar to dushyant se to tumhara rooj jhagada ho raha hota?,joy,तो इस बात को लेकर तो दुष्यंत से तो तुम्हरा रूज झगड़ा हो रहा होता?
+878,31,madhusudan,"indu, light kyu band kar di tumne?",neutral,"इंदु, लाइट क्यू बंद कर दी तुमने?"
+879,31,indravardhan,"madhu bhai, light maine band nahi ki.",neutral,"मधु भाई, लाइट मैने बंद नही की।"
+880,31,madhusudan,"baat mat badal, bata light kyu band kar di?",neutral,"बात मत बदल, बता लाइट क्यू बंद कर दी?"
+881,31,indravardhan,"inko utha ke, mai balcony se bahar fek du?",anger,"इनको उठा के, मई बाल्कनी से बाहर फेक डू?"
+882,31,madhusudan,hai?,neutral,है?
+883,31,indravardhan,light apne aap chali gayi.,neutral,लाइट अपने आप चली गयी।
+884,31,madhusudan,hai?,neutral,है?
+885,31,indravardhan,power failure.,neutral,पावर फेल्योर।
+886,31,madhusudan,hai?,neutral,है?
+887,31,indravardhan,"oh ho, abhi andere mein kis tarah ishara kar inko samajhau ke, ki power failure hua hai.",anger,"ओह हो, अभी अंदेरे में किस तरह इशारा कर इनको समझाऊ के, की पावर फेल्योर हुआ है।"
+888,31,sonya,aray to mat samajhaiye na.,neutral,अरे तो मत समझाइए ना।
+889,31,indravardhan,"aray to ye chodenge thodi, 'hai? hai?' kar ke jaan kha jaenge meri.",anger,"अरे तो ये छोड़ेंगे थोड़ी, 'है? है?' कर के जान खा जाएंगे मेरी।"
+890,31,madhusudan,aray ye kya bol raha hai tu. jara joor re bol bewakoof.,anger,अरे ये क्या बोल रहा है टू. जरा जूर रे बोल बेवकूफ।
+891,31,indravardhan,bewakoof!? behare hai aap. 'hai? hai?' aap karte ho. aur bewakoof hu mai?... suno..,anger,बेवकूफ!? बेहरे है आप. 'है? है?' आप करते हो. और बेवकूफ हू मई?... सुनो..
+892,31,madhusudan,dekha sonya. firse akdam baakdam bolna shuru kar diya isne. ram jane spasht bolna kab seekhega tera baap.,anger,देखा सोन्या. फिरसे अकदम बाकदम बोलना शुरू कर दिया इसने. राम जाने स्पष्ट बोलना कब सीखेगा तेरा बाप।
+893,31,indravardhan,vo bada wala chhura kaha hai? aaj to mai unko... ,anger,वो बड़ा वाला छुरा कहा है? आज तो मई उनको...
+894,31,sonya,"aray dad, dad!",fear,"अरे दाद, दाद!"
+895,31,sonya,"ye 'hai? hai?' tabhi karte hai jab ine lagta hai ki hum baat kar rahe hai. dekhiye mai muh hilaye bina baat kar rahi hu, to ye  'haan? haan?' kar rahe hai?",neutral,"ये 'है? है?' तभी करते है जब इने लगता है की हम बात कर रहे है. देखिए मई मुह हिलाए बिना बात कर रही हू, तो ये  'हाँ? हाँ?' कर रहे है?"
+896,31,indravardhan,aray haan.,joy,अरे हाँ।
+897,31,sonya,hmmm.,neutral,हम्म।
+898,31,sonya,ho gaye na apne aap mein busy.,joy,हो गये ना अपने आप में बसी।
+899,31,indravardhan,"haan. to abse apan, isi tarah, hile bager, baat karte rahenge.",neutral,"हाँ. तो अबसे अपन, इसी तरह, हिले बगेर, बात करते रहेंगे।"
+900,31,sonya,"hmm, hmmm.",neutral,"हम्म, हम्म।"
+901,31,indravardhan,"bhagwaan kar, aur subah tak bijali na aae. kamse kam ye hai-hai kumar se to chhutakaara milega. hahaha..",joy,"भगवान कर, और सुबह तक बिजली ना एएई. कमसे काम ये है-है कुमार से तो छुटकारा मिलेगा. हहाहा.."
+902,31,sonya,hmm.. hehe..,neutral,हम्म.. हेहे..
+903,31,indravardhan,"aray. magar ye buddhaa, ye andhere mein dhoond kya raha hai.",neutral,"अरे. मगर ये बुद्धा, ये अंधेरे में ढूंढ़ क्या रहा है।"
+904,31,madhusudan,"mil gayi indu, mil gaye!",joy,"मिल गयी इंदु, मिल गये!"
+905,31,indravardhan,kya mil gaya ise?,neutral,क्या मिल गया इसे?
+906,31,indravardhan,"ohh. oh ho, sonya, ye..., mere upar muh pe torch kyu maar rahe hai.",anger,"ओह. ओह हो, सोन्या, ये..., मेरे उपर मुह पे टॉर्च क्यू मार रहे है।"
+907,31,madhusudan,"hai? kya bola, kya bola?",neutral,"है? क्या बोला, क्या बोला?"
+908,31,indravardhan,"kuch nahi, aaiye, mai aapko balcony ke bahar phek deta hu, aaiye, aaiye.",anger,"कुच नही, आइये, मई आपको बाल्कनी के बाहर फेक देता हू, आइये, आइये।"
+909,31,sonya,dad! haha...,joy,दाद! हाहा...
+910,32,sahil,my vote goes to maya sarabhai.,neutral,माई वोट गोएस तो माया साराभाई।
+911,32,rosesh,yay! woopie!,joy,याय! वूपी!
+912,32,maya,"hahaha. oh my god. oh, thank you so much sweetie!",joy,"हहाहा. ओह माई गोद. ओह, थैंक यू सो मुच स्वीटी!"
+913,32,rosesh,thank you bhai.,joy,थैंक यू भाई।
+914,32,mrs. sanghavi,congrats!,joy,कांग्रेट्स!
+915,32,maya,thank you.,joy,थैंक यू।
+916,32,rosesh,"please sit down, sit dowm,",neutral,"प्लीज सिट डाउन, सिट डोम,"
+917,32,rosesh,moma speech...,neutral,मोमा स्पीच...
+918,32,maya,"oh, haha..., well, ladies and gentlemen, humari society bach gayi hai.",joy,"ओह, हाहा..., वेल, लेडीज एंड जेंटलमैन, हमारी सोसाइटी बच गयी है।"
+919,32,maya,"lekin, use aur safe banane ke liye, maine kuch rule sooche hai. rule number 1...",neutral,"लेकिन, उसे और सेफ बनने के लिए, मैने कुच रूले सूचे है. रूले नंबर १..."
+920,33,mrs. sanghavi,oh my god! it's  a tie!,joy,ओह माई गोद! इट'एस  आ टाई!
+921,33,monisha,tie!?,surprise,टाई!?
+922,33,maya,tie!?,surprise,टाई!?
+923,33,rosesh,tie!?,surprise,टाई!?
+924,33,indravardhan,"oh ho, rosesh, tu kyu aya!",anger,"ओह हो, रोसेश, टू क्यू आया!"
+925,33,indravardhan,"tu nahi ata, to monisha jeet gae hoti na.",sadness,"टू नही आता, तो मोनिशा जीत गे होती ना।"
+926,33,maya,"well ab kya kare. sare members ne to votes de diye hai. to obviously, mai hi...",neutral,"वेल अब क्या करे. सारे मेंबर्स ने तो वोट्स दे दिये है. तो ऑबवियसली, मई ही..."
+927,33,indravardhan,"kya ab? sahil kaha aaya hai, huh.",neutral,"क्या अब? साहिल कहा आया है, हुह।"
+928,33,maya,huh?,neutral,हुह?
+929,33,indravardhan,sahil ka vote to baaki hai na.,neutral,साहिल का वोट तो बाकी है ना।
+930,33,indravardhan,"haan, hello sahil. aray bhai, aa ja bhai, election khatam ho gaya hai.",joy,"हाँ, हेलो साहिल. अरे भाई, आ जा भाई, इलेक्शन खतम हो गया है।"
+931,33,indravardhan,"haan haan, the coast is clear.",joy,"हाँ हाँ, थे कोस्ट इस क्लियर।"
+932,33,indravardhan,"just 5 more minutes, aata hi hoga sahil.",neutral,"जस्ट ५ मोरे मिनिट्स, आता ही होगा साहिल।"
+933,33,mrs. sanghavi,"okay, no problem.",neutral,"ओके, नो प्रॉब्लम।"
+934,33,sahil,hi!,neutral,ही!
+935,33,indravardhan,there!,neutral,थेरे!
+936,33,monisha,sahil aa gaye!,joy,साहिल आ गये!
+937,33,sahil,kaun jeeta?,neutral,कौन जीता?
+938,33,maya,"well, it's a tie.",neutral,"वेल, इट'एस आ टाई।"
+939,33,maya,"can you believe it, kuch logonne monisha ko bhi vote diye hai.  ",contempt,"कैन यू बिलीव इट, कुच लोगोने मोनिशा को भी वोट दिये है।"
+940,33,maya,"beta, ab tum apna vote daal do, taaki pata chale ki kaun secretary bana hai.",neutral,"बेटा, अब तुम अपना वोट डाल दो, ताकी पता चले की कौन सेक्रेटरी बना है।"
+941,33,maya,jao. go on!,neutral,जाओ. गो ओन!
+942,33,indravardhan,"le, rosesh, haha.",joy,"ले, रोसेश, हाहा।"
+943,33,sahil,"""le, rosesh"", ke saath saath, ""naarayan, naarayan"", bhi bolenge.",anger,"""ले, रोसेश"", के साथ साथ, ""नारायण, नारायण"", भी बोलेंगे।"
+944,33,indravardhan,hahaha.,joy,हहाहा।
+945,33,maya,"sahil, pen hai na darling.",neutral,"साहिल, पेन है ना डार्लिंग।"
+946,33,monisha,"aur, mera wala?",neutral,"और, मेरा वाला?"
+947,34,rosesh,"everybody, pay attention. sahil bhai, monisha bhabhi, beth jaiye. dad, shanti diwas pe aap ye wala natak perform kijiega.",neutral,"एवरीबॉडी, पे अटेंशन. साहिल भाई, मोनिशा भाभी, बेथ जाइए. दाद, शांति दिवस पे आप ये वाला नाटक परफॉर्म कीजिएगा।"
+948,34,monisha,natak ka naam kya hai,neutral,नाटक का नाम क्या है
+949,34,rosesh,naam hai- ‘shah jahan agar taj mahal banwane ka plan last minute pe cancel karke uski jagah seedhi saadhi south indian hotel banwate to’,neutral,नाम है- ‘शाह जहां अगर ताज महल बनवाने का प्लान लास्ट मिनिट पे कैंसल करके उसकी जगह सीढ़ी साधी साउथ इंडियन होटल बनवाते तो’
+950,34,sahil,ye naam hai,neutral,ये नाम है
+951,34,indu,ek min ek min. shah jahan taj mahal banwane ke badle ek seedhi saadhi south indian hotel kyun banwega,anger,एक मिन एक मिन. शाह जहां ताज महल बनवाने के बदले एक सीढ़ी साधी साउथ इंडियन होटल क्यून बनवेगा
+952,34,monisha,kyunki wo sasta padta na daddy ji,joy,क्यूंकि वो सस्ता पड़ता ना डैडी जी
+953,34,indu,wah,contempt,वाह
+954,34,monisha,"or fir usse amdani bhi badhti, haina",neutral,"ओर फिर उस्से आमदानी भी बढ़ती, हैना"
+955,34,sahil,or log kya wahan bethke rawa masala dosa khate,contempt,ओर लोग क्या वाहन बेठके रावा मसाला दोसा खाते
+956,34,rosesh,in sawalo ka jawab aapko isme mil jaega. pehle mera natak suniye to sahi,anger,इन सवालों का जवाब आपको इसमे मिल जाएगा. पहले मेरा नाटक सुनिए तो सही
+957,34,sahil,ye natak tumne likha hai,surprise,ये नाटक तुमने लिखा है
+958,34,indu,"chal sahil, chalke khudkhushi karte hai chal",disgust,"चल साहिल, चलके खुदखुशी करते है चल"
+959,34,monisha,sahil ruko na. are rukiye na sunne ke pese thodi lagte hai,fear,साहिल रुको ना. अरे रुकिए ना सुन्ने के पेसे थोड़ी लगते है
+960,34,rosesh,wahi to,neutral,वही तो
+961,34,indu,"actually, its not a bad idea",neutral,"एक्चुअली, आईटी नोट आ बाद आईडीईए"
+962,34,rosesh,"natak open hota hai, shah jahan bhudhe ho chuke hai, unke baal safed ho chuke hai. chehre pe jhurriyan hai, ankhein kamzor ho chuki hai. hath kap kapa rhe hai",neutral,"नाटक ओपन होता है, शाह जहां भुड़े हो चुके है, उनके बाल सफेद हो चुके है. चेहरे पे झुर्रियां है, आंखें कमजोर हो चुकी है. हाथ कप कपा रहे है"
+963,34,sahil,"blood pressure check kiya, ecg kya keh rha hai",contempt,"ब्लड प्रेशर चेक किया, ईसीजी क्या केह रहा है"
+964,34,indu,"rosesh, hume shah jahan ka medical report nhi sunna hai, tu aage dialog suna na",anger,"रोसेश, हुमे शाह जहां का मेडिकल रिपोर्ट नही सुन्ना है, टू आगे डायलॉग सुना ना"
+965,34,rosesh,"okay, suniye",neutral,"ओके, सुनिए"
+966,34,rosesh,"ghasar ghasar ghasar ghasar, ghasar ghasar ghasar ghasar.",neutral,"घसर घसर घसर घसर, घसर घसर घसर घसर।"
+967,34,indu,"ek min ek min, ye shah jahan ko kya ho rha hai",neutral,"एक मिन एक मिन, ये शाह जहां को क्या हो रहा है"
+968,34,sahil,shah jahan nariyal ko pathar pe ghis ghis kar chatni bana rha hai,neutral,शाह जहां नारियल को पठार पे घिस घिस कर चटनी बना रहा है
+969,34,indu,"haan haan right right, us zamane me mixer grinder to hoga nhi.",joy,"हाँ हाँ राइट राइट, यूएस ज़माने मे मिक्सर ग्राइंडर तो होगा नही।"
+970,34,rosesh,shah jahan per ghaseet ghaseet ke chal rhe hai,anger,शाह जहां पेर घसीट घसीट के चल रहे है
+971,34,rosesh,"ghasar ghasar ghasar ghasar, ghise ja rhe hai mere per idhar udhar, ho sako mumtaz begam tum amar isliye banwaunga sabse khubsurat kabar. papam papam papam papam",joy,"घसर घसर घसर घसर, घिसे जा रहे है मेरे पेर इधर उधर, हो सको मुमताज बेगम तुम अमर इसलिए बनवाऊंगा सबसे खूबसूरत कबर. पापम पापम पापम पापम"
+972,34,monisha,ye papam papam papam papam kya hai,surprise,ये पापम पापम पापम पापम क्या है
+973,34,sahil,shah jahan apni gadi me beth ke horn baja rha hai,neutral,शाह जहां अपनी गाडी मे बेथ के हॉर्न बजा रहा है
+974,34,indu,"haan, traffic jam me fas gya hoga na",neutral,"हाँ, ट्रैफिक जाम मे फस ग्या होगा ना"
+975,34,rosesh,will you cut it out,anger,विल यू कट इट आउट
+976,34,indu,"you, you cut it out. ab me likhunga natak",neutral,"यू, यू कट इट आउट. अब मे लिखूंगा नाटक"
+977,34,madhusudhan,hello everybody,neutral,हेलो एवरीबॉडी
+978,34,indu,"ise suna, ise suna tera natak. suna",anger,"इसे सुना, इसे सुना तेरा नाटक. सुना"
+979,34,madhusudhan,thank you,joy,थैंक यू
+980,34,sahil,"dad, bag leke aaye hai",fear,"दाद, बैग लेके आये है"
+981,34,indu,madhusudhan bhai aap yahan kyun aye hai,surprise,मधुसूदन भाई आप यहां क्यून आये है
+982,34,madhusudhan,"haan, plastic ki theli ban ho gyi hai",sadness,"हाँ, प्लास्टिक की ठेली बन हो गयी है"
+983,34,indu,"ye ban kyun nhi hua, ab ye mujhe disturb karte rahenge",sadness,"ये बन क्यून नही हुआ, अब ये मुझे डिस्टर्ब करते रहेंगे"
+984,34,madhusudhan,hain,neutral,हैं
+985,34,indu,dekha,neutral,देखा
+986,34,madhusudhan,hain,neutral,हैं
+987,34,indu,"madhusudhan bhai, aap apna muhn band rakhiye, me natak likh rha hun",anger,"मधुसूदन भाई, आप अपना मुह्न बंद रखिए, मे नाटक लिख रहा हुन"
+988,34,madhusudhan,mera culcutta sada,neutral,मेरा कलकत्ता सदा
+989,34,indu,"madhusudhan bhai, aap apna muhn band rakhiega kyunki me natak likhne wala hun.",anger,"मधुसूदन भाई, आप अपना मुह्न बंद रखिएगा क्यूंकि मे नाटक लिखने वाला हुन।"
+990,34,madhusudhan,"isme likhne ki kya baat hai, itna yaad nhi rehta. culcutta sada.",contempt,"इसमे लिखने की क्या बात है, इतना याद नही रहता. कलकत्ता सदा।"
+991,34,indu,"sahil, ab me acha natak kese likhunga",sadness,"साहिल, अब मे अचा नाटक केसे लिखूंगा"
+992,34,madhusudhan,hain,neutral,हैं
+993,35,monisha,compensation! acchi baat hai kya kimat lagai hai aapane ek tang ki?,anger,कॉम्पेंसेशन! अच्छी बात है क्या कीमत लगाई है आपने एक टांग की?
+994,35,maya,ham,neutral,हम
+995,35,monisha,nahin nahin bata dijiye aapane value to ki hogi ki ek aadami ki tang itne kimat per bikti hai,anger,नहीं नहीं बता दीजिए आपने वैल्यू तो की होगी की एक आदमी की टांग इतने कीमत पेर बिकती है
+996,35,maya,humne kabhi kharidi nahin,neutral,हमने कभी खरीदी नहीं
+997,35,rosesh,right humne to kabhi murgi ki tang bhi nahin karidi. ham to vegetarian hai,neutral,राइट हमने तो कभी मुर्गी की टांग भी नहीं करीदी. हम तो वेजिटेरियन है
+998,35,sahil,rosesh please thodi der ke liye chup raho. monisha ji please aap bhi shanti rakhi hai,neutral,रोसेश प्लीज थोड़ी देर के लिए चुप रहो. मोनिशा जी प्लीज आप भी शांति रखी है
+999,35,monisha,are kyon rakhoo mein shanti? is nalayak ne ek nirdosh ke pair per khatara chalaya hai,anger,अरे क्यों रखू में शांति? इस नालायक ने एक निर्दोष के पैर पेर खतरा चलाया है
+1000,35,dushyant,"excuse me madam aap jara tameez se baat kijiye. dekhiae aapko koi hak nahin hai rosesh ki gadi ko khatra kahane ka. are uski gadi warrior vx model hai. aur uska turbo engine italy ke roberto platini ne design kiya hua hai, for your information.",anger,"एक्सक्यूज मे मदम आप जरा तमीज से बात कीजिए. देखिए आपको कोई हक नहीं है रोसेश की गाडी को खतरा कहने का. अरे उसकी गाडी वारियर वीएक्स मॉडल है. और उसका टर्बो इंजिन इटली के रॉबर्टो प्लातिनी ने डिजाइन किया हुआ है, फोर यूर इन्फॉर्मेशन।"
+1001,35,monisha,yah kya bol raha hai?,neutral,याह क्या बोल रहा है?
+1002,35,sahil,ye thoda sa technical hai. dushyant jakar kuchh repair karo na,anger,ये थोड़ा सा टेक्निकल है. दुष्यंत जाकर कुछ रिपेयर करो ना
+1003,35,dushyant,you mean kuch bigada hua hai?,surprise,यू मीन कुच बिगड़ा हुआ है?
+1004,35,maya,"han monisha ke ghar chale jao. sab kuchh bigada hua hai. vahan uska electric cooler, air conditioner, laptop, microwave...",joy,"हन मोनिशा के घर चले जाओ. सब कुछ बिगड़ा हुआ है. वहन उसका इलेक्ट्रिक कूलर, एयर कंडीशनर, लैपटॉप, माइक्रोवेव..."
+1005,35,sahil,aur mere pc ka modem bhi kharab hai,joy,और मेरे पीसी का मोडेम भी खराब है
+1006,35,dushyant,"sahil, pc ka modem kharab ho gaya aur itni badi baat tumne mujhse chhupai? kahan hai modem?",neutral,"साहिल, पीसी का मोडेम खराब हो गया और इतनी बड़ी बात तुमने मुझसे छुपाई? कहन है मोडेम?"
+1007,35,monisha,yah pagal hai?,neutral,याह पागल है?
+1008,35,maya,han aur mera damad bhi.,sadness,हन और मेरा दामाद भी।
+1009,35,monisha,"achcha to puri family item hai. damad pagal, beta hathiyara.",anger,"अच्छा तो पूरी फैमिली इतेम है. दामाद पागल, बेटा हथियारा।"
+1010,35,rosesh,hatyara?,neutral,हत्यारा?
+1011,35,inspector,dekhiae madam inhone hatya nahin ki hai,neutral,देखिए मदम इन्होने हत्या नहीं की है
+1012,35,monisha,"are vah to use insan ki kismat acchi thi ke wo bach gaya, lekin ise, isase to main jail bhijwa ke rahungi han chalo",anger,"अरे वह तो उसे इंसान की किस्मत अच्छी थी के वो बच गया, लेकिन इसे, इससे तो मैं जेल भिजवा के रहूंगी हन चलो"
+1013,35,maya,heart attack heart attack start,neutral,हार्ट अटैक हार्ट अटैक स्टार्ट
+1014,35,rosesh,"ok, aaa.",fear,"ओक, आ।"
+1015,35,monish,sahil main madhu fufa ko rosesh bhaiya ke bare mein sab kuchh samjha diya hai,joy,साहिल मैं मधु फूफा को रोसेश भैया के बारे में सब कुछ समझा दिया है
+1016,35,sahil,monisha lekin tum unhen yahan kyon le aayi?,fear,मोनिशा लेकिन तुम उन्हें यहां क्यों ले आई?
+1017,35,monisha,madhu bhai,joy,मधु भाई
+1018,35,madhusudhan,are! monisha ben aap? monisha ye monisha ben hai. samaj kalyan centre ki pramukh. inhi ke yahan jata hun har mahine blood donate karne ke liye. monisha ben aap yahan kaise?,surprise,अरे! मोनिशा बेन आप? मोनिशा ये मोनिशा बेन है. समाज कल्याण सेंटर की प्रमुख. इन्ही के यहां जाता हुन हर महीने ब्लड डोनेट करने के लिए. मोनिशा बेन आप यहां कैसे?
+1019,35,monisha,vah to is ladke ko mein jara girftar karane ayi thi,neutral,वह तो इस लड़के को में जरा गिरफ्तार करने आई थी
+1020,35,madhusudhan,rosesh bhi blood donate karta hai?,neutral,रोसेश भी ब्लड डोनेट करता है?
+1021,35,monisha,madhu bhai mein is ladke ko girftar...,neutral,मधु भाई में इस लड़के को गिरफ्तार...
+1022,35,madhusudhan,hain?,neutral,हैं?
+1023,35,monisha,yah bhi aapke relative hain?,neutral,याह भी आपके रिलेटिव हैं?
+1024,35,sahil,"madhu fufa, aap ye padhiye.",neutral,"मधु फूफा, आप ये पढ़िए।"
+1025,35,madhusudhan,"""yah monisha ji hi rosesh ko girftar karane ayi hain."" na na be. monisha ji yah to mera bhatija hai",joy,"""याह मोनिशा जी ही रोसेश को गिरफ्तार करने आई हैं."" ना ना बे. मोनिशा जी याह तो मेरा भतीजा है"
+1026,35,monisha,saga bhatija?,surprise,सगा भतीजा?
+1027,35,madhusudhan,maaf kar dijiye galti ho jaati hai inspector sahab chhod dijiye ise,neutral,माफ कर दीजिए गलती हो जाती है इंस्पेक्टर साहब छोड़ दीजिए इसे
+1028,35,inspector,well per yah madam zidd pe adi hui hai,fear,वेल पेर याह मदम जिद्द पे आदि हुई है
+1029,35,madhusudhan,"nahin nahin yah to hamesha simple saree pahnati hain. monisha ji, inspector ko kah dijiye na ki ise chhod de.",neutral,"नहीं नहीं याह तो हमेशा सिंपल सारी पहनती हैं. मोनिशा जी, इंस्पेक्टर को कह दीजिए ना की इसे छोड़ दे।"
+1030,35,maya,ham log apologize kar rahe hain. go on say sorry.,neutral,हम लोग अपोलोजाइज कर रहे हैं. गो ओन से सॉरी।
+1031,35,rosesh,i am very sorry,neutral,आई एएम वेरी सॉरी
+1032,35,monisha,theek hai ab jab madhu bhai keh hi rahe hain to maine ise chhor diya.,joy,ठीक है अब जब मधु भाई केह ही रहे हैं तो मैने इसे छोर दिया।
+1033,35,sahil,madhusudan fufa aaj pahli bar aap kam aaye hain,joy,मधुसूदन फूफा आज पहली बार आप काम आये हैं
+1034,36,sahil,hi monisha,neutral,ही मोनिशा
+1035,36,monisha,hi sahil,neutral,ही साहिल
+1036,36,sahil,maine tumse kitni bar kaha hai fir bhi tum vada pav kha rahi ho na,neutral,मैने तुमसे कितनी बार कहा है फिर भी तुम वादा पाव खा रही हो ना
+1037,36,monisha,sahil ! sahil! sahil!... soch samajh ke bolna... tum jo kahoge vah sach ho jaega... rosesh bhaiya ne kaha hai ki vo african chant 8 ghante ke bad activate ho jaega... aur 8 ghante pure ho chuke hain sahil,fear,साहिल ! साहिल! साहिल!... सोच समझ के बोलना... तुम जो कहोगे वह सच हो जाएगा... रोसेश भैया ने कहा है की वो अफ्रीकन चांट ८ घंटे के बाद एक्टिवेट हो जाएगा... और ८ घंटे पूरे हो चुके हैं साहिल
+1038,36,sahil,monisha... iska matlab ab dushyant ab gadha ban chuka hai... hehe,joy,मोनिशा... इसका मतलब अब दुष्यंत अब गढ़ा बन चुका है... हेहे
+1039,36,monisha,rrosesh bhaiya vahi to dekhne gaye hain,neutral,रोसेश भैया वही तो देखने गये हैं
+1040,36,sahil,monisha...agar vo chant work kar raha hai na... to abhi isi waqt dad ke piche... teen (3)... teen (3)... madhu fufa... indu.. indu.. karte hue... is darwaje se andar aaenge... agar wo chant work kar raha hai to,neutral,मोनिशा...अगर वो चांट वर्क कर रहा है ना... तो अभी इसी वक्त दाद के पीछे... तीन (३)... तीन (३)... मधु फूफा... इंदु.. इंदु.. करते हुए... इस दरवाजे से अंदर आएंगे... अगर वो चांट वर्क कर रहा है तो
+1041,36,monisha,sahil... tum bhi...,fear,साहिल... तुम भी...
+1042,36,sahil,kuch hua?,neutral,कुच हुआ?
+1043,36,indravardhan,sahil! sahil! khatam ho gaya!,sadness,साहिल! साहिल! खतम हो गया!
+1044,36,madhusudan,ae indu! ae indu! ae indu!... indu,neutral,एई इंदु! एई इंदु! एई इंदु!... इंदु
+1045,36,indravardhan,sahil... ye dekh,sadness,साहिल... ये देख
+1046,36,madhusudan,kya hua? kya hua?... kitni wickets?... konsi talkies mein?,neutral,क्या हुआ? क्या हुआ?... कितनी विकेट?... कोंसी टाल्कीज में?
+1047,36,indravardhan,sahil.. mere jani dushman... triple role mein,sadness,साहिल.. मेरे जानी दुश्मन... ट्रिपल रोल में
+1048,36,indravardhan,kuch kar sahil.. nahi to mein pagal ho jaunga,fear,कुच कर साहिल.. नही तो में पागल हो जाऊंगा
+1049,36,madhusudan,hai? hai? hai?,neutral,है? है? है?
+1050,36,indravardhan,"aray... main tum logon se kuchh kaha ki tum log ""hai hai"" kiye ja rahe ho tino",anger,"अरे... मैं तुम लोगों से कुछ कहा की तुम लोग ""है है"" किये जा रहे हो तीनो"
+1051,36,madhusudan,polyster? nahi.. sarojini naidu... chup kar... rajdhani express.,neutral,पॉलिस्टर? नही.. सरोजिनी नाइडू... चुप कर... राजधानी एक्सप्रेस।
+1052,36,indravardhan,dekha sahil... teenon ke teenon behre hai... aur apna apna andaaza laga raha hai ki maine kya kaha hoga,sadness,देखा साहिल... तीनों के तीनों बहरे है... और अपना अपना अंदाज़ा लगा रहा है की मैने क्या कहा होगा
+1053,36,madhusudan,hai? hai? hai?,neutral,है? है? है?
+1054,36,monisha,sahil... vo african chant kam karne laga,fear,साहिल... वो अफ्रीकन चांट काम करने लगा
+1055,36,sahil,nahi! nahi!,fear,नही! नही!
+1056,36,monisha,kya nahi nahi... dekho na teen teen madhu fufa!,surprise,क्या नही नही... देखो ना तीन तीन मधु फूफा!
+1057,36,sahil,this is a trick!,anger,थिस इस आ ट्रिक!
+1058,36,monisha,koi trick shik nahi hai sahil... dekho...,fear,कोई ट्रिक शिक नही है साहिल... देखो...
+1059,36,sahil,chup... chup raho tum.. tum pagal ho gai ho!,anger,चुप... चुप रहो तुम.. तुम पागल हो गई हो!
+1060,36,monisha,na nana na na! nana nana na na!,joy,ना नाना ना ना! नाना नाना ना ना!
+1061,36,sahil,dad.. dad.. please bataiye mein kya karu?!,fear,दाद.. दाद.. प्लीज बताइए में क्या करू?!
+1062,36,sahil,madhusudhan fufa.. dekhiye..,neutral,मधुसूदन फूफा.. देखिए..
+1063,36,madhusudan,nahi nahi... sev puri abhi nahi... bas 2 over baki hai... aray uski tickete to black ho rahi hai...,neutral,नही नही... सेव पूरी अभी नही... बस २ ओवर बाकी है... अरे उसकी टिकटे तो ब्लैक हो रही है...
+1064,36,indravardhan,sahil.. sahil... teenon ko gayab kar varana mein barbad ho jaunga... meri hatya ho jayegi sahil,sadness,साहिल.. साहिल... तीनों को गायब कर वरना में बरबाद हो जाऊंगा... मेरी हत्या हो जाएगी साहिल
+1065,36,sahil,madhusudhan fufao... gayab ho jao!,neutral,मधुसूदन फुफाओं... गायब हो जाओ!
+1066,36,sahil,gaye!... ab isko pakdo,joy,गये!... अब इसको पकड़ो
+1067,36,monisha,madhu fufa gayab!... madhu fufa gayab!... madhu fufa gayab,joy,मधु फूफा गायब!... मधु फूफा गायब!... मधु फूफा गायब
+1068,36,indravardhan,aray aray sahil .... sahil sahil.. sun sun sun sun sahil sun... isko bhi normal bana de.. i mean pehle jaise kam paga banade please!,sadness,अरे अरे साहिल .... साहिल साहिल.. सुन सुन सुन सुन साहिल सुन... इसको भी नॉर्मल बना दे.. आई मीन पहले जैसे काम पगा बनादे प्लीज!
+1069,36,sahil,monisha... pehele jaise normal banjao.,neutral,मोनिशा... पहले जैसे नॉर्मल बनजाओ।
+1070,36,monisha,sahil... daddy ji.. aplke liye khane mein paneer banau?,neutral,साहिल... डैडी जी.. एपीएलके लिए खाने में पनीर बनाऊ?
+1071,36,sahil,paneer our?,neutral,पनीर और?
+1072,36,monisha,bas paneer,neutral,बस पनीर
+1073,36,sahil,hai!!!,anger,है!!!
+1074,36,indravardhan,chaelga chalega... hum paneer aachar ke saath kha lenge ha... jao,neutral,चेलगा चलेगा... हम पनीर आचार के साथ खा लेंगे हा... जाओ
+1075,36,monisha,okay,neutral,ओके
+1076,36,sahil,i mean.. monisha bai!!,anger,आई मीन.. मोनिशा बाई!!
+1077,36,indravardhan,sahil sahil... mein haat jodta hu... jo kuch bhi bolo jara soch samaz ke bolna ha.,fear,साहिल साहिल... में हात जोड़ता हू... जो कुच भी बोलो जरा सोच समाज के बोलना हा।
+1078,37,maya,ohh... ye malvika ki vajaha re sab ga.... ,sadness,ओह... ये मालविका की वजहा रे सब जीए....
+1079,37,maya,hello boys... bade cute lag rahe hai aap teeno,joy,हेलो बॉयज... बड़े क्यूट लग रहे है आप तीनों
+1080,37,maya,aur dushyant tum... bhi,surprise,और दुष्यंत तुम... भी
+1081,37,indravardhan,belt theek hai na?,neutral,बेल्ट ठीक है ना?
+1082,37,dushyant,haa,neutral,हा
+1083,37,monisha,sahil!!!,joy,साहिल!!!
+1084,37,sahil,ahh... haha.... hi sweetheart... how are you!.. haha..,joy,अह... हाहा.... ही स्वीटहार्ट... होव अरे यू!.. हाहा..
+1085,37,monisha,kya khel/ kar rahe the aap log,joy,क्या खेल/ कर रहे थे आप लोग
+1086,37,rosesh,kuch nahi... daddy dikha rahe the ki vo mujhase kitna pyaar karte hai,neutral,कुच नही... डैडी दिखा रहे थे की वो मुझसे कितना प्यार करते है
+1087,37,maya,hahaha... to vo to 30 seconds mein khatam ho gaya hoga... fir uske baad?,contempt,हहाहा... तो वो तो ३० सेकंड्स में खतम हो गया होगा... फिर उसके बाद?
+1088,37,rosesh,aap dekhna chahati hai ki vo mujhase kitna pyaar karte hai?,neutral,आप देखना चाहती है की वो मुझसे कितना प्यार करते है?
+1089,37,maya,definitely!,joy,डेफिनिटली!
+1090,37,rosesh,"daddy, mujhe pyaas lagi hai... pani?",neutral,"डैडी, मुझे प्यास लगी है... पानी?"
+1091,37,indravardhan,ofcourse... aahh... beta sadha piyoge ya thanda... mere munna!,neutral,ऑफकोर्स... आह्ह... बेटा साधा पियोगे या ठंडा... मेरे मुन्ना!
+1092,37,maya,unbelievable !,surprise,अनबिलीवेबल !
+1093,37,babu,"okay boys, ab chinta karne ki koi jarurat nahi hai, maine dono ko chupa diya hai",joy,"ओके बॉयज, अब चिंता करने की कोई जरूरत नही है, मैने डोनो को छुपा दिया है"
+1094,37,maya,hello...,neutral,हेलो...
+1095,37,babu,hello...,neutral,हेलो...
+1096,37,monisha,ye kon hai?,anger,ये कोन है?
+1097,37,indravardhan,plumber,neutral,प्लंबर
+1098,37,maya,plumber!?... lady plumner!?... aap logonne lady plumber ko bulaya,neutral,प्लंबर!?... लेडी प्लमनर!?... आप लोगोने लेडी प्लंबर को बुलाया
+1099,37,indravardhan,maya... tumhi kehati ho na ki aurat ko har vo kaam karna chahiye jo mard kiya karte hai... isliye...,joy,माया... तुम्ही कहती हो ना की औरत को हर वो काम करना चाहिए जो मर्द किया करते है... इसलिए...
+1100,37,sahil,aa.. hum logonne yello pages mein se dhoond dhoond kar ek lady plumber ko yaha bulaya hai,neutral,आ.. हम लोगोने येलो पेज में से ढूंढ़ ढूंढ़ कर एक लेडी प्लंबर को याहा बुलाया है
+1101,37,maya,very interesting...,neutral,वेरी इंटरेस्टिंग...
+1102,37,maya,umm.. miss.. umm.. ,neutral,उम्म.. मिस.. उम्म..
+1103,37,indravardhan,bhramham gachak shanika!,neutral,भ्रमहम गचक शनिका!
+1104,37,maya,ohh whatever... aap plumber hai?,neutral,ओह व्हेटवर... आप प्लंबर है?
+1105,37,everyone,haaa!,joy,हा!
+1106,37,maya,"aap kuch kehe rahi thi na, ki maine dono ko chupa diya... kya chupa diya aapne?",neutral,"आप कुच केहे रही थी ना, की मैने डोनो को छुपा दिया... क्या छुपा दिया आपने?"
+1107,37,indravardhan,"haa vo... maya, tum bhool gayi, vo bathroom mein do live wires latak rahe the, shock lagne ka dar tha.. vo wires isne chupa diye",joy,"हा वो... माया, तुम भूल गयी, वो बाथरूम में दो लाइव वायर्स लटक रहे थे, शॉक लगने का दर था.. वो वायर्स इसने छुपा दिये"
+1108,37,maya,achha achha... wire ko chupane ke liye tumne plumber ko bulaya.... hehehe... electrician ki to... ,joy,अछा अछा... वायर को छुपाने के लिए तुमने प्लंबर को बुलाया.... हेहेहे... इलेक्ट्रीशियन की तो...
+1109,37,indravardhan,"hum electrician ko bulane wale the maya, lekin rosesh! ",anger,"हम इलेक्ट्रीशियन को बुलाने वाले थे माया, लेकिन रोसेश!"
+1110,37,rosesh,daddy...,neutral,डैडी...
+1111,37,indravardhan,"ne bechaare ne kaha bhi ki electrician ko bulate hai, lekin uski ek nahi mani sahil ne",sadness,"ने बेचारे ने कहा भी की इलेक्ट्रीशियन को बुलाते है, लेकिन उसकी एक नही मानी साहिल ने"
+1112,37,sahil,maine!?,surprise,मैने!?
+1113,37,indravardhan,"nahi nahi.. sahil ne kaha, ise hi bulate hai, ise sab kuch ata hai, plumbing ka kaam bhi, aur electrician ka kaam bhi, aur iski khaas dost bhi hai, behen",neutral,"नही नही.. साहिल ने कहा, इसे ही बुलाते है, इसे सब कुच आता है, प्लंबिंग का काम भी, और इलेक्ट्रीशियन का काम भी, और इसकी खास दोस्त भी है, बेहेन"
+1114,37,monisha,"sahil, ye tumhari khaas dost hai?",sadness,"साहिल, ये तुम्हारी खास दोस्त है?"
+1115,37,sahil,iska bhai mera khaas dost hai,neutral,इसका भाई मेरा खास दोस्त है
+1116,37,monisha,to fir use kyu nahi bulaya?,anger,तो फिर उसे क्यू नही बुलाया?
+1117,37,sahil,ummm... kyu ki vo plumber nahi hai na!,neutral,उम्म... क्यू की वो प्लंबर नही है ना!
+1118,37,babu,ab mai jau... meri payment kar dijiye please...,neutral,अब मई जाउ... मेरी पेमेंट कर दीजिए प्लीज...
+1119,37,sahil,ek minute rukko... mai tumhe thodi der baad dunga,neutral,एक मिनिट रुक्को... मई तुम्हे थोड़ी देर बाद दूंगा
+1120,37,maya,"baad mein kyu, mere paas hai abhi, i'll give it... kitne paise hue miss..",joy,"बाद में क्यू, मेरे पास है अभी, आई'ल्ल गिव इट... कितने पैसे हुए मिस.."
+1121,37,indravardhan,"no!... no.. tum maya se paise bilkul nahi logi... sahil, tum de do na iska cheque!",anger,"नो!... नो.. तुम माया से पैसे बिल्कुल नही लोगी... साहिल, तुम दे दो ना इसका चेक!"
+1122,37,maya,cheque!?,surprise,चेक!?
+1123,37,monisha,plumber ko?,surprise,प्लंबर को?
+1124,37,maya,"ooo.. i am kind of enjoying this... rosesh, baat kya hai",joy,"ओओ.. आई एएम काइंड ओएफ एन्जॉयिंग थिस... रोसेश, बात क्या है"
+1125,37,indravardhan,"rosesh, tumne bataaya nahi tum kya pioge... chai, doodh... ya fir margarita with crushed ice.. mere laal",joy,"रोसेश, तुमने बताया नही तुम क्या पियोगे... चाई, दूध... या फिर मार्गरिटा विथ क्रश्ड इसे.. मेरे लाल"
+1126,37,maya,wonderful!... magar what's the catch rosesh,anger,वंडरफुल!... मगर व्हाट'एस थे कैच रोसेश
+1127,37,babu,excuse me...,neutral,एक्सक्यूज मे...
+1128,37,sahil,rukoo!,fear,रुकू!
+1129,37,dushyant,"aray aap aise kaise ja sakti hai, aapke paana aur pakkad yaha hai na",neutral,"अरे आप ऐसे कैसे जा सकती है, आपके पाना और पक्कड़ याहा है ना"
+1130,37,babu,vo mai fir kabhi leke jaungi,neutral,वो मई फिर कभी लेके जाऊंगी
+1131,37,indravardhan,"aray.. haha.. aise kaise ho sakta hai... aapko kisi aur jagaha contract mila to in paana, pakkad ke bina aap kaise kaam karegi",joy,"अरे.. हाहा.. ऐसे कैसे हो सकता है... आपको किसी और जगहा कॉन्ट्रैक्ट मिला तो इन पाना, पक्कड़ के बिना आप कैसे काम करेगी"
+1132,37,babu,waise mere paas aur 6 pakkad aur 15 paane hai,neutral,वैसे मेरे पास और ६ पक्कड़ और १५ पाने है
+1133,37,kanchan/ luku,ouch!,surprise,आउच!
+1134,37,maya,aaah haa... bedroom mein se ye awaj kaise indravardhan,joy,आह हा... बेडरूम में से ये आवाज कैसे इन्द्रवर्धन
+1135,37,monisha,andar kaun hai!?,anger,अंदर कौन है!?
+1136,37,indravardhan,paana pakkad!,joy,पाना पक्कड़!
+1137,37,maya,bolti hui paana aur pakkad!,joy,बोलती हुई पाना और पक्कड़!
+1138,37,indravardhan,dushyant!... ab samjha na engineer!,neutral,दुष्यंत!... अब समझा ना इंजीनियर!
+1139,37,dushyant,vo kya hai robotized paana aur pakkad hai... jaise hi problem dete hai to chilla uthate hai... i'll explain... maan lo ki rosesh latki hui wire hai...,neutral,वो क्या है रोबोटाइज्ड पाना और पक्कड़ है... जैसे ही प्रॉब्लम देते है तो चिल्ला उठते है... आई'ल्ल एक्सप्लेन... मान लो की रोसेश लटकी हुई वायर है...
+1140,37,maya,"okay, cut it out dushyant... mujhe koi bataega please ki kya sach hai?",neutral,"ओके, कट इट आउट दुष्यंत... मुझे कोई बताएगा प्लीज की क्या सच है?"
+1141,37,sahil,mai batata hu ki sach kya hai... andar bedroom mein 2 ladkiya hai,sadness,मई बताता हू की सच क्या है... अंदर बेडरूम में २ लड़किया है
+1142,38,monisha,"mummy ji, jaldi!",neutral,"मम्मी जी, जल्दी!"
+1143,38,maya,ye... bartan andar rakho kitchen mein,neutral,ये... बर्तन अंदर रखो किचन में
+1144,38,monisha,"mummy ji, baad mein",neutral,"मम्मी जी, बाद में"
+1145,38,rosesh,"hello baldev uncle, aaiye",neutral,"हेलो बलदेव अंकल, आइये"
+1146,38,maya,"hi baldev, hello sarupa",joy,"ही बलदेव, हेलो सरूपा"
+1147,38,baldev,rosesh poetry kaise chal rahi hai?,neutral,रोसेश पोएट्री कैसे चल रही है?
+1148,38,rosesh,fine uncle,neutral,फाइन अंकल
+1149,38,baldev,ye aap ke liye gift,neutral,ये आप के लिए गिफ्ट
+1150,38,maya,how sweet of you...hawww!,joy,होव स्वीट ओएफ यू...हॉव!
+1151,38,monisha,kya hai ye... kala khatta!?,joy,क्या है ये... काला खट्टा!?
+1152,38,maya,nahi... hehe... wine,neutral,नही... हेहे... वाइन
+1153,38,maya,cabernet sauvignon,joy,कैबरनेट सौविग्नों
+1154,38,monisha,dikhaiye...,neutral,दिखाइए...
+1155,38,monisha,aachhii (sneeze)....,neutral,आछी (स्नीज़)....
+1156,38,sarupa,aaaaa!,surprise,आआआ!
+1157,38,maya,haha.. sar pe chawal girna achha shagun mana jata hai baldev,fear,हाहा.. सर पे चावल गिरना अछा शगुन माना जाता है बलदेव
+1158,39,sahil,konsi cd di hai mom ne. ismein loud music baaj rahe hai nilima aunti ki speech hai.,anger,कोंसी सीडी दी है मोम ने. इसमें लाउड म्यूजिक बाज रहे है नीलिमा औंटी की स्पीच है।
+1159,39,rosesh,aapki wali cd ye hai. the great comedy of errors,joy,आपकी वाली सीडी ये है. थे ग्रेट कॉमेडी ओएफ एरर्स
+1160,39,sahil,comedy of errors kyun?haa haa madhu fufa hearings kaise chaal raha hai? k baat hai ye itna sarmate q hai?,surprise,कॉमेडी ओएफ एरर्स क्यून?हा हा मधु फूफा हीयरिंग्स कैसे चाल रहा है? के बात है ये इतना सरमाते क्यू है?
+1161,40,monisha,namaste main monisha sahil sarabhai apni sas maiya indravadan sada bhai ke bare mein kuchh rai sunna chahti hun. log kahate hain ki saas bhi maa jaisi hoti hai. yah galat hai balki meri sans to kabhi meri maa nahin ban sakti. mike per meri man kabhi mujhe rokto tokti nahin thi. main apni sari chijen apni kitab jute jurabe idhar udhar bikhar deti to meri man hayo rabba hayo rabba kk sab cheez thik thak jagah mein rakh deti thi. lekin meri sas jabardasti ghar mein ghus ke saaf safai karvati hai. upar se mujhe dant ti hai. mujhe thane marti hai main apni mike mein hamesha vah apni manmani ka tithi. icecream ki kaun khane ke waqt jab icecream mere hath mein lag jata tha tab main use chat le tithi. tab meri maa mujhe dekh kar kahati thi hai kitni soni hai meri monisha.he he he.magar meri saas mujhe hotel mein aise ghurti hai. kidhar ke mare mein icecream hi nahin mangwati. meri man meri man hai. magar meri sas meri teacher hai. meri laperva yo ko sudharne ke bavjud aaj tak kabhi nahin tha ki hai vah mujhe apni level tak lana chahti hai. mujhe apni sahil wo jo rumne kal scurvy pe word banaya tha wo wo imly tha africa jaisa kya tha?,neutral,नमस्ते मैं मोनिशा साहिल साराभाई अपनी सास मैया इंद्रवदन सदा भाई के बारे में कुछ राई सुन्ना चाहती हुन. लोग कहते हैं की सास भी मा जैसी होती है. याह गलत है बाल्की मेरी सांस तो कभी मेरी मा नहीं बन सकती. माइक पेर मेरी मन कभी मुझे रोकतो टोकती नहीं थी. मैं अपनी सारी चीजें अपनी किताब जुटे जुराबे इधर उधर बिखर देती तो मेरी मन हयो रब्बा हयो रब्बा केके सब चीज थिक थक जगह में रख देती थी. लेकिन मेरी सास जबरदस्ती घर में घुस के साफ सफाई करवाती है. उपर से मुझे दांत टी है. मुझे थाने मारती है मैं अपनी माइक में हमेशा वह अपनी मनमानी का तिथि. आइसक्रीम की कौन खाने के वक्त जब आइसक्रीम मेरे हाथ में लग जाता था तब मैं उसे चट ले तिथि. तब मेरी मा मुझे देख कर कहती थी है कितनी सोनी है मेरी मोनिशा.हे हे हे.मगर मेरी सास मुझे होटल में ऐसे घूरती है. किधर के मारे में आइसक्रीम ही नहीं मंगवाती. मेरी मन मेरी मन है. मगर मेरी सास मेरी टीचर है. मेरी लापर्वा यो को सुधारने के बावजूद आज तक कभी नहीं था की है वह मुझे अपनी लेवल तक लाना चाहती है. मुझे अपनी साहिल वो जो रुमने कल स्कर्वी पे वर्ड बनाया था वो वो इमली था अफ्रीका जैसा क्या था?
+1162,40,sahil,replica,neutral,रेप्लिका
+1163,40,monisha,han meri sas mujhe apni replica banana chahti hai. aur agar vah kamyab ho gai to sabse jyada khushi mujhe hogi. kyunki maya sara bhai jaisa koi nahin agar main unke replica band sakhi tu ja mere saubhagya hoga. sach meri saas kabhi mera maa nahin ban sakti.aur ishime meri valai hain.thank you jay hind.,joy,हन मेरी सास मुझे अपनी रेप्लिका बनाना चाहती है. और अगर वह कामयाब हो गई तो सबसे ज्यादा खुशी मुझे होगी. क्यूंकि माया सारा भाई जैसा कोई नहीं अगर मैं उनके रेप्लिका बंद सखी टू जा मेरे सौभाग्य होगा. सच मेरी सास कभी मेरा मा नहीं बन सकती.और इशिमे मेरी वलाई हैं.थैंक यू जय हिंद।
+1164,41,indravardhan,good morning maya,neutral,गुड मॉर्निंग माया
+1165,41,maya,good morning sweetie,joy,गुड मॉर्निंग स्वीटी
+1166,41,indravardhan,nashta nashta nashta,neutral,नाश्ता नाश्ता नाश्ता
+1167,41,maya,vitthal sabko nashta do,neutral,विठ्ठल सबको नाश्ता दो
+1168,41,indravardhan,main dudh hargis nahin piyunga. maya mujhe diaria hai subah se 6 bar ja chuka hun main,sadness,मैं दूध हरगिस नहीं पियूंगा. माया मुझे डायरिया है सुबह से ६ बार जा चुका हुन मैं
+1169,41,vitthal,"accha to ye vegetable burger wale smash potato, ye grill sandwich kon khayega?",neutral,"अच्छा तो ये वेजिटेबल बर्गर वाले स्मैश पोटाटो, ये ग्रिल सैंडविच कोन खाएगा?"
+1170,41,maya,ek kam karo strawberry milkshake ke sath rosesh baba ko de aao.,neutral,एक काम करो स्ट्रॉबेरी मिल्कशेक के साथ रोसेश बाबा को दे आओ।
+1171,41,indravardhan,dr? .. haa... ha boliye dr saab.. meri report galat hai. mujhe diaria nehi hain. maya good news mujhe diarrhoea nahin hai. main kha sakta hun vah sab.,joy,डीआर? .. हा... हा बोलिए डीआर साब.. मेरी रिपोर्ट गलत है. मुझे डायरिया नेही हैं. माया गुड न्यूज मुझे डायरिया नहीं है. मैं खा सकता हुन वह सब।
+1172,41,maya,achha? to subhe se 6 baar toilet kyon gaye the? aisehi,neutral,अछा? तो सुभे से ६ बार टॉयलेट क्यों गये थे? ऐसेही
+1173,41,indravardhan,vah to safety ke liye halaki mujhe pura yakin tha mujhe diaria nahin hai magar maine kaha chand kyon lena,neutral,वह तो सेफ्टी के लिए हलकी मुझे पूरा यकीन था मुझे डायरिया नहीं है मगर मैने कहा चंद क्यों लेना
+1174,41,maya,tu supposing agar tumhari galat report mein khansi jukam hota to tum uhi subah se khas te yah chikte? just to be on the safe site haan? such a lier indu. vitthal do unko nashta,joy,टू सपोजिंग अगर तुम्हारी गलत रिपोर्ट में खांसी जुकाम होता तो तुम उही सुबह से खास ते याह चिकते? जस्ट तो बे ओन थे सेफ साइट हाँ? सुच आ लियर इंदु. विठ्ठल दो उनको नाश्ता
+1175,41,indravardhan,jaldi la jaldi la ya dudh,neutral,जल्दी ला जल्दी ला या दूध
+1176,41,maya,achcha itna jyada mat khana maine pineapple pudding walnut cake and alu motar katlets bhi banaye hai breakfast mein.im so happy for my home so happy. kahan ho tum rosesh?,joy,अच्छा इतना ज्यादा मत खाना मैने पाइनएपल पुडिंग वालनट केक एंड आलू मोटर कटलेट्स भी बनाए है ब्रेकफास्ट में.इम सो हैप्पी फोर माई होम सो हैप्पी. कहन हो तुम रोसेश?
+1177,41,indravardhan,kya baat hai subah subah maya itni khush kyon hai? jarur daal mein kuch kaala hai,fear,क्या बात है सुबह सुबह माया इतनी खुश क्यों है? जरूर डाल में कुच काला है
+1178,41,vitthal,mujhe pata hai sahab memsaab itni khush kyon hai,neutral,मुझे पता है साहब मेमसाब इतनी खुश क्यों है
+1179,41,indravardhan,to jaldi batao na,anger,तो जल्दी बताओ ना
+1180,41,vitthal,gossip ossip karna mujhe achcha nahin lagta,neutral,गॉसिप ओसिप करना मुझे अच्छा नहीं लगता
+1181,41,indravardhan,vitthal yah le sau rupaiya bata,neutral,विठ्ठल याह ले सौ रुपैया बता
+1182,41,vitthal,vaise gossip karna mujhe itna bura bhi nahin lagta lekin,joy,वैसे गॉसिप करना मुझे इतना बुरा भी नहीं लगता लेकिन
+1183,41,indravardhan,le 200 rupaiya ab bata,neutral,ले २०० रुपैया अब बता
+1184,41,vitthal,saheb gossip karna mujhe achcha lagta hai lekin,joy,साहेब गॉसिप करना मुझे अच्छा लगता है लेकिन
+1185,41,indravardhan,chorna mujhe sunna hi nahin hai,neutral,चोरना मुझे सुन्ना ही नहीं है
+1186,41,vitthal,saheb saheb 200 hi de dijiye,neutral,साहेब साहेब २०० ही दे दीजिए
+1187,41,indravardhan,rishwat dena mujhe bilkul pasand nahin hai,contempt,रिश्वत देना मुझे बिल्कुल पसंद नहीं है
+1188,41,vitthal,achcha sau de dijiye bas.,neutral,अच्छा सौ दे दीजिए बस।
+1189,41,indravardhan,vaise rishwat dena mujhe itna bhi bura nahin lagta,neutral,वैसे रिश्वत देना मुझे इतना भी बुरा नहीं लगता
+1190,41,vitthal,achha 50 chalega,sadness,अछा ५० चलेगा
+1191,41,indravardhan,aa haa . yah le 50 rupaiya ab chal bata,joy,आ हा . याह ले ५० रुपैया अब चल बता
+1192,41,vitthal,sahib cal raat monisha mem sahab aur sahil baba ke bich mein bahut bada jhagada hua . monisha memsaab ne aatmhatya karne ki dhamki de,neutral,साहिब काल रात मोनिशा मेम साहब और साहिल बाबा के बीच में बहुत बड़ा झगड़ा हुआ . मोनिशा मेमसाब ने आत्महत्या करने की धमकी दे
+1193,41,indravardhan,achha that's it. tabhi to main kaho ki maya rani itni mood per kyon hai?,contempt,अछा थाट'एस इट. तभी तो मैं कहो की माया रानी इतनी मूड पेर क्यों है?
+1194,41,maya,indravadan indu aaj film dekhne chalen,joy,इंद्रवदन इंदु आज फिल्म देखने चलें
+1195,41,indravardhan,achcha kaun si monisha bani murda. yah bahu kare khud khushi aur sans hasi khushi khushi,contempt,अच्छा कौन सी मोनिशा बनी मुर्दा. याह बहु करे खुद खुशी और सांस हसी खुशी खुशी
+1196,41,maya,what are you talking about indu?,surprise,व्हाट अरे यू टॉकिंग अबाउट इंदु?
+1197,41,indravardhan,oh ho ho bholi nhor masum mallika. jaise tumhen pata hi nahin ki sahil aur monisha ka itna bada jhagada hua hai kyon?,contempt,ओह हो हो भोली नहोर मासुम मल्लिका. जैसे तुम्हें पता ही नहीं की साहिल और मोनिशा का इतना बड़ा झगड़ा हुआ है क्यों?
+1198,41,maya,are o.,neutral,अरे ओ।
+1199,41,indravardhan,aur tumne man hi man bohut bada darwa kiya hoga naa eee sahil ne ki hai monisha se badi fight aur monisha to khudkhusi karne chali humto pahenege kapre white rang lo.,neutral,और तुमने मन ही मन बोहुत बड़ा दरवा किया होगा ना ईई साहिल ने की है मोनिशा से बड़ी फाइट और मोनिशा तो खुदखुसी करने चली हमतो पहनेगे कापरे व्हाइट रंग लो।
+1200,41,maya,stop it indravardhan.,anger,स्टॉप इट इन्द्रवर्धन।
+1201,42,neelima,i am really really really very sorry doctor sahil agar main abhi aap se milane nahin aati to aapko mujhse milane aana padta meri laaas pahchane.,neutral,आई एएम रियली रियली रियली वेरी सॉरी डॉक्टर साहिल अगर मैं अभी आप से मिलने नहीं आती तो आपको मुझसे मिलने आना पड़ता मेरी लास पहचाने।
+1202,42,sahil,neelima ji stop it please,disgust,नीलिमा जी स्टॉप इट प्लीज
+1203,42,neelima,nahin nahin aaj main khud nahin wali thi apni balcony se lekin ruk gai. main 22nd floor mein rahti ho,neutral,नहीं नहीं आज मैं खुद नहीं वाली थी अपनी बाल्कनी से लेकिन रुक गई. मैं २२एनडी फ्लोर में रहती हो
+1204,42,monisha,to,surprise,तो
+1205,42,neelima,22nd is very unlucky number for me. agar nahin marti to,fear,२२एनडी इस वेरी अनलकी नंबर फोर मे. अगर नहीं मारती तो
+1206,42,monisha,"to ap apne kisi aur padosi ke ghar mein chali jaati 21st,23rd,24th",neutral,"तो एपी अपने किसी और पड़ोसी के घर में चली जाती २१एसटी,२३आरडी,२४थ"
+1207,42,sahil,monisha hamen in a balcony se kudne se encourage nahin karna chahie alright. just leave us alone for. kya logi tum,neutral,मोनिशा हमें इन आ बाल्कनी से कुड़ने से एनकरेज नहीं करना चाहिए अलराइट. जस्ट लीव यूएस एलोन फोर. क्या लोगी तुम
+1208,42,neelima,no thanks doctor mein apna fire case dinner karke hi khud ne wali thi ok theek hai agar aap itna hi insist kar rahe tu i have a glass of wine,joy,नो थैंक्स डॉक्टर में अपना फायर केस डिनर करके ही खुद ने वाली थी ओक ठीक है अगर आप इतना ही इंसिस्ट कर रहे टू आई हेव आ ग्लास ओएफ वाइन
+1209,42,sahil,ok monisha jara apni bedroom ke fridge main se wine lekar aao,neutral,ओक मोनिशा जरा अपनी बेडरूम के फ्रिज मैं से वाइन लेकर आओ
+1210,42,monisha,sahil kaun si wali 170 wala 540 wali,neutral,साहिल कौन सी वाली १७० वाला ५४० वाली
+1211,42,sahil,540 wali le aao darling,neutral,५४० वाली ले आओ डार्लिंग
+1212,42,monisha,bahut mahangi,neutral,बहुत महंगी
+1213,42,neelima,she is so cute really. ek hi yah hai aur ek mera boyfriend hai jo hamesha kahate rahata hai ki tum se to preity zinta acchi hai. she is so beautiful .she is so hot .she is so gorgeous. aur uske dimples uske dimples to wow. aapko pata hai doctor sahab aajkal to main..... aise ghumta hun.,neutral,शे इस सो क्यूट रियली. एक ही याह है और एक मेरा बॉयफ्रेंड है जो हमेशा कहते रहता है की तुम से तो प्रीति जिंटा अच्छी है. शे इस सो ब्यूटीफुल .शे इस सो होत .शे इस सो गॉर्जियस. और उसके डिंपल्स उसके डिंपल्स तो वो. आपको पता है डॉक्टर साहब आजकल तो मैं..... ऐसे घूमता हुन।
+1214,42,sahil,kyon,surprise,क्यों
+1215,42,neelima,preity zinta ko dimple jo hai chaliye chaliye doctor sahil. aap fatafat mujhe preity zinta jaisa banaa dijiye yah lijiye uski tasveer dekhiye. mujhe aisa hi dekhna hai ok.yeah alright. aur haircut aur haircut mujhe kal ho na ho look chahie. but not the lux lux is very tacky you know. aur han mujhe left se thodi wavey. alright se thodi straight.or piche se,neutral,प्रीति जिंटा को डिंपल जो है चलिए चलिए डॉक्टर साहिल. आप फताफत मुझे प्रीति जिंटा जैसा बना दीजिए याह लिजिए उसकी तस्वीर देखिए. मुझे आइसा ही देखना है ओक.याह अलराइट. और हेयरकट और हेयरकट मुझे कल हो ना हो लूक चाहिए. बट नोट थे लक्स लक्स इस वेरी टैकी यू नोव. और हन मुझे लेफ्ट से थोड़ी वेवी. अलराइट से थोड़ी स्ट्रेट.ओर पीछे से
+1216,42,sahil,neelima neelima neelima mein ek inecostumeologist hun. aur tum apne aap mein kitni acchi ho,neutral,नीलिमा नीलिमा नीलिमा में एक इनेकोस्टूमियोलॉजिस्ट हुन. और तुम अपने आप में कितनी अच्छी हो
+1217,42,neelima,really,joy,रियली
+1218,42,sahil,i mean you are unique tum banke main bahut sundar ho,joy,आई मीन यू अरे यूनिक तुम बांके मैं बहुत सुंदर हो
+1219,42,neelima,sach?,joy,सच?
+1220,42,sahil,han han tumhara boyfriend sach kaho na pagal hai. tumhari aankhen wow they are gorgeous,joy,हन हन तुम्हरा बॉयफ्रेंड सच कहो ना पागल है. तुम्हारी आंखें वो थे अरे गॉर्जियस
+1221,42,neelima,really,joy,रियली
+1222,42,sahil,believe me and your hairstyle,neutral,बिलीव मे एंड यूर हेयरस्टाइल
+1223,42,neelima,aur mere hoth,neutral,और मेरे होथ
+1224,42,sahil,wo bhi.,neutral,वो भी।
+1225,42,neelima,thank you thank you so much doctor sahil kuch ho gaya hai. kuch hone wala hai.naa naa naa laa raa raa raa.,joy,थैंक यू थैंक यू सो मुच डॉक्टर साहिल कुच हो गया है. कुच होने वाला है.ना ना ना ला रा रा रा।
+1226,42,sahil,brilliant,joy,ब्रिलियंट
+1227,42,neelima,thankyou thankyou doctor sahil agar aap mere boyfriend hote tu mere liye tajmahal banate na,neutral,थैंक्यू थैंक्यू डॉक्टर साहिल अगर आप मेरे बॉयफ्रेंड होते टू मेरे लिए ताजमहल बनते ना
+1228,42,monisha,uske liye aapko pahle marna padta neelima ji wine,contempt,उसके लिए आपको पहले मारना पड़ता नीलिमा जी वाइन
+1229,42,neelima,oh she is jealous i can see it in your eyes. kash mera boyfriend bhi itna possessive hota.nevermind. han sar hathi hai aap doctor sahab ab baith jaaiye. mujhe fatafat preity zinta jaisa banaa dijiye aur jaise ki main aapko kaha tha ki mujhe hairstyle yahan se thoda vah bhi yahan se thoda strate,neutral,ओह शे इस जीलस आई कैन सी इट इन यूर आइस. काश मेरा बॉयफ्रेंड भी इतना पोजेसिव होता.नेवरमाइंड. हन सर हाथी है आप डॉक्टर साहब अब बैठ जाइये. मुझे फताफत प्रीति जिंटा जैसा बना दीजिए और जैसे की मैं आपको कहा था की मुझे हेयरस्टाइल यहां से थोड़ा वह भी यहां से थोड़ा स्ट्रेट
+1230,42,sahil,neelima neelima neelima you are a psychic case you need a psychiatrist,anger,नीलिमा नीलिमा नीलिमा यू अरे आ साइकिक केस यू नीड आ साइकियाट्रिस्ट
+1231,42,neelima,psychiatrist,surprise,साइकियाट्रिस्ट
+1232,42,sahil,yeah,anger,याह
+1233,42,neelima,yani aapko lagta hai ki main pagal hun. a halkat harami kurte chal fatafat mujhe preity zinta banaa de. varna main teri what laga dungi,anger,यानी आपको लगता है की मैं पागल हुन. आ हलकत हरामी कुर्ते चल फताफत मुझे प्रीति जिंटा बना दे. वर्ण मैं तेरी व्हाट लगा डुंगी
+1234,43,monisha,sahil ko pta chalega to kya hoga daddy ji? mujhe bhot darr lag rha hai.,fear,साहिल को पटा चलेगा तो क्या होगा डैडी जी? मुझे भोट दर्र लग रहा है।
+1235,43,indu,are kuch nhi hoga bhyi. tumse sirf tail light hi tuti hai na?,neutral,अरे कुच नही होगा भयी. तुमसे सिर्फ टेल लाइट ही टूटी है ना?
+1236,43,monisha,nhi. wo paint bhi ukhad gya hai and gadi ke seat cover bhi kharab ho gye hai.,sadness,नही. वो पैंट भी उखड़ ग्या है एंड गाडी के सीट कवर भी खराब हो गये है।
+1237,43,indu,kya? seat cover kese kharab hua?,surprise,क्या? सीट कवर केसे खराब हुआ?
+1238,43,monisha,"wo, hath me lipstick thi na, wo girr gyi seat par.",fear,"वो, हाथ मे लिपस्टिक थी ना, वो गिर्र गयी सीट पर।"
+1239,43,indu,"pagal tumse kaha tha, us waqt lipstick lagane mat betho.",anger,"पागल तुमसे कहा था, यूएस वक्त लिपस्टिक लगाने मत बैठो।"
+1240,43,monisha,me laga nhi rhi thi daddy ji,neutral,मे लगा नही रही थी डैडी जी
+1241,43,indu,to?,neutral,तो?
+1242,43,monisha,wo me windshield pe likhne jaa rhi thi ki pehle mene chalai hai. ha ha ha.,neutral,वो मे विंडशील्ड पे लिखने जा रही थी की पहले मेने चलाई है. हा हा हा।
+1243,43,indu,"ke jo kaam kaaj. reverse karna ata nhi hai or ek crore barah lakh ki gadi chalane chali ho. kya pahad tut jata agar maya tumse pehle gadi chala leti? pehle me, pehle me, pehle me ki ratt lagaye bethi thi.",anger,"के जो काम काज. रिवर्स करना आता नही है ओर एक क्रोर बारह लाख की गाडी चलने चली हो. क्या पहाड़ टूट जाता अगर माया तुमसे पहले गाडी चला लेती? पहले मे, पहले मे, पहले मे की रत्त लगाए बेथी थी।"
+1244,43,monisha,"haiila, daddy ji, aap hi ne to kaha tha.",surprise,"हैला, डैडी जी, आप ही ने तो कहा था।"
+1245,43,indu,mujhe beech me mat ghaseeto huh monisha. me court me kuch nhi kehne wala judge ke samne. yes.,neutral,मुझे बीच मे मत घसीटो हुह मोनिशा. मे कोर्ट मे कुच नही कहने वाला जज के सामने. येस।
+1246,43,monisha,court me?,surprise,कोर्ट मे?
+1247,43,indu,haan! jab sahil ko pta chalega tab wo tumhe court me to ghaseet ke le hi jaega na divorce ke liye.,neutral,हाँ! जब साहिल को पटा चलेगा तब वो तुम्हे कोर्ट मे तो घसीट के ले ही जाएगा ना डाइवोर्स के लिए।
+1248,43,monisha,huh? kya?,surprise,हुह? क्या?
+1249,43,indu,hahaha. maan gyi? are budhu me tumhari tang kheench rha tha. me or tu hai support me esa kabhi hua hai?,joy,हहाहा. मान गयी? अरे बुधु मे तुम्हारी टांग खींच रहा था. मे ओर टू है सपोर्ट मे ईएसए कभी हुआ है?
+1250,43,monisha,aap support karenge na daddy ji?,neutral,आप सपोर्ट करेंगे ना डैडी जी?
+1251,43,indu,ye bhi koi puchne ki baat hai? divorce ke baad bhi tum mere hi sath rahogi!,neutral,ये भी कोई पूछने की बात है? डाइवोर्स के बाद भी तुम मेरे ही साथ रहोगी!
+1252,43,monisha,daddy ji!,anger,डैडी जी!
+1253,43,indu,"okay, relax, relax. acha ye btao, tumne jab gadi start ki tab kisi ne dekha tha?",neutral,"ओके, रिलैक्स, रिलैक्स. अचा ये बताओ, तुमने जब गाडी स्टार्ट की तब किसी ने देखा था?"
+1254,43,monisha,"umm, nhi nhi.",neutral,"उम्म, नही नही।"
+1255,43,indu,"bas! problem solved. teri bhi chup, meri bhi chup. ab jab sahil aaega na to use...",joy,"बस! प्रॉब्लम साल्व्ड. तेरी भी चुप, मेरी भी चुप. अब जब साहिल आएगा ना तो उसे..."
+1256,43,sahil,"okay mom, me neeche wait kar rha hun.",neutral,"ओके मोम, मे नीचे वैट कर रहा हुन।"
+1257,43,indu,hi sahil,neutral,ही साहिल
+1258,43,sahil,hi. kya kar rhe hai aap dono yahan?,neutral,ही. क्या कर रहे है आप डोनो यहां?
+1259,43,indu,"umm, hawa kha rhe hai.",neutral,"उम्म, हवा खा रहे है।"
+1260,43,sahil,hawa? yahan kahan hai hawa?,contempt,हवा? यहां कहन है हवा?
+1261,43,indu,hum log kha gye to kahan se hogi?,joy,हम लोग खा गये तो कहन से होगी?
+1262,43,sahil,brilliant,neutral,ब्रिलियंट
+1263,44,sahil,"monisha, mere joote. oh my god.",surprise,"मोनिशा, मेरे जूते. ओह माई गोद।"
+1264,44,monisha,"sahil, ye rhi tumhari gadhi, tumhara wallet or tumhara rumal. orr, ye rhe tumhare joote",neutral,"साहिल, ये रही तुम्हारी गढ़ी, तुम्हरा वॉलेट ओर तुम्हरा रुमाल. ओर, ये रहे तुम्हरे जूते"
+1265,44,sahil,i just don’t believe this. ye ghar ki halat kisne kar di hai,neutral,आई जस्ट दोन’टी बिलीव थिस. ये घर की हलत किसने कर दी है
+1266,44,monisha,mene kiya sahil. ekdum chakachak haina,joy,मेने किया साहिल. एकदुम चकाचक हैना
+1267,44,sahil,thanks a lot. finally tumne meri baat sunli. thanks a million,joy,थैंक्स आ लोट. फाइनल तुमने मेरी बात सुनली. थैंक्स आ मिलियन
+1268,44,monisha,"isme thanks kehne ki kya zarurat hai, ye to mera farz hai",joy,"इसमे थैंक्स कहने की क्या जरूरत है, ये तो मेरा फर्ज है"
+1269,44,sahil,haan haan lekin nibhaya to pehli baar na,neutral,हाँ हाँ लेकिन निभाया तो पहली बार ना
+1270,44,monisha,"to pehli baar hi to aa rhe hai, karan verma urf patang ji.",neutral,"तो पहली बार ही तो आ रहे है, कारण वर्मा उर्फ पतंग जी।"
+1271,44,sahil,"acha wo... kyaa. okay, matlab ye sari saaf safai tumne us patang ke liye ki hai",surprise,"अचा वो... क्या. ओके, मतलब ये सारी साफ सफाई तुमने यूएस पतंग के लिए की है"
+1272,44,monisha,"sahil, tumhe btaya to tha ki patang ji humare ghar aa rhe hai. contest",joy,"साहिल, तुम्हे बताया तो था की पतंग जी हमारे घर आ रहे है. कॉन्टेस्ट"
+1273,44,rosesh,"monisha bhabhi, ye... wow, amazing. patang ji ko welcome karne ki achi tayari ki hai aapne.",joy,"मोनिशा भाभी, ये... वो, अमेजिंग. पतंग जी को वेलकम करने की अची तयारी की है आपने।"
+1274,44,monisha,"haina. acha sahil, tum maaj clinic nhi gye to nhi chalega. acha theek hai chale jana. tiffin kitne baje bhejun",neutral,"हैना. अचा साहिल, तुम माज क्लिनिक नही गये तो नही चलेगा. अचा ठीक है चले जाना. टिफिन कितने बजे भेजूं"
+1275,44,sahil,"tiffin 2 baje, orr...",neutral,"टिफिन २ बजे, ओर..."
+1276,44,monisha,"patang ji aa gye. sahil, tum ye diya jalao please, jaldi se. or rosesh bhaiya, kavita",joy,"पतंग जी आ गये. साहिल, तुम ये दिया जलाओ प्लीज, जल्दी से. ओर रोसेश भैया, कविता"
+1277,44,rosesh,bas thodi si baki hai.,neutral,बस थोड़ी सी बाकी है।
+1278,44,monisha,"rosesh bhaiya me unka swagat kese karungi... aap bhi na. sahil jaldi karo. or rosesh bhaiya aap darwaza kholiye please lekin haan, teen baar kholiega darwaza, haan",joy,"रोसेश भैया मे उनका स्वागत केसे करूंगी... आप भी ना. साहिल जल्दी करो. ओर रोसेश भैया आप दरवाजा खोलिए प्लीज लेकिन हाँ, तीन बार खोलिएगा दरवाजा, हाँ"
+1279,44,rosesh,teen baar kyun,surprise,तीन बार क्यून
+1280,44,monisha,kyunki serial me patang ji ki entry pe teen baar darwaza khulta hai na... teen baar ho gya rosesh bhaiya hatiye na,joy,क्यूंकि सीरियल मे पतंग जी की एंट्री पे तीन बार दरवाजा खुलता है ना... तीन बार हो ग्या रोसेश भैया हटिए ना
+1281,44,patang/karan,"tv ke hum badshah to hai, diwani hui hai ladkiya kayi sari. kayi ke autograph liye to kayi ne photograph. lekin, ye arti, arti pehli baar hi kisi ne utari hai.",neutral,"टीवी के हम बादशाह तो है, दीवानी हुई है लड़किया काई सारी. काई के ऑटोग्राफ लिए तो काई ने फोटोग्राफ. लेकिन, ये आरती, आरती पहली बार ही किसी ने उतरी है।"
+1282,44,rosesh,"wow, nice one huh",joy,"वो, नाइस ओने हुह"
+1283,44,monisha,"shhh, aiye na, aiye na",joy,"श्ह, आइये ना, आइये ना"
+1284,44,monisha,"karan ji, karan ji, ye mere dewar hai, rosesh.",joy,"कारण जी, कारण जी, ये मेरे देवार है, रोसेश।"
+1285,44,patang/karan,hi,neutral,ही
+1286,44,rosesh,hi,neutral,ही
+1287,44,monisha,"or ye, ye mere pati hai. or me na...",joy,"ओर ये, ये मेरे पति है. ओर मे ना..."
+1288,44,patang/karan,"let me guess, you are monisha",neutral,"लेट मे ग्यूस, यू अरे मोनिशा"
+1289,44,monisha,aapko kese pta chala,surprise,आपको केसे पटा चला
+1290,44,pandit,"ye dono mard hai na to inka naam monisha ho nhi sakta. to mujhe laga ki shayad, shayad tum monisha ho.",neutral,"ये डोनो मर्द है ना तो इनका नाम मोनिशा हो नही सकता. तो मुझे लगा की शायद, शायद तुम मोनिशा हो।"
+1291,44,patang/karan,how intelligent na...,joy,होव इंटेलिजेंट ना...
+1292,44,sahil,"lekin aap khade kyun hai, bethiye na. aaiye aaiye.",neutral,"लेकिन आप खड़े क्यून है, बेठिये ना. आइये आइये।"
+1293,44,monisha,"ek min, ek min. hato...",fear,"एक मिन, एक मिन. हतो..."
+1294,44,sahil,ye kya tha,surprise,ये क्या था
+1295,44,patang/karan,"ye mera, entry music hai serial me. serial me mera naam patang hai.",neutral,"ये मेरा, एंट्री म्यूजिक है सीरियल मे. सीरियल मे मेरा नाम पतंग है।"
+1296,44,sahil,"oohh, matlab, jab bhi aapki entry hoti hai to yahi music bajta hai, lapet lapet",neutral,"ऊह्ह, मतलब, जब भी आपकी एंट्री होती है तो यही म्यूजिक बजता है, लपेट लपेट"
+1297,44,patang/karan,"yeah, infact agar dukh bhara scene hai to sad version bhi hai.",neutral,"याह, इनफैक्ट अगर दुख भरा सीन है तो सद वर्जन भी है।"
+1298,44,sahil,wo kya hai,neutral,वो क्या है
+1299,44,patang/karan,lapet.... lapet..... lapet bas,sadness,लपेट.... लपेट..... लपेट बस
+1300,44,monisha,"rosesh bhaiya, photo khinchiye na",joy,"रोसेश भैया, फोटो खींचिए ना"
+1301,44,patang/karan,ek alag pose ho jaye,neutral,एक अलग पोज हो जाए
+1302,44,sahil,monisha me office ja rha hun.,sadness,मोनिशा मे ऑफिस जा रहा हुन।
+1303,44,monisha,ek or,joy,एक ओर
+1304,44,patang/karan,yeah yeah sure,neutral,याह याह सुरे
+1305,44,monisha,wo ese wala,neutral,वो एसे वाला
+1306,45,rosesh,momma!,sadness,मोम्मा!
+1307,45,maya,"rosesh, hausla rakho, sweetie",neutral,"रोसेश, हौसला रखो, स्वीटी"
+1308,45,rosesh,"kaise rakhun hausla, momma?",sadness,"कैसे राखून हौसला, मोम्मा?"
+1309,45,maya,"control yourself, sweetie.",neutral,"कंट्रोल योरसेल्फ, स्वीटी।"
+1310,45,rosesh,"kaise karun control, momma?",sadness,"कैसे करून कंट्रोल, मोम्मा?"
+1311,45,maya,"beta, samajhne ki koshish karo.",neutral,"बेटा, समझने की कोशिश करो।"
+1312,45,rosesh,"kaise samajhne ki koshish karun, momma?",sadness,"कैसे समझने की कोशिश करून, मोम्मा?"
+1313,45,indu,"teen mein se ek bhi cheez karni nahin aati hai tujhe?humesha puchta rehta hai “kaise karun momma?”. maya, iski shaadi ho gayi to kya hoga?",contempt,"तीन में से एक भी चीज करनी नहीं आती है तुझे?हमेशा पूछता रहता है “कैसे करून मोम्मा?”. माया, इसकी शादी हो गयी तो क्या होगा?"
+1314,45,maya,"indu, please! just shut up! ek to bechare ka visa reject ho gaya hai",sadness,"इंदु, प्लीज! जस्ट शूट यूपी! एक तो बेचारे का विसा रिजेक्ट हो गया है"
+1315,45,indu,"wo to hona hi tha, maine isse keha tha ki visa office karke samne burqa pehenke jaana,phir bhi usne apna chehera dikhaya, phir bhi upar se munh bhi khola, “hi, i want to visit my parrot uncle in the u.s.”",contempt,"वो तो होना ही था, मैने इस्से केहा था की विसा ऑफिस करके सामने बुर्का पहनके जाना,फिर भी उसने अपना चेहेरा दिखाया, फिर भी उपर से मुंह भी खोला, “ही, आई वांट तो विसित माई पैरट अंकल इन थे उ.एस.”"
+1316,45,maya,baqwas band karo indu aur kuch kaam karo. jao. paani le aao.,anger,बकवास बंद करो इंदु और कुच काम करो. जाओ. पानी ले आओ।
+1317,45,indu,main mard hoon.,anger,मैं मर्द हूँ।
+1318,45,maya,"pata hai, lekin ab iska kuch nahin ho sakta hai. tumhein isko accept karni hi hogi.",neutral,"पता है, लेकिन अब इसका कुच नहीं हो सकता है. तुम्हें इसको एक्सेप्ट करनी ही होगी।"
+1319,45,rosesh,ab kitne din ke liye jaa rahi hain?,sadness,अब कितने दिन के लिए जा रही हैं?
+1320,45,maya,ek mahina to lagega na,neutral,एक महीना तो लगेगा ना
+1321,45,rosesh,"ek mahina! main to adha mar jaunga, momma.",sadness,"एक महीना! मैं तो आधा मार जाऊंगा, मोम्मा।"
+1322,45,indu,"maya, in that case, tum do mahine ke liye kyon nahin nikali jaati?",neutral,"माया, इन थाट केस, तुम दो महीने के लिए क्यों नहीं निकाली जाती?"
+1323,45,maya,"indravadhan, please! answer the phone.",anger,"इन्द्रवधन, प्लीज! एंसवर थे फोन।"
+1324,45,indu,main mard hoon. kaun? viren?,neutral,मैं मर्द हूँ. कौन? वीरेन?
+1325,45,maya,viren! kya hua?,fear,वीरेन! क्या हुआ?
+1326,45,monisha,"popat kaka guzar gaye, sahil.",sadness,"पोपट काका गुजर गये, साहिल।"
+1327,45,sahil,"ah, i know that. chalo, apne aapk ko sambhalo.",neutral,"अह, आई नोव थाट. चलो, अपने आपक को संभालो।"
+1328,45,monisha,hum log los angeles nahin ja rahe hain.,sadness,हम लोग लॉस एंजिल्स नहीं जा रहे हैं।
+1329,45,sahil,hm.,neutral,एचएम।
+1330,45,monisha,hum shok yahin manayenge.,sadness,हम शोक यहीं मनाएंगे।
+1331,45,sahil,to?,neutral,तो?
+1332,45,monisha,to kya? los angeles mein main main? sabun sirf do dollar dozen hain. chance gaya na.,sadness,तो क्या? लॉस एंजिल्स में मैं मैं? साबुन सिर्फ दो डॉलर डोजन हैं. चांस गया ना।
+1333,45,sahil,"shaant ho jaiye, mom.",neutral,"शांत हो जाइए, मोम।"
+1334,45,rosesh,"honi ko kaun taal sakta hai, momma.",neutral,"होनी को कौन ताल सकता है, मोम्मा।"
+1335,45,indu,"haan, rosesh ko dekho na.",contempt,"हाँ, रोसेश को देखो ना।"
+1336,45,maya,mujhe apne kande par bithakar ice cream khilane le jaate the popat kaka.,sadness,मुझे अपने कंडे पर बिठाकर इसे क्रीम खिलाने ले जाते थे पोपट काका।
+1337,45,sahil,"mom jab choti thi na, tab.",neutral,"मोम जब छोटी थी ना, तब।"
+1338,45,monisha,"accha, tab.",neutral,"अच्छा, तब।"
+1339,45,maya,"you know, mera kanyadaan bhi, unhone kiya tha, aur wo diamond ka set hai na,jo maine tumhein diya monisha",sadness,"यू नोव, मेरा कन्यादान भी, उन्होंने किया था, और वो डायमंड का सेट है ना,जो मैने तुम्हें दिया मोनिशा"
+1340,45,monisha,kaun sa?,neutral,कौन सा?
+1341,45,maya,"wohin, jo tum artificial silk ki salwar camiz par pehenti ho.wo bhi mujhe popat kaka ne diya tha. main unki ladli thi.",sadness,"वोहीं, जो तुम आर्टिफिशियल सिल्क की सलवार कैमिज़ पर पहनती हो.वो भी मुझे पोपट काका ने दिया था. मैं उनकी लाडली थी।"
+1342,45,monisha,hongi. tabhi to unhone aisi shararti pet names se bulane ki himmat kar sakti hain aap –popat kaka.,neutral,होंगी. तभी तो उन्होंने ऐसी शरारती पेट नेम्स से बुलाने की हिम्मत कर सकती हैं आप –पोपट काका।
+1343,45,sahil,"monisha, yahi unki asli naam tha",neutral,"मोनिशा, यही उनकी असली नाम था"
+1344,45,monisha,popat?,surprise,पोपट?
+1345,45,maya,"gujaratiyon mein buzargon ke aise hi naam hote hain haathi bhai, gujara lal",neutral,"गुजरातियों में बुजर्गों के ऐसे ही नाम होते हैं हाथी भाई, गुजारा लाल"
+1346,45,indu,"haan, humari ek mami ka naam to mirchi mami tha. bahut darti thi wo popat kaka se.you know, mirchi, popat.",joy,"हाँ, हमारी एक मामी का नाम तो मिर्ची मामी था. बहुत डरती थी वो पोपट काका से.यू नोव, मिर्ची, पोपट।"
+1347,45,maya,ghar mein dehant hua hai,sadness,घर में देहांत हुआ है
+1348,45,indu,"haan, maya. main to mahaul relax karne ki koshish kar raha hoon.",neutral,"हाँ, माया. मैं तो माहौल रिलैक्स करने की कोशिश कर रहा हूँ।"
+1349,46,monish,sahil sahil sahil. sirf 4 din bache hai or sari ladkiyan khatam ho gyi hai,fear,साहिल साहिल साहिल. सिर्फ ४ दिन बचे है ओर सारी लड़कियां खतम हो गयी है
+1350,46,sahil,haan lekin mom unn charo me se kisi ek ko finalise kar lengi.,neutral,हाँ लेकिन मोम उन्न चारो मे से किसी एक को फाइनलाइज कर लेंगी।
+1351,46,monish,mummy ji ko to unme se koi pasand nhi hai,sadness,मम्मी जी को तो उन्मे से कोई पसंद नही है
+1352,46,sahil,rosesh ko?,neutral,रोसेश को?
+1353,46,monish,"unhe to charo pasand hai. wese sahil, waqt beeta jaa rha hai. rosesh bhaiya bhot pareshan hai ki kon banegi unki dulhan. pta hai unhone khana peena tak chorr diya hai",fear,"उन्हे तो चारो पसंद है. वेसे साहिल, वक्त बीता जा रहा है. रोसेश भैया भोट परेशन है की कोन बनेगी उनकी दुल्हन. पटा है उन्होंने खाना पीना तक चोर दिया है"
