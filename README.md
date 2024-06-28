@@ -15,7 +15,7 @@ We observe that HingRoberta performs the best with a weighted-F1 score of 0.45.
 
 ## Authors
 
-- [Pooja Premnath](https://github.com/PoojaPremnath2003)
+- [Pooja Premnath](https://github.com/pooja-premnath)
 - [Y.V. Ojus](https://github.com/Ojus999)
 - [Parthiban M.](https://github.com/Parthiee)
 
